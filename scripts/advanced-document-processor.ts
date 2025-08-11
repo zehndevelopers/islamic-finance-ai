@@ -17,9 +17,9 @@ const DEFAULT_OPTIONS: ProcessingOptions = {
   titlePrefix: "Islamic Finance",
 };
 
-const SUPABASE_URL = "http://127.0.0.1:54321";
+const SUPABASE_URL = "https://csmndybaxxoxqrcsbeqf.supabase.co";
 const SUPABASE_SERVICE_KEY =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZS1kZW1vIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImV4cCI6MTk4MzgxMjk5Nn0.EGIM96RAZx35lJzdJsyH-qQwv8Hdp7fsn3W0YpN81IU";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNzbW5keWJheHhveHFyY3NiZXFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ5MTA0NTEsImV4cCI6MjA3MDQ4NjQ1MX0.y7Uz-yIo0x5GsMcdRxuGCEbjP1dr1tbAJekGEMoLR50";
 
 async function convertDocxToText(docxPath: string): Promise<string> {
   console.log("🔄 Converting DOCX to text using pandoc...");
