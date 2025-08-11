@@ -1,17 +1,9 @@
 import React from "react";
 import { Button } from "@/components/ui/button";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { Separator } from "@/components/ui/separator";
 import { ChatSession } from "@/types";
 import { formatTimestamp, truncateText } from "@/lib/utils";
-import {
-  Plus,
-  MessageSquare,
-  Trash2,
-  Settings,
-  MoonStar,
-  MoreVertical,
-} from "lucide-react";
+import { Plus, MessageSquare, Trash2, Settings, MoonStar } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 interface SidebarProps {
@@ -31,8 +23,8 @@ export function Sidebar({
   onSelectSession,
   onDeleteSession,
   className,
-  isLoading = false,
-}: SidebarProps) {
+}: // isLoading = false,
+SidebarProps) {
   const [hoveredSession, setHoveredSession] = React.useState<string | null>(
     null
   );

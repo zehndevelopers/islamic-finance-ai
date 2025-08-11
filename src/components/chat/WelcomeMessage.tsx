@@ -1,4 +1,3 @@
-import React from "react";
 import { WELCOME_MESSAGE } from "@/lib/constants";
 import { MoonStar, Sparkles } from "lucide-react";
 

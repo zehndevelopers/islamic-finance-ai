@@ -20,7 +20,7 @@ interface HeaderProps {
 
 export function Header({
   onToggleSidebar,
-  sidebarOpen = true,
+  // sidebarOpen = true,
   className,
 }: HeaderProps) {
   const [isDark, setIsDark] = React.useState(false);

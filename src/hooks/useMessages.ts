@@ -46,7 +46,7 @@ export function useMessages(sessionId: string | null) {
           table: "messages",
           filter: `session_id=eq.${sessionId}`,
         },
-        (payload) => {
+        () => {
           // Invalidate and refetch messages when changes occur
           queryClient.invalidateQueries({ queryKey: ["messages", sessionId] });
         },
