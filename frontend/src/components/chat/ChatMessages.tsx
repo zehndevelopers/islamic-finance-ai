@@ -1,48 +1,48 @@
-import React from 'react'
-import { Message } from '@/types'
-import { MessageBubble } from './MessageBubble'
-import { ScrollArea } from '@/components/ui/scroll-area'
-import { WelcomeMessage } from './WelcomeMessage'
-import { QuickActions } from './QuickActions'
-import { Loader2 } from 'lucide-react'
+import React from "react";
+import { Message } from "@/types";
+import { MessageBubble } from "./MessageBubble";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { WelcomeMessage } from "./WelcomeMessage";
+import { QuickActions } from "./QuickActions";
+import { Loader2 } from "lucide-react";
 
 interface ChatMessagesProps {
-  messages: Message[]
-  isLoading?: boolean
-  onCopyMessage?: (content: string) => void
-  onQuickAction?: (prompt: string) => void
-  showWelcome?: boolean
+  messages: Message[];
+  isLoading?: boolean;
+  onCopyMessage?: (content: string) => void;
+  onQuickAction?: (prompt: string) => void;
+  showWelcome?: boolean;
 }
 
-export function ChatMessages({ 
-  messages, 
+export function ChatMessages({
+  messages,
   isLoading = false,
   onCopyMessage,
   onQuickAction,
-  showWelcome = false
+  showWelcome = false,
 }: ChatMessagesProps) {
-  const messagesEndRef = React.useRef<HTMLDivElement>(null)
+  const messagesEndRef = React.useRef<HTMLDivElement>(null);
 
   // Auto-scroll to bottom when new messages arrive
   React.useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [messages])
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages]);
 
   const handleCopyMessage = (content: string) => {
-    navigator.clipboard.writeText(content)
-    onCopyMessage?.(content)
-  }
+    navigator.clipboard.writeText(content);
+    onCopyMessage?.(content);
+  };
 
   if (showWelcome && messages.length === 0) {
     return (
       <div className="flex-1 flex flex-col">
         <WelcomeMessage />
-        <QuickActions 
+        <QuickActions
           onActionClick={onQuickAction || (() => {})}
           disabled={isLoading}
         />
       </div>
-    )
+    );
   }
 
   return (
@@ -71,5 +71,5 @@ export function ChatMessages({
         <div ref={messagesEndRef} />
       </div>
     </ScrollArea>
-  )
+  );
 }

@@ -87,13 +87,20 @@ export function WelcomeMessage() {
                         </p>
                       );
                     }
-                    return <br key={index} />;
+                    return (
+                      <div
+                        key={index}
+                        className="h-2"
+                        aria-hidden="true"
+                        style={{ lineHeight: "1", margin: 0, padding: 0 }}
+                      />
+                    );
                   })}
                 </div>
               </div>
 
               {/* Features Grid */}
-              <div className="grid grid-cols-2 gap-4 mt-6">
+              {/* <div className="grid grid-cols-2 gap-4 mt-6">
                 <div className="bg-islamic-green-50 rounded-lg p-4 text-center">
                   <div className="text-2xl mb-2">📚</div>
                   <div className="text-sm font-medium text-islamic-green-800">
@@ -130,7 +137,7 @@ export function WelcomeMessage() {
                     Islamic contract types
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

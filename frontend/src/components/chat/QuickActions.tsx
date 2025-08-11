@@ -45,9 +45,9 @@ export function QuickActions({
   return (
     <div className="p-6 bg-gradient-to-br from-islamic-green-50 to-islamic-teal-50">
       <div className="max-w-4xl mx-auto">
-        <h3 className="text-lg font-semibold text-islamic-green-800 mb-4 text-center">
+        {/* <h3 className="text-lg font-semibold text-islamic-green-800 mb-4 text-center">
           Quick Actions
-        </h3>
+        </h3> */}
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
           {QUICK_ACTIONS.map((action) => {
@@ -60,7 +60,7 @@ export function QuickActions({
                 disabled={disabled}
                 onClick={() => onActionClick(action.prompt)}
                 className={`
-                  h-auto p-4 flex flex-col items-start gap-2 text-left
+                  h-auto p-4 flex flex-col items-start gap-2 text-left text-wrap
                   ${getCategoryColor(action.category)}
                   transition-all duration-200 hover:scale-105 hover:shadow-md
                 `}

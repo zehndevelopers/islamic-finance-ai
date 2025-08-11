@@ -1,14 +1,14 @@
 export interface Message {
   id: string;
   content: string;
-  role: 'user' | 'assistant';
+  role: "user" | "assistant";
   timestamp: Date;
-  status: 'sending' | 'sent' | 'error';
+  status: "sending" | "sent" | "error";
   citations?: Citation[];
 }
 
 export interface Citation {
-  type: 'quran' | 'hadith' | 'fiqh' | 'document';
+  type: "quran" | "hadith" | "fiqh" | "document";
   reference: string;
   text?: string;
 }
@@ -36,7 +36,7 @@ export interface QuickAction {
   description: string;
   prompt: string;
   icon: string;
-  category: 'banking' | 'investment' | 'contracts' | 'general';
+  category: "banking" | "investment" | "contracts" | "general";
 }
 
 export interface ApiResponse {

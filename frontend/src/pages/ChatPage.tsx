@@ -9,8 +9,9 @@ import { Sidebar } from "@/components/layout/Sidebar";
 import { ChatMessages } from "@/components/chat/ChatMessages";
 import { ChatInput } from "@/components/chat/ChatInput";
 import { cn } from "@/lib/utils";
+import { useNavigate } from "react-router-dom";
 
-export function ChatPage() {
+export function ChatPage({ showWelcome = true }: { showWelcome?: boolean }) {
   const [sidebarOpen, setSidebarOpen] = React.useState(true);
   const [inputValue, setInputValue] = React.useState("");
 
@@ -20,10 +21,12 @@ export function ChatPage() {
     sessions,
     createSession,
     deleteSession,
-    isLoading: isSessionsLoading
+    isLoading: isSessionsLoading,
   } = useSessions();
-  const { messages, isLoading: isMessagesLoading } = useMessages(currentSessionId);
+  const { messages, isLoading: isMessagesLoading } =
+    useMessages(currentSessionId);
   const { sendMessage, isLoading: isSending } = useChat();
+  const navigate = useNavigate();
 
   // Create initial session if none exists and user is authenticated
   React.useEffect(() => {
@@ -32,7 +35,13 @@ export function ChatPage() {
         setCurrentSession(session.id);
       });
     }
-  }, [user, sessions.length, isSessionsLoading, createSession, setCurrentSession]);
+  }, [
+    user,
+    sessions.length,
+    isSessionsLoading,
+    createSession,
+    setCurrentSession,
+  ]);
 
   // Set current session to first available if none selected
   React.useEffect(() => {
@@ -45,6 +54,8 @@ export function ChatPage() {
     try {
       const session = await createSession("New Chat");
       setCurrentSession(session.id);
+
+      navigate(`/chat/${session.id}`);
     } catch (error) {
       console.error("Failed to create session:", error);
     }
@@ -52,6 +63,7 @@ export function ChatPage() {
 
   const handleSelectSession = (sessionId: string) => {
     setCurrentSession(sessionId);
+    navigate(`/chat/${sessionId}`);
   };
 
   const handleDeleteSession = async (sessionId: string) => {
@@ -62,6 +74,7 @@ export function ChatPage() {
         const remainingSessions = sessions.filter((s) => s.id !== sessionId);
         if (remainingSessions.length > 0) {
           setCurrentSession(remainingSessions[0].id);
+          navigate("/chat");
         } else {
           setCurrentSession(null);
           await handleNewChat();
@@ -113,7 +126,7 @@ export function ChatPage() {
         >
           <Sidebar
             sessions={sessions}
-            currentSessionId={currentSessionId || ''}
+            currentSessionId={currentSessionId || ""}
             onNewChat={handleNewChat}
             onSelectSession={handleSelectSession}
             onDeleteSession={handleDeleteSession}
@@ -128,18 +141,19 @@ export function ChatPage() {
         <div className="flex-1 flex flex-col bg-white">
           {/* Messages */}
           <ChatMessages
-            messages={messages.map(msg => ({
+            messages={messages.map((msg) => ({
               id: msg.id,
               content: msg.content,
               role: msg.role,
               timestamp: new Date(msg.created_at),
-              status: 'sent' as const,
-              citations: (msg.metadata as { citations?: any[] })?.citations || []
+              status: "sent" as const,
+              citations:
+                (msg.metadata as { citations?: any[] })?.citations || [],
             }))}
             isLoading={isSending || isMessagesLoading}
             onCopyMessage={handleCopyMessage}
             onQuickAction={handleQuickAction}
-            showWelcome={!messages.length}
+            showWelcome={showWelcome}
           />
 
           {/* Input */}
@@ -148,7 +162,7 @@ export function ChatPage() {
             onChange={setInputValue}
             onSubmit={handleSendMessage}
             isLoading={isSessionsLoading}
-            disabled={!inputValue.trim() || isSending || !currentSessionId}
+            disabled={isSending || !currentSessionId}
           />
         </div>
       </div>

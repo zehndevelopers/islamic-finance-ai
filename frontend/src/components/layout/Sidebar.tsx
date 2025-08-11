@@ -128,13 +128,13 @@ export function Sidebar({
                   </div>
 
                   {/* Message count indicator */}
-                  {session.messages.length > 0 && (
+                  {/* {session.messages.length > 0 && (
                     <div className="absolute top-2 right-2">
                       <span className="inline-flex items-center justify-center w-5 h-5 text-xs bg-islamic-green-200 text-islamic-green-700 rounded-full">
                         {session.messages.length}
                       </span>
                     </div>
-                  )}
+                  )} */}
                 </div>
               ))}
             </div>

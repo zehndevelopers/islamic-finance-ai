@@ -57,13 +57,10 @@ export const QUICK_ACTIONS: QuickAction[] = [
 export const WELCOME_MESSAGE = `Welcome to Islamic Finance AI! 🌙
 
 I'm your expert consultant specializing in Islamic finance and Sharia principles. I can help you with:
-
-• **Islamic Banking** - Qard Hasan, Mudaraba, Musharaka
-• **Halal Investments** - Sukuk, Sharia-compliant portfolios
-• **Islamic Contracts** - Ijara, Salam, Istisna
-• **Fiqh Guidance** - Religious rulings on financial matters
-
-Feel free to ask any questions about Islamic finance, and I'll provide answers based on Quranic principles, authentic Hadith, and established fiqh rulings.
+• Islamic Banking - Qard Hasan, Mudaraba, Musharaka
+• Halal Investments - Sukuk, Sharia-compliant portfolios
+• Islamic Contracts - Ijara, Salam, Istisna
+• Fiqh Guidance - Religious rulings on financial matters
 
 How can I assist you today?`;
 
@@ -73,7 +70,7 @@ export const API_ENDPOINTS = {
 };
 
 export const STORAGE_KEYS = {
-  CURRENT_SESSION: 'islamic-fin-ai-current-session',
-  USER_PREFERENCES: 'islamic-fin-ai-preferences',
-  THEME: 'islamic-fin-ai-theme'
+  CURRENT_SESSION: "islamic-fin-ai-current-session",
+  USER_PREFERENCES: "islamic-fin-ai-preferences",
+  THEME: "islamic-fin-ai-theme",
 } as const;
