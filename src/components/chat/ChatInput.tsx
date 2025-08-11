@@ -79,7 +79,7 @@ export function ChatInput({
           {/* Send Button */}
           <Button
             onClick={handleSubmit}
-            disabled={!value.trim() || isLoading || disabled}
+            disabled={isLoading || disabled}
             variant="islamic"
             size="icon"
             className="h-11 w-11 shrink-0"
