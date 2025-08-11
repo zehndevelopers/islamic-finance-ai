@@ -106,7 +106,6 @@ async function generateResponse(
 1. **Executive Summary** (main answer in 1-2 sentences)
 2. **Details** (necessary Sharia and jurisprudential explanation when required)
 3. **Sharia Foundation** (Quranic verse, hadith, or fiqh source reference, e.g., *"Quran, Surah Al-Baqarah, verse 275"* or *"Sahih Muslim, hadith 2212"*)
-4. **Language** (respond in the same language as the question)
 
 ## Style Guidelines:
 
