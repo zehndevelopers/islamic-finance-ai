@@ -14,7 +14,7 @@ const DEFAULT_OPTIONS: ProcessingOptions = {
   chunkSize: 3000, // Maximum characters per chunk
   overlap: 200, // Overlap between chunks
   minChunkSize: 500, // Minimum chunk size
-  titlePrefix: "Mehnat kodeksi",
+  titlePrefix: "Islamic Finance",
 };
 
 const SUPABASE_URL = "http://127.0.0.1:54321";
@@ -98,7 +98,7 @@ function smartChunking(
       if (currentChunk.length + paragraph.length > options.chunkSize) {
         if (currentChunk.length >= options.minChunkSize) {
           const title = extractTitle(currentChunk) ||
-            `${options.titlePrefix} - Bo'lim ${chunkIndex}`;
+            `${options.titlePrefix} - Chapter ${chunkIndex}`;
           chunks.push({
             title,
             content: currentChunk.trim(),
@@ -117,7 +117,7 @@ function smartChunking(
     // Add final chunk
     if (currentChunk.length >= options.minChunkSize) {
       const title = extractTitle(currentChunk) ||
-        `${options.titlePrefix} - Bo'lim ${chunkIndex}`;
+        `${options.titlePrefix} - Chapter ${chunkIndex}`;
       chunks.push({
         title,
         content: currentChunk.trim(),
@@ -138,23 +138,25 @@ function extractTitle(text: string): string | null {
     /(\d+[-.]?\s*modda[.\s]*[–-]?\s*([^\n]+))/i,
   );
   if (articleMatch) {
-    return `Mehnat kodeksi - ${articleMatch[1]}${
+    return `Islamic Finance - ${articleMatch[1]}${
       articleMatch[2] ? " - " + articleMatch[2].trim() : ""
     }`;
   }
 
   // Look for chapter/section pattern
   const chapterMatch = lines[0]?.match(
-    /(I+\s*bob|I+\s*qism|I+\s*bo'lim|[IVX]+\s*bob)/i,
+    /(Part\s*[A-Z]|Section\s*\d+|Chapter\s*[IVX0-9]+|\d+\.\s*[A-Za-z]|[IVX]+\s*\.|Applicable\s*to:|Introduction|Concept\s*Paper)/i,
   );
   if (chapterMatch) {
-    return `Mehnat kodeksi - ${chapterMatch[1]} - ${lines[0].substring(0, 50)}`;
+    return `Islamic Finance - ${chapterMatch[1]} - ${
+      lines[0].substring(0, 50)
+    }`;
   }
 
   // Use first meaningful line
   const firstLine = lines[0];
   if (firstLine && firstLine.length > 10 && firstLine.length < 100) {
-    return `Mehnat kodeksi - ${firstLine}`;
+    return `Islamic Finance - ${firstLine}`;
   }
 
   return null;
@@ -271,7 +273,7 @@ if (import.meta.main) {
   const args = Deno.args;
 
   if (args.length === 0) {
-    console.log("📄 Advanced Document Processor for Yurist AI");
+    console.log("📄 Advanced Document Processor for Islamic Finance AI");
     console.log("");
     console.log("Usage:");
     console.log(
@@ -284,10 +286,10 @@ if (import.meta.main) {
     console.log("");
     console.log("Examples:");
     console.log(
-      "  deno run --allow-read --allow-net --allow-write --allow-run scripts/advanced-document-processor.ts mehnat-kodeksi.docx",
+      "  deno run --allow-read --allow-net --allow-write --allow-run scripts/advanced-document-processor.ts islamic-finance-doc.docx",
     );
     console.log(
-      "  deno run --allow-read --allow-net --allow-write --allow-run scripts/advanced-document-processor.ts mehnat-kodeksi.txt",
+      "  deno run --allow-read --allow-net --allow-write --allow-run scripts/advanced-document-processor.ts islamic-finance-doc.txt",
     );
     console.log("");
     console.log("Install pandoc for .docx support:");

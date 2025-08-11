@@ -1,0 +1,752 @@
+
+![](https://web-api.textin.com/ocr_image/external/27d7699e763c8800.jpg)
+
+Qard 
+
+Concept Paper
+
+Applicable to:
+
+1. Licensed Islamic banks (including licensed international Islamic banks)
+
+2. Licensed takaful operators 
+
+3. Licensed banks and licensed investment banks carrying on Islamic banking business
+
+4. Prescribed institutions carrying on Islamic financial business
+
+<!-- Issued on: 21 January 2016  BNM/RH/CP 028-19 -->
+
+<!-- Qard – Concept Paper -->
+
+As part of the objective to strengthen the Shariah-compliance practice among Islamic financial institutions (IFIs), Bank Negara Malaysia (the Bank) is developing a Shariah-based regulatory policy with the objective to provide a comprehensive guidance to the Islamic financial industry with respect to end-to-end compliance with Shariah. 
+
+This concept paper (CP) consists of two components, Shariah and operational requirements with respect to the operationalisation of qard contract. The Shariah requirements highlight the salient features and optional practices of a valid Shariah contract to facilitate sound understanding of a particular contract by the IFI. The operational requirements outline the regulatory expectations with respect to the governance and oversight, structuring, risk management, business and market conduct as well as financial disclosure. 
+
+The Bank invites written feedback and comments on Part C i.e. the operational requirements of qard contract, including suggestions for particular issues/areas to be clarified or elaborated further and any alternative proposals that the Bank should consider. The Shariah requirements in Part B serves as reference to facilitate the IFIs in providing feedback and comments on operational aspects of qard in line with the Shariah requirements. To facilitate the Bank’s assessment, please support each comment with a clear rationale, accompanying evidence or illustration, as appropriate. 
+
+Responses shall be submitted to the Bank by 22 February 2016 to: 
+
+Pengarah
+
+Jabatan Perbankan Islam dan Takaful
+
+Bank Negara Malaysia
+
+Jalan Dato' Onn 
+
+50480 Kuala Lumpur 
+
+Email: nurulizza@bnm.gov.my 
+
+rufaidah@bnm.gov.my
+
+Electronic submission is encouraged. Submissions received may be made public unless confidentiality is specifically requested for the whole or part of the submission.
+
+<!-- Qard – Concept Paper -->
+
+# Table of Contents 
+
+PART A OVERVIEW .............................................................................................. 4 
+
+1. Introduction ............................................................................................... 4 
+
+2. Applicability .............................................................................................. 4 
+
+3. Legal provisions ....................................................................................... 4 
+
+4. Effective date ............................................................................................ 5 
+
+5. Interpretation ............................................................................................ 5 
+
+6. Related legal instruments and policy documents ..................................... 5 
+
+PART B SHARIAH REQUIREMENTS AND OPTIONAL PRACTICES ................. 6 
+
+7. Definition .................................................................................................. 6 
+
+8. Nature....................................................................................................... 6 
+
+9. Components of qard contract ................................................................... 6 
+
+10. Contracting parties ................................................................................... 6 
+
+11. Offer (ijab) and acceptance (qabul) .......................................................... 7 
+
+12. Money....................................................................................................... 7 
+
+13. Salient features of qard contract ............................................................... 7 
+
+14. Arrangement of qard with fee (ujrah) ........................................................ 9 
+
+15. Completion (intiha’) of qard contract ......................................................... 9 
+
+PART C OPERATIONAL REQUIREMENTS ....................................................... 11
+
+16. Governance and oversight ..................................................................... 11
+
+17. Structuring .............................................................................................. 12 
+
+18. Risk management .................................................................................. 15 
+
+19. Business and market conduct ................................................................ 16 
+
+20. Financial disclosure ................................................................................ 17 
+
+21. Transition arrangement .......................................................................... 17 
+
+Appendix 1 Legitimacy of qard contract ............................................................ 19 
+
+Appendix 2 Glossary ............................................................................................ 20 
+
+Appendix 3 Illustration on actual cost ................................................................ 20 
+
+<!-- Qard – Concept Paper 4 of 20  -->
+
+# PART A OVERVIEW 
+
+## 1. Introduction 
+
+1.1 Compliance with Shariah requirement is a prerequisite for ensuring the legitimacy and integrity of Islamic financial products and services. It is essential for an Islamic financial institution (IFI) to establish sound operational framework and infrastructure to ensure that the conduct of the IFI is consistent with Shariah. 
+
+1.2 The Shariah contract-based regulatory policy is intended to promote consistency of Shariah contract application in Islamic financial products and services. This policy is envisaged to strengthen legal certainty and Shariah compliance practices by IFIs. 
+
+1.3 This policy document aims to– 
+
+(a) provide reference on the Shariah rulings applicable to qard; 
+
+(b) set out key operational requirements for the implementation of qard; and 
+
+(c) promote end-to-end compliance with Shariah requirements, which further promote sound banking practices and safeguard consumer interests. 
+
+### 1.4 This policy document sets out the following: 
+
+(a) salient features and essential conditions of qard in Part B;
+
+(b) regulatory and supervisory expectations for the operational requirements on governance and oversight, structuring, risk management, business and market conduct as well as financial disclosure in Part C. 
+
+1.5 This policy document also prescribes the requirements for transitioning wadi`ah yad dhamanah involving fungible asset to qard. 
+
+## 2. Applicability
+
+2.1 This policy document is applicable to all IFIs as defined in paragraph 5.2.
+
+## 3. Legal provisions 
+
+### 3.1 The requirements in this policy document are specified pursuant to–
+
+(a) sections 29, 57 and 135 of the Islamic Financial Services Act 2013(IFSA); and 
+
+(b) section 41(1) of the Development Financial Institutions Act 2002(DFIA), which constitutes a direction pursuant to section 129(3) of DFIA. 
+
+3.2 The guidance in this policy document is issued pursuant to section 277 of the IFSA and section 126 of the DFIA. 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 5 of 20  -->
+
+## 4. Effective date 
+
+4.1 This policy document comes into effect upon issuance of the final document. 
+
+## 5. Interpretation 
+
+5.1 The terms and expressions used in this policy document must have the same meanings as assigned under the Financial Services Act 2013 (FSA), IFSA and DFIA, as the case may be, unless otherwise defined in this policy document. 
+
+5.2 For the purpose of this policy document– 
+
+“S” 
+
+denotes a standard, an obligation, a requirement, specification,direction, condition and any interpretative, supplemental and transitional provisions that must be complied with. Non-compliance may result in enforcement actions; 
+
+“ $G"$  denotes guidance which may consist of statements or information,intended to promote common understanding and advice or recommendations that are encouraged to be adopted; 
+
+“actual cost” means the actual amount paid or expenses incurred by IFIs in accomplishing the qard transaction; 
+
+“Islamic financial institution” or $"IFI"$ means–
+
+(a) licensed Islamic banks;
+
+(b) licensed takaful operators and professional retakaful operators; 
+
+(c) licensed banks and licensed investment banks approved under section 15(1)(a) of the FSA to carry on Islamic banking business; and 
+
+(d) prescribed institutions approved under section 129(1) of the DFIA to carry on Islamic banking business or Islamic financial business. 
+
+5.3 A glossary of terms used in this policy document is set out in Appendix 2.
+
+## 6. Related legal instruments and policy documents
+
+6.1 This policy document must be read together with other relevant legal  instruments and policy documents that have been issued by the Bank. 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 6 of 20  -->
+
+### PART B SHARIAH REQUIREMENTS AND OPTIONAL PRACTICES 
+
+## 7. Definition 
+
+S 7.1 Qard refers to a contract of lending money by a lender to a borrower where  the latter is bound to return an equivalent replacement amount to the lender. 
+
+G 7.2 Money may include cash, all forms of currency, gold and silver.
+
+## 8. Nature 
+
+S 8.1 A qard contract is established when ownership of a sum of money belonging to the lender is transferred to the borrower which gives the effect of the borrower having an obligation to repay the lender in full. 
+
+S 8.2 The inherent nature of a qard contract is the obligation of the borrower to  return the money borrowed in full. 
+
+S 8.3 Terms and conditions of the qard contract that have been mutually agreed upon between the contracting parties and consistent with the Shariah must be binding on the contracting parties. 
+
+## 9. Components of qard contract 
+
+S 9.1 Qard contract must consist of the following components: 
+
+(a) contracting parties, comprising lender and borrower; 
+
+(b) offer (ijab) and acceptance (qabul); and 
+
+(c) money. 
+
+## 10. Contracting parties 
+
+S 10.1 The parties in a qard contract must be a lender and a borrower (collectively referred to as “contracting parties”). 
+
+S 10.2 The lender must be the owner of the money to be lent to the borrower under the qard contract. 
+
+S 10.3 The contracting parties must be a natural person or a legal entity that must have the legal capacity1 to enter into the qard contract. 
+
+ Legal capacity of a person, from Shariah perspective, is defined as the capacity to assume rights and responsibilities and capacity to give legal effect to his action. Among the important conditions are that the person must possess sound mind and the capacity to distinguish between what is harmful or beneficial to one’s interests. Legal capacity of a legal entity is defined as eligibility of an entity to acquire rights and assume responsibilities. In Malaysia, this legal capacity is subject to the Contracts Act 1950 and the Age of Majority Act 1971. 
+
+Issued on: 21 January 2016 
+
+<!-- Qard – Concept Paper 7 of 20  -->
+
+G 10.4 Any party to the qard contract may enter into the contract through an agent (wakil). 
+
+## 11. Offer (ijab) and acceptance (qabul)
+
+S 11.1 The qard contract must be entered into through an offer and acceptance between the contracting parties. 
+
+S 11.2 The offer and acceptance may be expressed orally, in writing or by any other methods which could be evidenced by appropriate documentation or record. 
+
+## 12. Money 
+
+S 12.1 A qard contract must involve a subject matter that is fungible, deliverable and recognised by the Shariah. This refers to money which may include cash, all forms of currency, gold and silver. 
+
+S 12.2 The subject matter in a qard contract must be guaranteed by the borrower to the lender at all times and in all circumstances including against loss or damages. 
+
+## 13. Salient features of qard contract 
+
+### No contractual benefit to the lender
+
+S 13.1 The qard contract must not result in any form of contractual benefit to the lender merely for lending money. This includes– 
+
+(a) execution of contracts for sale of assets conditional on the purchaser borrowing money from the seller; 
+
+(b) pre-agreed periodic rebate (ibra’) to the purchaser on the instalment of a deferred selling price which is linked to the qard contract from the purchaser to the seller; 
+
+(c) any form of incentives promised to a lender to enter into a qard contract; or 
+
+(d) hibah given by the borrower to the lender in the form of cash, in kind or benefit that is conditional to the qard contract. 
+
+G 13.2 Notwithstanding paragraph 13.1(b), any rebate (ibra’) in settling the full selling price of the sale contract is allowed. 
+
+S 13.3 In relation to paragraph 13.2, such rebate (ibra’) must be independent from the qard contract. 
+
+## Prohibition of granting hibah in qard contract
+
+S 13.4 The borrower under a qard contract must not give hibah to a lender, in the form of cash, in kind or benefit that is conditional to the qard contract. 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 8 of 20  -->
+
+G 13.5 The granting of hibah by the borrower to the lender is only allowed when it is solely based on the borrower’s discretion. 
+
+S 13.6 The borrower must not disclose, promote or market the indicative rate or prospective payment of hibah. 
+
+S 13.7 The borrower must not use historical information on the payment of hibah to promote or market qard. 
+
+G 13.8 A borrower may disclose historical information on the payment of hibah for purpose of market transparency. 
+
+
+| Question 1 <br>Whether the disclosure of historical information on the payment of hibah for purpose of market transparency in paragraph 13.8 should be made compulsory? If yes, please provide justification.  |
+| --- |
+
+
+General services, facilities or incentives provided by the borrower 
+
+S 13.9 General services, facilities or incentives provided by the borrower which are not exclusive only to the lender must not be construed as contractual benefit to the lender and is therefore permissible. 
+
+G 13.10 In relation to paragraph 13.9, the general services, facilities or incentives may be charged with a fee (ujrah). Examples of such benefit include internet access to e-payment solution, system infrastructure and cash management services. 
+
+## Benefit or revenue to the borrower
+
+S 13.11 The borrower must be entitled to any benefit or revenue gained from the money borrowed. 
+
+## Source of money for qard contract 
+
+S 13.12 The borrower is not obliged to ascertain the source of money provided for the qard contract. 
+
+G 13.13 In relation to paragraph 13.12, the borrower may accept the qard without any knowledge of the source of such money. 
+
+S 13.14 In relation to paragraph 13.12, if the borrower has the knowledge that the source of the money used for the qard is not Shariah compliant, the borrower must not accept such money. 
+
+G 13.15 Notwithstanding paragraph 13.14, relevant authority may, on the ground of public interest, exempt acceptance of money acquired or generated from Shariah non-compliant activities under specific circumstances. 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 9 of 20  -->
+
+## Repayment of qard 
+
+S 13.16 The money borrowed under the qard contract must be repaid according to the agreed term of the qard contract or in the event that there is no such term, at the request of the lender. 
+
+S 13.17 In the event the contracting parties agree that the money borrowed under the  qard contract is to be repaid in a different currency, such repayment must be  based on the prevailing exchange rate on the payment date or any rate  agreed by the parties on the payment date. 
+
+G 13.18 In the event that the borrower fails to repay the money, the borrower may be subject to late payment charges as determined by the relevant authorities. 
+
+## ARRANGEMENT OF QARD WITH OTHER CONTRACTS OR CONCEPTS 
+
+## 14. Arrangement of qard with fee (ujrah) 
+
+G 14.1 A lender in a qard contract may impose a fee (ujrah) in exchange of providing identified services, benefits or privileges. 
+
+S 14.2 The identified services, benefits or privileges must be Shariah compliant and must not in any way be related to the qard contract. 
+
+S 14.3 The imposition of fee (ujrah) must be fixed and mutually agreed by the contracting parties. 
+
+G 14.4 The amount of fee (ujrah) may vary according to the value of different types of services, benefits or privileges. 
+
+G 14.5 A lender may impose charges to cover the actual management cost of providing the services, benefits or privileges. 
+
+S 14.6 The fee (ujrah) must not be imposed on deferment of debt or exchange of cash with cash at a different value. 
+
+### COMPLETION (INTIHA’) OF QARD CONTRACT
+
+## 15. Completion of qard contract 
+
+S 15.1 A qard contract completes upon fulfilment of all obligations of the contracting parties’ under the qard contract, which include settlement of the qard amount either by way of– 
+
+(a) full settlement of the qard amount at maturity;
+
+(b) early settlement through mutual agreement of the contracting parties;
+
+(c) full transfer of the obligation of the borrower to pay the qard amount to a third party; 
+
+(d) full waiver of right to receive the qard amount by the lender; or 
+
+(e) full set-off (muqassah) of the qard amount between the contracting
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 10 of 20  -->
+
+parties.
+
+S 15.2 Upon completion of the qard contract, the contracting parties are free from any contractual obligations under such qard contract. 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 11 of 20  -->
+
+### PART C OPERATIONAL REQUIREMENTS
+
+## 16. Governance and oversight 
+
+G 16.1 The requirements under this part complement the broad governance and oversight expectations specified under the relevant policy documents on corporate governance issued by the Bank. While the broad governance and oversight principles can be applied, specific requirements are needed to manage distinct risks and the unique nature of the qard. 
+
+S 16.2 An IFI must have sufficient understanding of its risk profile and ensure the availability of personnel with the appropriate knowledge and skills to offer qard. 
+
+## Board of Directors 
+
+S 16.3 The IFI’s Board of Directors (the Board) must establish sound governance structure to facilitate effective oversight on the management and implementation of qard. The adequacy of the governance structure must commensurate with the nature, complexity and risk profile of qard. 
+
+S 16.4 The Board has overall responsibility for Shariah governance and Shariah compliance of the IFI. As such, the Board must– 
+
+(a) approve the business strategy and risk appetite of the IFI with regard to the application of qard; 
+
+(b) approve and oversee the implementation of policies and procedures governing the application of qard, which must include the following aspects: 
+
+(i) risk management; 
+
+(ii) information disclosure; 
+
+(iii) marketing strategies; 
+
+(iv) parameter on actual costs2; 
+
+(v) funding strategy; and 
+
+(vi) deposit acceptance; 
+
+(c) ensure that appropriate internal controls, systems and infrastructure are in place to implement qard in accordance with Shariah requirements; 
+
+(d) ensure that sufficient resources are in place, and that the IFI has adequate and qualified personnel with sufficient knowledge and competency on the concept, application and risks associated with the qard arrangement; and 
+
+(e) ensure that independent reviews are conducted regularly to assess compliance with the policy documents issued by the Bank and internal policies established by the IFI. 
+
+2 IFI may refer Appendix 3 for guidance on actual costs of qard.
+
+Issued on: 21 January 2016 
+
+<!-- Qard – Concept Paper 12 of 20  -->
+
+### Shariah Committee 
+
+S 16.5 The Shariah Committee has the responsibility to advise the IFI in ensuring its business, affairs and activities comply with Shariah, which includes activities involving a qard transaction. As such, the Shariah Committee must– 
+
+(a) endorse the application of Shariah requirements in the relevant policies and procedures governing the qard; 
+
+(b) review the terms and conditions stipulated in the legal documentation and other documents such as information published on promotional materials, product manuals or other publications, and endorse that the terms and conditions are in compliance with Shariah; 
+
+(c) advise and provide clarification on relevant Shariah rulings, decisions or guidelines on Shariah matters issued by the Bank, and if relevant,any other authorities; and 
+
+(d) assess the work carried out by Shariah review and Shariah audit and endorse any rectification measures that are needed to ensure that the qard complies with Shariah requirements. 
+
+## Senior management 
+
+S 16.6 The senior management has responsibility to ensure that the business and  operations of the IFI complies with Shariah requirements. As such, the senior  management must– 
+
+(a) develop and implement internal control and risk management policies and procedures in line with the business strategy and risk appetite approved by the Board; 
+
+(b) establish policies, procedures and processes with regard to proper management of the qard; 
+
+(c) implement relevant internal systems and infrastructure and adequate mechanisms to identify, measure, control and monitor risk inherent in the qard; 
+
+(d) identify, assign and train key personnel with the appropriate skill and ensure that the roles and responsibilities are properly delegated to the relevant functions to undertake the different activities under the qard; 
+
+(e) develop and undertake regular reviews and compliance monitoring of its qard transactions with the approved policies; and 
+
+(f) ensure timely disclosure of relevant information to the Board and the Shariah Committee. 
+
+## 17. Structuring
+
+### Shariah compliance 
+
+S 17.1 The IFI must ensure that– 
+
+(a) the overall operations of qard are in compliance with Shariah requirements as provided in Part B of this policy document; 
+
+(b) product structure, legal documents, internal policies and procedures involving qard are endorsed by the Shariah Committee; 
+
+(c) any issues pertaining to Shariah matters must be discussed and deliberated at the Shariah Committee; and 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 13 of 20  -->
+
+(d) the opinion of the Shariah Advisory Council of the Bank (SAC) is sought if there are any unresolved Shariah issues involving qard. 
+
+S 17.2 In structuring a qard product, IFIs must ensure that the product developed is not contravening the following basic features of qard: 
+
+(a) the IFI as borrower receives permission to utilise the money; 
+
+(b) the ownership of asset is transferred to the borrower; 
+
+(c) the IFI as borrower must provide guarantee on the principal amount or value of the money and must return the principal amount to lender in accordance to the terms and conditions agreed; 
+
+(d) any form of benefits must not be given to lender unless it is based on the borrower’s discretion and it is not made conditional to the qard contract; and 
+
+(e) charges are imposed only based on permissible actual costs of providing the general services, benefits or privileges. 
+
+### Purpose 
+
+S 17.3 In the event that IFI acts as the lender under a qard contract, the IFI must inform the customer that the purpose of lending is only for Shariah compliant activities. 
+
+### Contracting parties 
+
+S 17.4 The IFI must ensure that the contracting parties’ roles and responsibilities are stipulated clearly in the legal documentation. 
+
+S 17.5 In cases where the customer is a minor, the IFI must obtain permission from his or her guardian for the purpose of entering into a qard contract. The guardian must have the right to act on behalf of the minor in the qard arrangement. 
+
+S 17.6 Where an agent acts on behalf of an IFI in executing a qard transaction, the  IFI must ensure that the agent complies with the requirements of this policy. 
+
+S 17.7 The IFI must ensure that the agent has the requisite capacity and capability to perform its duties and obligations in the qard transaction. 
+
+#### Gold or silver
+
+S 17.8 For qard transaction involving gold or silver, the IFI must, at minimum, clearly prescribe the following details in the legal documentations: 
+
+(a) nature or type of gold or silver;
+
+(b) quantity of gold or silver; and
+
+(c) market value of gold or silver.
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 14 of 20  -->
+
+###  Offer and acceptance
+
+S 17.9 In entering into a qard contract, the IFI must ensure that an offer and acceptance is clearly evidenced by appropriate documentation or record3. 
+
+###  Actual cost 
+
+S 17.10 In order to determine the actual costs of a qard transaction, the IFI must establish a parameter on actual costs based on the actual amount paid or expenses incurred by IFIs in completing the qard transaction. 
+
+
+| QWuheast taioren t2h e actual costs involved in providing qard to the customer? Does ythoeu r S inhsatritiauhtio nC ohmavmei tatene ?in tePrlneaals ep olpicryo voidne a cdteutaali lsc osotrs rtehlaetv iasn et nsduoprspeodrt inbgy  documents.  |
+| --- |
+
+
+G 17.11 For the purpose of paragraph 17.10, the IFI may refer to the examples provided in Appendix 3. 
+
+G 17.12 Under an arrangement with qard where the IFI is the lender, the IFI may charge fees based on permissible actual costs to the customer. 
+
+S 17.13 For the purpose of paragraph 17.12, the IFl must disclose the actual cost that forms the basis of the fees charged to the customer, for example takaful contributions that may be borne by the IFI. 
+
+G 17.14 In relation to deposit placement, an IFI is not obliged to bear the cost incurred by the customer in placing the deposit. 
+
+G 17.15 Notwithstanding paragraph 17.14, the IFI as a borrower may impose fees for general services, additional benefits or privileges offered to the customer for example the issuance of a debit card, automated teller machine (ATM) card,cheque book and passbook. 
+
+### Documentation
+
+S 17.16 The IFI must develop a complete set of legal documentation for qard contract that complies with Shariah. 
+
+S 17.17 For the purpose of paragraph 13.1, the legal document must not stipulate any  contractual benefits to the lender. 
+
+S 17.18 The IFI must ensure that the documents specify the agreed terms and  conditions for the qard transactions. The legal documentation must include at  minimum, the following terms: 
+
+(a) purpose of the qard;
+
+3 This is to avoid legal risk as well as to safeguard the interest of the customer.
+
+Issued on: 21 January 2016 
+
+ 
+
+<!-- Qard – Concept Paper 15 of 20  -->
+
+(b) contractual relationship between the contracting parties; 
+
+(c) rights and obligations of the contracting parties to the qard; 
+
+(d) arrangement with other Shariah contracts or concepts such as ujrah,where applicable; 
+
+(e) arrangement in the event of customer’s death or termination of qard contract; 
+
+(f) arrangement upon completion of the qard contract; and 
+
+(g) any fees and charges.
+
+S 17.19 Where there is an arrangement of qard with other Shariah contracts or concepts in one transaction, the IFI must ensure that the documentation of qard is independent of the other Shariah contracts or concepts and thus executed under different agreements. 
+
+## 18. Risk management 
+
+G 18.1 The distinct risk profile of qard may expose IFIs to various types of risks, such as Shariah non-compliance risk, legal risk, liquidity risk, credit risk,operational risk and reputational risk. These risks require a sound risk management system to ensure overall risks associated with qard are effectively managed. 
+
+S 18.2 In line with paragraph 18.1, the IFI must establish appropriate policies and procedures, which at minimum to include the following: 
+
+(a) processes and procedures 4 for identifying and monitoring risks exposures associated with qard; 
+
+(b) effective asset liability management to manage mismatches between the IFI’s source of funding and lending activities; 
+
+(c) streamline regulatory policies stipulated in other relevant policy documents on risk management issued by the Bank; 
+
+(d) escalate risks report to the appropriate key accountabilities, such as on financial losses to the Board Risk Management Committee, the Shariah Committee and senior management; 
+
+(e) procedures for acceptance of qard deposits; 
+
+(f) liquidity management; and
+
+(g) risk mitigation techniques including establishing appropriate eligibility criteria on financial integrity of the customer and early-warning mechanism to the late payment customer in the case where an IFI provides lending to the customer. 
+
+S 18.3 For the purpose of paragraph 18.2(f), the IFI must develop sound policies and  practices for liquidity management particularly for qard deposits to maintain  adequate liquidity to meet the IFI’s obligations at all times. At minimum, the  IFI must observe the regulatory requirements on liquidity risk management as prescribed by the Bank. 
+
+4 For example, the purpose of the lending activities is in compliance with Shariah.
+
+Issued on: 21 January 2016 
+
+<!-- Qard – Concept Paper 16 of 20  -->
+
+S 18.4 The IFI must establish a review process and ensure consistency with the risk appetite or significant changes that would increase the risk exposure within the industry. 
+
+S 18.5 In lending activities, the IFI must adhere to the requirements with regard to risk management practices outlined by the Bank of which at minimum, the IFI must ensure the following processes are being carried out: 
+
+(a) approach in identifying customer and vulnerable segment that heightens the level of credit risk; 
+
+(b) mechanism to monitor the lending portfolio, for example delinquencies; 
+
+(c) method to measure potential credit losses; and
+
+(d) controls to ensure credit risk is mitigated which may include but not limited to recovery process in managing any customers in default as well as collateral management, if any. 
+
+
+|  Question 3 <br> Are there any additional risk management expectations that require further  attention and deliberation in this policy document? Please provide details.  |
+| --- |
+
+
+19. Business and market conduct 
+
+### General principle 
+
+S 19.1 The IFI must take into consideration customer’s interests in developing policies, processes and procedures to ensure that a qard transaction is conducted in a fair, transparent, responsible and professional manner. 
+
+### Fair dealings
+
+S 19.2 The IFI must ensure that its internal policies and procedures on business and  market conduct for the qard transaction must reflect fair dealings, including– 
+
+(a) information provided must be accurate and clear; 
+
+(b) fees and charges must be disclosed, if any; and
+
+(c) reasonable care must be taken prior to providing suitable advice and recommendations, if any. 
+
+### Information disclosure
+
+S 19.3 The IFI must inform the customer on the qard contract including during pre-contractual stage. For this purpose, the IFI is required to develop and implement appropriate marketing strategy to ensure that the customer receives clear and adequate information on the following: 
+
+(a) features and purpose of the qard; 
+
+(b) overview of product structure including roles and responsibilities of the contracting parties; 
+
+(c) terms and conditions of the contract including arrangement with other Shariah contracts or concepts such as ujrah; and 
+
+(d) applicable fees and charges.
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 17 of 20  -->
+
+S 19.4 The IFI must ensure that all promotional and marketing activities comply with  qard requirements. This includes promoting and marketing general services  in relation to qard through– 
+
+(a) debit card, credit card, charge card, online banking, system and services; 
+
+(b) facilitating the customer in this contract or other financial products; or 
+
+(c) other channels of marketing or promotion which is approved by Shariah Committee. 
+
+S 19.5 In the event where an IFI appoints an agent to promote and market qard products, the IFI must remain accountable for its agent’s conduct. 
+
+S 19.6 In the event where the IFI discloses historical information on the payment of hibah, the IFI must provide a disclaimer that the historical information is not to be construed as an indicative or prospective rate of return, a guarantee or a legally-binding promise that hibah will be granted on placement of qard deposits. 
+
+
+|  Question 4 <br> Are there any implications arising from the requirement to provide  disclaimer on the historical information on the payment of hibah?  |
+| --- |
+
+
+S 19.7 The IFI must adequately clarify the use of Arabic terminology, if any, in their documentation to enhance the customer’s understanding on the Shariah contract. 
+
+## 20. Financial disclosure 
+
+S 20.1 The IFI must ensure that all internal records on qard transactions are updated regularly and are available for inspection by the Bank or external auditors as  and when required. 
+
+## 21. Transition arrangement 
+
+S 21.1 This transition arrangement is applicable to existing Islamic deposit products  or any products using wadi`ah yad dhamanah as the underlying contract. 
+
+S 21.2 The IFI is given one (1) year period from the effective date of this policy  document to rename any products using the term “wadi`ah yad dhamanah” as “qard” and fully comply with the requirements in this policy document. 
+
+S 21.3 The IFI must notify the customers of the transition from wadi`ah yad dhamanah to qard. 
+
+S 21.4 Upon the effective date of this policy document, activities such as placement of money, provision of lending as well as complimentary lending to other Shariah contracts must be referred to as qard, whilst safekeeping based on trust without permission to utilise the asset must be referred to as wadi`ah. 
+
+ 
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 18 of 20  -->
+
+### Product name 
+
+S 21.5 The IFI must not use the term “wadi`ah” for any new deposit products that are structured based on qard contract. 
+
+S 21.6 The IFI must ensure that the name of Islamic financial product reflects the underlying Shariah contract and its rulings are adopted, to facilitate customers’ understanding of the products. 
+
+### Transition plan
+
+S 21.7 The IFI must conduct a comprehensive impact assessment on the transitioning of existing wadi`ah yad dhamanah products to qard and compliance of existing qard products with the requirements in this policy document. The IFI must– 
+
+(a) submit the transition plan to the Bank within two (2) months from the issuance of this policy document; 
+
+(b) revise any relevant documentations to reflect the requirements in this policy document; 
+
+(c) enhance any relevant systems to comply with this policy document; 
+
+(d) conduct necessary processes and procedures for product variation or approval; 
+
+(e) enhance marketing materials, campaign, strategy and any other related materials; 
+
+(f) communicate and provide training to the relevant functions of the IFI;and 
+
+(g) undertake other operational changes to comply with this policy document, if any. 
+
+
+| Question 5 <br>(a) What operational changes are required to comply with this policy document? <br>(i) Please assess the substantive changes that must be undertaken to transit existing wadi`ah yad dhamanah to qard, including  refinements to legal documentation. (b) Are there any other issues on the transition that requires policy clarification? <br>(c) Please provide details on the size of deposit involved in the transition and highlight potential implications to the IFI’s financial position including impact on withdrawals. <br> <br>Question 6 <br>For licensed takaful operators, are there any additional clarifications required to cater for the provision of qard under takaful arrangement? Are there any requirements in this policy document that should not be made applicable to takaful?  |
+| --- |
+
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper 19 of 20  -->
+
+APPENDICES 
+
+# Appendix 1 Legitimacy of qard contract 
+
+1. The legitimacy of qard contract is derived from the Quran and founded on Sunnah of the Prophet Muhammad (peace be upon him), and the consensus of the muslim jurists (ijma`). 
+
+## The Quran 
+
+2. The following verse of the Quran implies the general permissibility of the qard contract: 
+
+طُسُبَْـيوَ ضُِبقَْـي ُهـّللاوَ .ًة يَِثكَ اًفاعَضَْأ ُهَل ُهفَعِاضَُيـَف اًنسَحَ اضًرْـَق َهـّللا $1$ نمّ . $g$ 
+
+“Who is that will grant Allah a goodly (sincere) loan so that He will repay him many times over? And (remember) it is Allah who decreases and increases (sustenance) and to Him you shall return.”5 
+
+## Sunnah of the Prophet Muhammad (peace be upon him) 
+
+3. The following hadiths imply the permissibility of qard contract:
+
+ضرقي ملسم نم ام :لاق ملسو هيلع لا ىلص بنلا نأ ،هنع لا يضر دوعسم نبا نع  )a(
+
+.ةرم اهتقدصك ناك لإ يترم اضرق املسم
+
+“Ibn Mas`ud narrated that the Prophet (peace be upon him) said: “Every two loans extended by one muslim to another count as one charitable payment.”6 
+
+سانلا لاومأ ذخأ نم :لاق ملسو هيلع لا ىلص بنلا نع ،هنع لا يضر ةريره بأ نع )b(
+
+.لا هفلتأ اهفلتإ ديري ذخأ نمو ،هنع لا ىدأ اهءادأ ديري
+
+“Abu Hurairah narrated that the Prophet (peace be upon him) said: “Whoever takes people’s wealth with the intention of repaying it, Allah will repay it on his behalf; and whoever takes it in order to use it up, Allah will destroy him.”7 
+
+## Consensus of the muslim jurists (ijma`) 
+
+## 4. Muslim jurists have reached ijma` on the permissibility of qard contract.
+
+5 Surah al-Baqarah, verse 245.
+
+6 Ibn Majah, Sunan ibn Majah, hadith no. 2421. 
+
+7 Al-Bukhari, Sahih al-Bukhari, hadith no. 2212.
+
+<!-- Issued on: 21 January 2016  -->
+
+<!-- Qard – Concept Paper  20 of 20  -->
+
+Appendix 2 Glossary
+
+
+| Terms  | Definition  |
+| --- | --- |
+| Hibah  | A transfer of ownership of an asset from a donor to a donee without any consideration  |
+| Ijma`  | Consensus of the muslim jurists  |
+| Muqassah  | Offsetting  |
+| Ujrah  | Fee  |
+| Wakil  | Agent  |
+
+
+Appendix 3 Illustration on actual cost 
+
+
+| Role of IFI  | Examples of activities  | Examples of actual cost  |
+| --- | --- | --- |
+| 1. Borrower  | (a) Placement of <br>fungible asset in <br>meeting the <br>immediate and future needs <br>  | (i) Issuance of card, passbook, cheque book, etc. <br>(ii) Charges imposed by third party e.g. visa <br>(iii) System or infrastructure i.e. cash <br>deposit machine (CDM), ATM <br>(iv) Legal cost e.g. stamp duty, <br>documentation etc.  |
+| 2. Lender  | (a) Provision of loan <br>(b) Lending activities to facilitate other <br>Shariah contracts  | (i) Issuance of card <br>(ii) Charges imposed by third party e.g. visa <br>(iii) Legal cost e.g. stamp duty and <br>documentation <br>(iv) Agent commission <br>(v) Takaful contributions  |
+
+
+<!-- Issued on: 21 January 2016  -->

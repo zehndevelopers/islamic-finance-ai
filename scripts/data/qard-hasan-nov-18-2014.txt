@@ -1,0 +1,204 @@
+***QARḌ ḤASAN* FINANCING IN ISLAMIC BANKS**
+
+*Seyed Kazem Sadr[[1]](#footnote-0)\**
+
+**Abstract**
+
+*Qarḍ ḥasan—commonly defined as an interest-free loan—is a benevolent economic behaviour, an outlet for the placement of savings, an instrument of finance and an institution for bona fide lending. Having such versatile attributes, it is distinguishable from other charitable financial activities such as waqf (endowments) and infāq (spending in the way of Allah) as well as other modes of finance used in Islamic financial institutions. The purpose of this paper is to present the alternative prospects of this Islamic instrument and to provide an explanation for each form of its application. Applying Tobin’s (1958) Portfolio Theorem, the paper explains why people extend loans to others without the expectation of return and position this bona fide loan among the other recommended financial activities in Islam. Furthermore, the paper investigates why Islamic banks continue to make use of this financial instrument despite the fact that they gain no financial return from it. Data on Islamic banks’ application of qarḍ ḥasan financing and its share compared to other banks’ assets portfolio are presented. It is further argued that qarḍ ḥasan is an act of worship and benevolence and should be distinguished from the qarḍ (loan) contract, which is simply a permissible type of exchange and a mode of saving deposits in Islamic banks. The paper concludes with recommendations to the financial community for more extensive and effective use of this interest-free loan.*
+
+**Keywords:** *Qarḍ ḥasan*, benevolent behaviour, Islamic finance, Islamic bank, *qarḍ* contract.
+
+1. **INTRODUCTION**
+
+Among the many factors that contributed to the progress of the global Islamic finance industry in the past four decades is the development of multiple financial instruments that could meet both consumers’ and producers’ demand for consumption and investment expenditures. One such instrument that was introduced at the outset of Islamic banking activities, and which continues to be used by almost all Islamic banks, is *qarḍ ḥasan* (QH). Unlike other instruments that are all revenue-generating, QH entails no nominal return according to the rules of the Sharīʿah. It is important, therefore, to discover the attributes of this Islamic tool that have made it applicable by both firms and individuals in formal as well as informal financial activities.
+
+A closer analysis of QH reveals that it is not only a means of financing in Islamic banking, it is further a practice that is much recommended in the Qurʾān (see Qurʾānic verses 2:245, 5:12, 57:11, 57:18, 64:17, 73:20) (Farooq, 2011; Zada and Saba, 2013). For instance, the Qurʾān (57:11) states: “*Who is he who will give to Allah a beautiful loan (with all sincerity) so that Allah will pay him back manifold and he will have (besides) a noble reward?”*
+
+In this latter form, QH is a financial deed that is not obligatory, as are *zakāh* and *khums*,[[2]](#footnote-1) but is a voluntary form of transfer payment, a counterpart of *waqf* and *infāq*.[[3]](#footnote-2) In another capacity, it has contributed to the formation of new financial institutions in Muslim and non-Muslim countries. Many of these funds have been established in mosques, organisations and rural communities. One source reports that the number of both registered and unregistered funds in 2005 was 6500 in Iran (Iran Stat. Center, 2006). The formation of these funds have also been reported in countries such as Malaysia (Saad, 2011), Indonesia (Mirakhor and Iqbal, 2007), Pakistan, Kosovo, Bosnia, Herzegovina and the United Kingdom (Khan, 2008; Najeeb and Lahsana, 2013).[[4]](#footnote-3)
+
+The purpose of this paper is to discover the attributes of this Islamic financial rule of behaviour and explain why it is commonly practiced in Muslim communities. Section II of the paper explains why individuals extend QH loans to others and why Islamic banks continue to make use of this financial instrument despite the fact that they gain no financial return from it. Section III compares QH financing with the *qarḍ* (loan) contract and discusses their distinguishing features. Section IV then presents data on Islamic banks’ application of QH financing and its share compared to other bank assets. The findings of other studies that complement the discussion are also reported. The paper concludes with recommendations to the financial community for more extensive and effective use of this interest-free loan.
+
+**II. BENEVOLENT BEHAVIOUR**
+
+Allah’s reward for providing QH distinguishes it from other Sharīʿah-compliant financial instruments that are used for the financing of goods and services. Usually, there is no priority given to the application of these Sharīʿah-compliant financial instruments in both formal banking and informal financial institutions; their application depends mostly on their suitability to meeting the needs of customers. Why then do individuals so commonly offer QH financing without expecting to earn any nominal return?
+
+The best explanation is probably provided by the Portfolio Theorem (Tobin, 1958). The theorem suggests that agents consider the risk of alternative assets’ returns as well as their expected nominal return for the purpose of managing their wealth fund. Holding a diversified portfolio that includes low-, medium- and high-return yielding assets with commensurate risk profiles will maximize the total expected return of the portfolio. This is why people keep part of their financial wealth in liquid form (Tobin, 1958). Money, which incurs no transaction cost, provides utility, and this makes it a desirable asset in the composition of the wealth portfolio. Therefore, it is not simply the nominal return of an asset that makes it a desirable component of a portfolio; consideration is also given to utility and inherent attributes.
+
+QH is a kind of quasi-money asset. The agents’ distribution of liquid assets into money and QH could depend on both the perceived rate of return and risk of the latter. The rate of return for QH is specified by the Qurʾān in several verses such as (57:11, 18), (64:17). (2:245), assuring believers with full certainty that they will be rewarded manifold in both the present life and in the Hereafter (Farooq, 2011). The motivation for believers to provide QH therefore involves a consideration of the rewards promised in the Hereafter too as part of their long-term return profile. Consequently, QH will be considered a risk-free asset having a perceived certain return in the wealth portfolio of the believers. The study of Khan (1987) has shown that the addition of a risk-free asset to the portfolio of wealth holders increases their wellbeing. The choice of the borrower, however, from among family members, peer groups, or poor people would depend on the borrower’s need for the fund and his credibility regarding repayment of the loan. Moreover, the supply of the loan and its coverage will also depend on the utility of fulfilling the needs of applicants and the cost of obtaining the information for verifying the intensity of their needs.
+
+**III. *QARḌ ḤASAN* FINANCING AND THE *QARḌ* CONTRACT**
+
+One of the issues in QH financing has been the question of whether *qarḍ* (loan) contracts are different from QH, and if they are, what are their distinguishing features? Farooq (2011) has provided an extensive discussion on this issue and the distinction of both from a *ribā* (interest) contract. He states that *qarḍ* *ḥasan* is a uniquely Qurʾān term; in fact, the word *qarḍ* is never mentioned in the Qurʾān except with the additional description *ḥasan* (good). Moreover, the Qurʾān consistently refers to it as lending to Allah (SWT) because it is recommended that it be lent to the poor and needy and that the lender even refrain from calling for it when the borrower is empty-handed. He further states that when *qarḍ* is mentioned in the *ḥadīth* literature, it is as a single term without the adjective *ḥasan*. It may be concluded from his discussion—and that of Mirakhor and Iqbal (2007) and other contemporary scholars (e.g. Najeeb and Lahsana, 2013)—that the *ḥadīth* literature validates *qarḍ* as a contractual form by distinguishing it from *ribawī* (interest-based) loans. Contracts transfer property rights from one party to another. The legitimacy and equitability of contracts will be guaranteed when the rights being exchanged are clearly specified. The fact that no pecuniary or non-pecuniary return additional to the principal sum of the loan can be stipulated in a *qarḍ* contract—while on the contrary, the borrower may voluntarily pay back a surplus to the lender—illustrates the importance of the property rights involved. The lender has no right to demand any amount in excess of the original principal amount, and the fact that the borrower may voluntarily do so creates no additional earning right for the lender. In the *ribawī* system, however, the lender has a right to an extra amount specified up-front in the loan contract. To the *fuqahā* (jurists), *qarḍ* and QH are one and the same, in that no extra amount can be obtained as a condition of the contract (Farooq, 2011). In short, *qarḍ* and QH are the same as far as the contractual and exchanged rights are concerned but have different donation and depositing behavioural attributes with respect to the intention of the client (Zada and Saba, 2013).
+
+QH is an act of worship and benevolence whereas the *qarḍ* contract is simply a permissible type of exchange, like a sale or other exchange contract. Households who lend funds on the basis of QH wish to behave according to the principles of QH as laid out in the Qurʾān (2:245, 5:12, 57:18, 57:11, 64:17, 73:20). In contrast, consumers who deposit their savings in banks want to have safe precautionary reserves. Since they are confident that banks will repay them upon demand, they consider non-interest-bearing accounts a safe place for their deposits. Savings accounts could be structured using the *wadīʿah* or *qarḍ* contract. If deposits are placed with the bank according to a *wadīʿah* *yad amānah* (safe deposit based on trust) contract, the ownership right of these deposits is not transferred to the bank. This arrangement is in contrast to the *qarḍ* contract where that right is delivered but the bank is required to pay back the deposits anytime the lenders or depositors call for them. Also, the types of property rights that are exchanged differentiate *qarḍ* or QH deposits from *wadīʿah*. This is why some Islamic banks offer only QH saving deposits and those who offer *wadīʿah* accounts obtain specific permission of depositors to use those funds, thus structuring the accounts based on the *wadīʿah yad ḍamānah* (safe deposit based on guarantee) contract.
+
+**IV. *QARḌ ḤASAN* FINANCING IN ISLAMIC BANKS**
+
+What benefits does *qarḍ* financing provide to Islamic banks? Quite often banks need to finance projects with multiple stages and components where a single instrument, or even a number of them, may not suffice to finance those specified stages. *Qarḍ* financing could be used in such instances. It fills the gap and complements other instruments. The fact that this instrument complements the financing process and lowers its contractual cost makes it popular for Islamic banks. In fact, the return that banks demand from other accompanying tools may make up what is forgone by *qarḍ* financing. Furthermore, banks, always wish to accommodate their target customers at times of emergency or shortage of liquidity. *Qarḍ* facilities readily serve these needs and help banks to establish a viable and reliable relationship with customers.
+
+The same Sharīʿah principle that prohibits the lender of QH from obtaining any extra pecuniary or non-pecuniary return obliges the borrower to repay the loan whenever the lender calls for it or as specified in the contractual agreement. Therefore, it is a secured loan from the Sharīʿah point of view and has hardly any risk for the lender (if the borrower has *taqwā*, i.e., a fully developed conscience). It is this built-in guarantee feature of QH as well as its liquidity and complementary nature that make it popular in the Islamic banking industry.
+
+A review of financial activities of 26 Islamic banks from 2005 up to 2011 shows that all were offering QH facilities (see Table 1). Half of these banks increased the amount of this loan over the review period. In some countries like Bangladesh and Indonesia, all the listed banks increased their provision of QH both in absolute value and in proportion to other assets. The share of QH financing in total assets increased over the stated period to 13.4 and 6 per cent respectively for Syariah and Muamalat banks in Indonesia*—*the highest among the listed banks (see Table 2). The same applies to Iranian banks, except for one. In fact, the share of QH facilities in total outstanding assets increased steadily after the Islamic Revolution in Iran until the end of the war with Saddam Hossein of Iraq, after which it started to decrease because QH saving deposits were gradually transferred to investment accounts (Arab Mazar and Kayqobadi, 2006). The share of QH loans in total assets was 5 per cent, on average, for all banking and credit institutions and 7 per cent for the commercial banks alone during the period 2010-2011 (Central Bank of Iran, 2012). In countries like Bahrain, Jordan and Yemen, all of the banks listed in Table 1 decreased the amount of this loan. In Malaysia, the performance of the six Islamic banks was mixed; half of them increased, while the other half decreased, the amount of this financial service. The same mixed result was also observed in a study of QH financing that focused only on Malaysian Islamic banks (Ariffin and Adnan, 2011). Furthermore, the share of QH in the total assets of most of the listed banks increased too. The same increase in QH share applied to two Indonesian banks. The latter measure increased for all Iranian banks from 2005 to 2010. Interestingly, the share of QH in the total assets increased for the three Malaysian banks whose absolute QH financing was also increasing. That proportional increase is also observed for one Jordanian bank, although the absolute amount of its QH financing declined.
+
+**Table 1: *Qarḍ Ḥasan* Financing for Selected Islamic Banks from 2005 to 2011**
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **COUNTRY** | **BANK NAME** | **2005** | **2006** | **2008** | **2009** | **2010** | **2011** |
+|  |  |  |  |  |  |  |  |
+| BAHRAIN | INVESTMENT BANK (U.S.DOLLARS '000) | 106.53 | 140.42 | 86.66 | 134.29 | 31.14 | 3.21 |
+|  | BAHRAIN ISLAMIC BANK (DINAR '000) | 125 | 125 | 125 | 125 |  | 2 |
+|  |  |  |  |  |  |  |  |
+| BANGLADESH | ISLAMI (TAKA '000) | 1996132 | 1974204 | 2450987 | 2999399 | 4101051 |  |
+|  | XM BANK |  |  | 250602.1 | 757979.6 | 383563.59 | 209492.1 |
+|  | AL-ARAFAH |  |  | 609143.4 | 624061 | 987261.84 | 1278660.3 |
+|  |  |  |  |  |  |  |  |
+| INDONESIA | SYARIAH (RUP '000,000) | 71821.55 | 250295.8 | 618854.4 | 1066812 | 2258330.4 | 6529509.9 |
+|  | MUAMALAT | 16753.97 | 34435.67 | 186493.3 | 306412.7 | 1195645.4 | 1955293 |
+|  |  |  |  |  |  |  |  |
+| IRAN | SARMAYEH (RIAL '000,000) |  |  |  |  | 137245145 | 23573385 |
+|  | PASARGAD |  |  | 299441 | 1218320 | 2244864 | 2503934 |
+|  | PARSIAN | 8 | 24 | 70 | 946800 |  | 166 |
+|  | TEJARAT |  |  |  | 9676437 | 12465543 |  |
+|  | SEDARAT |  |  |  | 11179000 | 16094000 | 17753000 |
+|  |  |  |  |  |  |  |  |
+| JORDAN | ISLAMIC INT.(DINAR '000) | 40.75 | 151.35 | 267.97 | 584.8 | 479.41 | 518.53 |
+|  | ISLAMIC BANK F & I | 6093.05 | 5736.5 | 15806.29 | 8644.29 | 7704.18 | 7578.72 |
+|  |  |  |  |  |  |  |  |
+| MALAYSIA | KFH (RINGGIT '000) |  | 43 | 115 | 2450 | 32239 | 947 |
+|  | RAKYAT | 126833 | 105423 | 102654 | 31807 | 5507 |  |
+|  | MUAMALAT | 7089 | 6555 | 7608 | 4844 | 16344 |  |
+|  | ALLIANCE |  |  | 369 | 443 | 376 | 251 |
+|  | ASIAN FINANCE |  |  | 103.64 | 250.46 | 627.56 | 702.6 |
+|  | AL-RAJHI |  | 236 | 3436 | 3708 | 3616 | 3758 |
+|  |  |  |  |  |  |  |  |
+| QATAR | QATAR INTERNATIONAL ISLAMIC BANK (RIAL QAR '000) | 8681 | 5361 | 2186 | 426 | 118 | 48 |
+|  |  |  |  |  |  |  |  |
+| SUDAN | SAVING & SOCIAL DEVELOPMENT BANK (DINAR SDD '000) | 142849 | 225439 | 223539 | 50134 | 36672 |  |
+|  |  |  |  |  |  |  |  |
+| SYRIA | SYRIA INTERNATIONAL ISLAMIC BANK (POUND '000)) |  |  | 222428 | 525358 |  | 250000 |
+|  |  |  |  |  |  |  |  |
+| UNITED ARAB EMIRATE | SHARJAH (DIRHAM '000) | 13959 | 3436 | 33037 | 83474 | 149255 | 250133 |
+|  |  |  |  |  |  |  |  |
+| YEMEN | TADHAMON (RIAL '000) | 3126 | 6081 | 1738 |  | 16173 | 233 |
+|  | SABA |  | 82.87 |  | 96.7 | 73.7 | 70.26 |
+
+Source: ibisonline.net
+
+**Table 2: Percentage Share of *Qarḍ Ḥasan* in Total Assets for Selected Islamic Banks from 2005 to 2011**
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **COUNTRY** | **BANK** | **2005** | **2006** | **2008** | **2009** | **2010** | **2011** |
+|  |  |  |  |  |  |  |  |
+| BAHRAIN | INVESTMENT BANK B.S.C | 0.07702 | 0.09486 | 0.09119 | 0.18084 | 0.06736 | 0.00754 |
+|  | BAHRAIN ISLAMIC BANK | 0.03897 | 0.02863 | 0.0143 | 0.0137 |  | 0.00023 |
+|  |  |  |  |  |  |  |  |
+| BANGLADESH | ISLAMI BANK | 1.60004 | 1.31392 | 1.06158 | 1.07774 | 1.24054 |  |
+|  | XM BANK |  |  | 0.36613 | 0.90962 | 0.33922 | 0.16276 |
+|  | AL-ARAFAH |  |  | 1.6385 | 1.2863 | 1.33405 | 1.1976 |
+|  |  |  |  |  |  |  |  |
+| INDONESIA | SYARIAH | 0.86815 | 2.61954 | 3.6263 | 4.8411 | 6.9529 | 13.41534 |
+|  | MUAMALAT | 0.2256 | 0.41139 | 1.47883 | 1.91183 | 5.58692 | 6.02008 |
+|  |  |  |  |  |  |  |  |
+| IRAN | SARMAYEH |  |  |  |  | 0.43764 | 0.0573 |
+|  | PASARDAG |  |  | 0.52565 | 1.2821 | 1.81465 | 1.34575 |
+|  | PARSIAN | 0.20904 | 0.2291 | 0.38212 | 0.49253 |  | 0.6467 |
+|  | TEJARAT |  |  |  | 2.5233 | 2.67896 |  |
+|  | SEDARAT |  |  |  | 2.72785 | 3.34587 | 3.13961 |
+|  |  |  |  |  |  |  |  |
+| JORDAN | ISLAMIC INT. | 0.01006 | 0.02635 | 0.02952 | 0.05618 | 0.04231 | 0.04599 |
+|  | ISLAMIC BANK F & I | 0.45391 | 0.39221 | 0.85515 | 0.39597 | 0.29589 | 0.2615 |
+|  |  |  |  |  |  |  |  |
+| MALAYSIA | KFH |  | 0.00143 | 0.0012 | 0.0212 | 0.29533 | 0.00934 |
+|  | RAKYAT | 0.5286 | 0.3833 | 0.24578 | 0.06273 | 0.00887 |  |
+|  | MUAMALAT | 0.06902 | 0.04873 | 0.05283 | 0.02898 | 0.08928 |  |
+|  | ALLIANCE |  |  | 0.01245 | 0.01397 | 0.0077 | 0.00403 |
+|  | ASIAN FINANCE |  |  | 0.00568 | 0.0121 | 0.02798 | 0.02882 |
+|  | AL-RAJHI |  | 0.0801 | 0.0716 | 0.06501 | 0.0611 | 0.0611 |
+|  |  |  |  |  |  |  |  |
+| QATAR | QATAR INTERNATIONAL ISLAMIC BANK | 0.13702 | 0.06383 | 0.01702 | 0.00257 | 0.00065 | 0.00021 |
+|  |  |  |  |  |  |  |  |
+| SUDAN | SAVING & SOCIAL DEVELOPMENT BANK | 0.52265 | 0.62288 | 0.48361 | 0.09588 | 0.06309 |  |
+|  |  |  |  |  |  |  |  |
+| SYRIA | SYRIA INTERNATIONAL ISLAMIC BANK (POUND '000) |  |  | 0.61973 | 0.15434 |  | 0.39481 |
+|  |  |  |  |  |  |  |  |
+| UNITED ARAB EMIRATES | SHARJAH | 0.2635 | 0.0441 | 0.21265 | 0.5373 | 0.8955 | 1.41054 |
+|  |  |  |  |  |  |  |  |
+| YEMEN | TADHAMON | 0.00234 | 0.0033 | 0.0006 |  | 0.0043 | 0.00006 |
+|  | SABA |  | 0.11780 |  | 0.06370 | 0.04232 | 0.05003 |
+
+Source: ibisonline.net
+
+These results reveal the indispensable place of QH in Islamic finance. Overall, the listed Islamic banks have continued using QH financing, though at different scales. Although the list of the banks in Table 1 is not exhaustive and no conclusion for a specific country can be drawn, the findings still verify to some extent the proposition stated at the outset regarding the use of QH in Islamic banks. This finding also indirectly documents the formation and expansion of QH funds in some Muslim countries.
+
+On the demand side for QH funds, the attitudes and norms of bank customers in Malaysia have a significant effect on their acceptance of QH financing. Furthermore, the processing price of this tool has determining effects on customers’ demand for it. The study by Handin Amin and Rostinah (2010) recommends enhancing the service quality of this mode of financing and better handling of the customers by Malaysian Islamic banks. For the deposit side, a study, which was carried out in Iran has found that advertisement has positive and significant effects on the collection of QH deposits by Iranian banks (Hosseini and Shahbazi, 2008).
+
+Other studies have focused on the supply side of QH loans. Ariffin and Adnan (2011) recommended that Malaysian banks simplify QH operational procedures and improve the service quality. The findings of another research (Abbasi and Sadr, 2005), which measured the operational cost of QH facility for the Agricultural Bank of Iran, support the former recommendations. In the latter study, the operational cost of all financial instruments of the bank from 1984 to 1997 was measured. The cost of operations for any single contract, i.e. the labour and capital cost not the opportunity cost of the fund, varied from one year to another because of the change in labour and capital expenses. In 1997, the cost of QH was lower than that of other instruments.
+
+**Table 3: The Respective Cost of Alternative Islamic Instruments in the Agricultural Bank of Iran**
+
+|  |  |
+| --- | --- |
+| **Instrument** | **Price in Iranian riyals** |
+| *Qarḍ ḥasan* | 79,305 |
+| *Murābaḥah* (mark-up sale with instalment payments) | 538,225 |
+| *Salam* (forward sale) | 243,722 |
+| *Mushārakah* (profit and loss sharing) | 284,535 |
+| *Muḍārabah* (profit sharing between a silent partner and entrepreneur) | 307,251 |
+
+As mentioned above, one of the determining factors in the measurement of operational cost is labour. Therefore, banks can bring down their operational cost and secure clients’ satisfaction by better managing and training their human resources.
+
+Before concluding the discussion on this financing activity, it should be mentioned that *qarḍ* contractual agreements provide an ideal form for saving deposits in Islamic banks. In this contract, the ownership of the deposits is transferred from the lender to the borrower according to Islamic law.[[5]](#footnote-4) Consequently, banks can use the deposited savings freely. In the *wadīʿah* (trust) contract, banks do not obtain the ownership right and have to keep the deposits as they are. In *muḍārabah* contracts, banks have to transfer part of the gained revenues to depositors, based on their initial agreements. However, all the revenues can be possessed by the bank when the deposits are in the form of QH.
+
+What incentivises consumers to deposit their savings in QH accounts? Formal and informal institutions provide different motives for this behaviour. Consumers do not invest all of their savings in any time period; they keep part of it in liquid form for precautionary and unforeseen expenses. The most secure place for depositing this type of savings is formal financial institutions. Although *wadīʿah* accounts serve this purpose well, they are not provided by all banks (Arab Mazar and Kayqobadi, 2006).
+
+The incentives for households to provide QH to individuals or deposit in informal funds is clearly benevolent and spiritual. It is mainly on the basis of abiding by the Qurʾānic call, as specified in (2:45), (11:57), for lending to Allah. It is this feature of QH transactions that has contributed to establishing benevolent financial institutions in many Muslim countries. However, it is appropriate to point out the consequences of mixing the two sets of incentives and misperceiving households’ decision to deposit in the banks as being out of benevolent motives. The perception that both types of behaviour are identical led the authorities in Iran to their decision to establish “Qard ul Hasan banks” and require all other public banks to transfer their QH savings deposits to these new banks (Central Bank of Iran 2012). The two QH banks thus founded are required to extend the collected funds to deserving applicants.
+
+**V. CONCLUSION**
+
+The purpose of this paper is to identify QH as a benevolent behavior representing a loan to Allah (SWT), as recommended in the Qurʾān, as opposed to the *qarḍ* contract as an instrument of finance. Consideration of QH as a loan to Allah (SWT) and assignment of reward for it is the main cause of its provision to needy individuals and as deposits in QH funds. This benevolent spiritual motive should not be mixed with households’ precautionary savings although the same *qarḍ* contractual arrangement is applied by both QH funds and Islamic banks for the collection of deposits. The fact that consumers willingly contribute to QH funds is to have access to a portfolio of assets with varying degrees of returns and risks. The QH asset entails utility of loaning to Allah (SWT), on the one hand, and bearing no risk for the return, on the other hand. The Qurʾānic verses assure the contributor of the return from his interest-free loans. The Sharīʿah rules of contract ensure repayment of the principal, whenever the lender calls for it. The choice of this type of wealth portfolio by the believers has rendered formation of QH funds with a sustainable pace of growth in Islamic communities (Sadr, 2008). Therefore promotion of QH benevolent behavior in the rest of the Muslim communities would contribute to the formation of funds offering bona fide loans to needy and vulnerable households.
+
+The facility that the *qarḍ* contract provides for financing multiple-purpose and multi-stage projects—and for complementing other instruments in the process of financing by banks—makes it a versatile tool of finance for Islamic financial institutions. Its security feature, as provided by the Sharīʿah, makes it a desirable quasi-money asset in Islamic banks’ portfolios. Data presented for Islamic banks show that they continuously use QH, in different proportions, along with other permissible Islamic financial contracts. In addition to its unique features as a mode of finance, the QH contract provides a favorable savings opportunity for the banks. Unlike *wadīʿah* arrangements, *qarḍ* contracts empower banks to acquire the property rights of the deposits and invest them in profitable avenues. Therefore efforts by Islamic banks to decrease the operational cost of this tool and to promote it among their clients complement the set of financial products that they offer and enhance the profitability of their banking business.
+
+**References**
+
+Abbasi, Z. and Sadr, S. K. (2005). Measuring the Cost of *Qard ul Hasan* Instrument as Compared to Alternative Tools of Islamic Finance. *The Journal of Iqtisad Islami*. Vol. 14.
+
+Arab Mazar, A. and Kayqobadi, S. (2006). The State of *Qard ul Hasan* Financing in the Banking Industry of Iran. *The Journal of Iqtisad Islami*. Vol. 18.
+
+Ariffin, N. M. and Adnan, M. A. (2011). Malaysian Islamic Bankers’ Perception of *Al-Qard Al Hasan*. *Review of Islamic Economics*. Vol. 15, No. 2.
+
+Central Bank of Iran. (2012). Department of Economic Policy Studies, Monetary Statistics, Tehran, Iran.
+
+Farooq, M. O. (2011). *Qard Hasan*, *Wadia Amana* and Bank Deposits. *Arab Law Quarterly*. 25.
+
+Handin Amin, M. F. G. and Rostinah, S. (2010). Determinants of *Qardhul Hasan* Financing Acceptance Among Malaysian Bank Customers: An Empirical Analysis. *International Journal of Business and Society*. Vol. II, No.1, 1-16.
+
+Hosseini, S. S. and Shahbazi, H. (2008). Evaluating the Advertising Effect on Qardul Hasan Demand Deposits in Iranian Government Banks. *American-Eurasian Journal of Agriculture and Environment Science*. 4(5).
+
+Iran Statistical Center (2006), Survey of Gharzul-hasaneh Funds, Tehran.
+
+Khan, A. (2008). Islamic Microfinance: Theory, Policy and Practice. Islamic Relief Worldwide, UK : Burmingham.
+
+Khan, M. and Mirakhor, A. (1990). Islamic Banking: Experience in the Islamic Republic of Iran and in Pakistan. *Economic Development and Cultural Change*. 38/2.
+
+Khan, S. R. (1987). An Economic Analysis of a PLS Model for the Financial Sector. in Khan, M. and Mirakhor, A. (Ed.). *The Theoretical Studies in Islamic Banking and Finance*. Texas, US: The Institute for Research and Islamic Studies.
+
+Mirakhor, A. and Iqbal, Z. (2007). Qard Hasan Microfinance. *New Horizon*. No. 164, April-June.
+
+Najeeb, S. and Lahsana, A. (2013). Qard Hasan: Its Shari’ah Rules and Applications in Islamic Finance. *Journal of Islamic Business and Management*. Vol. 3, No. 1.
+
+Saad, N. Md. (2011). Selecting High-Income Generating Activities for Micro-Entrepreneurs: The Case Study of Amanah Ikhtiar Malaysia. *International Journal of Humanities and Social Sciences*, 1 (5), pp. 258-264.
+
+Sadr, S. K. (2008). Gharzul-Hasaneh Financing and Institutions. In Obaidullah, M. and Abdul Latif, H. S. H. (Ed.). *Islamic Finance for Micro and Medium Enterprises.* IRTI, IDB and Centre for Islamic Banking, Finance and Management, Universiti Brunei Darussalam.
+
+Tobin, J. (1958). Liquidity Preference as Behavior Towards Risk. *Review of Economic Studies*. February.
+
+Zada, N. and Saba, I. (2013). The Potential Use of Qard Hasan in Islamic Microfinance. *ISRA International Journal of Islamic Finance*. 5 (2). December.
+
+1. \* Seyed Kazem Sadr is Professor at the International Centre for Education in Islamic Finance (INCEIF), Kuala Lumpur, Malaysia. He can be contacted at sadr@inceif.org. He is indebted to Ms. Alaa Al-Abed for her contributions and also to the Journal editors for their directions and amendments. [↑](#footnote-ref-0)
+2. Refer to Qur’ān (8: 41). A 20-percent levy on booty gained in jihad, discovered treasure, mines, net annual income and wealth capital gain. The coverage of *khums* differs among Islamic *fiqh* schools. [↑](#footnote-ref-1)
+3. *Waqf* is the appropriation of a property in perpetuity for specific purposes. No property rights can be exercised over the corpus. Only the usufruct is applied towards the objectives (usually charitable) of the *waqf*. *Infāq*, on the other hand, means spending. In the literature of Islamic economics, it usually refers to spending in the way of Allah (SWT). [↑](#footnote-ref-2)
+4. There are many different types of these funds in different countries; but the most common type is the informal fund that is formed by members of a family, an organisation or a locality. Members deposit an equal amount of cash in the fund every month. The management of the fund will be undertaken by an elder of the group or few volunteer members. The total money collected will be lent to a randomly selected member for a year. His monthly deposits will be accepted as his loan repayment dues over the year (Arab Mazar and Keyqobadi, 2006). Until all members receive the loan, it cannot be lent again to those who have already benefited from the fund. Similar arrangement is followed by Ansar QH fund in the United Kingdom. No service fee is charged for extending these QH loans. A fixed amount of fee used to be charged in Akhuwat QH fund in Pakistan (Najeeb and Lahsana, 2013). [↑](#footnote-ref-3)
+5. In a *qarḍ* contract the ownership of the property loaned is transferred from the lender to the borrower. The lender obtains claim over the debt of the borrower. In a *wadīʿah* contract the ownership of the property is maintained and guarantor cannot make use of the property that is guaranteed. [↑](#footnote-ref-4)

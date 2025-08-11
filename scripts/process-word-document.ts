@@ -73,7 +73,7 @@ function parseTextToChunks(text: string): DocumentChunk[] {
 
       if (articleContent && articleContent.length > 50) {
         chunks.push({
-          title: `Mehnat kodeksi - ${articleTitle}`,
+          title: `Qardhul Hassan - ${articleTitle}`,
           content: `${
             currentChapter ? currentChapter + "\n\n" : ""
           }${articleTitle}\n\n${articleContent}`,
@@ -97,7 +97,7 @@ function parseTextToChunks(text: string): DocumentChunk[] {
         (lines[0].length > 100 ? "..." : "");
 
       chunks.push({
-        title: `Mehnat kodeksi - Bo'lim ${index + 1}: ${title}`,
+        title: `Qardhul Hassan - Bo'lim ${index + 1}: ${title}`,
         content: paragraph.trim(),
       });
     });
@@ -211,7 +211,7 @@ if (import.meta.main) {
     console.log("");
     console.log("Example:");
     console.log(
-      "  deno run --allow-read --allow-net --allow-write scripts/process-word-document.ts mehnat-kodeksi.txt",
+      "  deno run --allow-read --allow-net --allow-write scripts/process-word-document.ts qardhul-hasan.txt",
     );
     Deno.exit(1);
   }
