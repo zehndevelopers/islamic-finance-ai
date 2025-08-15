@@ -32,26 +32,12 @@ SidebarProps) {
   return (
     <div
       className={cn(
-        "w-80 bg-white border-r border-islamic-green-200 flex flex-col",
+        "h-full w-80 bg-white border-r border-islamic-green-200 flex flex-col",
         className
       )}
     >
       {/* Header */}
       <div className="p-4 border-b border-islamic-green-200">
-        <div className="flex items-center gap-3 mb-4">
-          <div className="w-8 h-8 bg-gradient-to-br from-islamic-green-500 to-islamic-teal-500 rounded-lg flex items-center justify-center">
-            <MoonStar className="w-5 h-5 text-white" />
-          </div>
-          <div>
-            <h1 className="font-semibold text-islamic-green-800">
-              Islamic Finance AI
-            </h1>
-            <p className="text-xs text-islamic-green-600">
-              Sharia-Compliant Consultant
-            </p>
-          </div>
-        </div>
-
         <Button onClick={onNewChat} className="w-full" variant="islamic">
           <Plus className="w-4 h-4 mr-2" />
           New Chat

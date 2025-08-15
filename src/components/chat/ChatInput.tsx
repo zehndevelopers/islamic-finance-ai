@@ -23,17 +23,19 @@ export function ChatInput({
 }: ChatInputProps) {
   const textareaRef = React.useRef<HTMLTextAreaElement>(null);
 
+  const MAX_CHARACTER_COUNT = 2000;
+
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
-      if (value.trim() && !isLoading && !disabled) {
+      if (!!value.trim() && !isLoading && !disabled) {
         onSubmit();
       }
     }
   };
 
   const handleSubmit = () => {
-    if (value.trim() && !isLoading && !disabled) {
+    if (!!value.trim() && !isLoading && !disabled) {
       onSubmit();
     }
   };
@@ -46,6 +48,11 @@ export function ChatInput({
       textarea.style.height = Math.min(textarea.scrollHeight, 120) + "px";
     }
   }, [value]);
+
+  const isValidCharacterCount = React.useMemo(
+    () => value.trim().length > 0 && value.length <= MAX_CHARACTER_COUNT,
+    [value]
+  );
 
   return (
     <div className="border-t border-islamic-green-200 bg-white p-4">
@@ -69,9 +76,9 @@ export function ChatInput({
             />
 
             {/* Character count */}
-            {value.length > 1800 && (
+            {value.length > MAX_CHARACTER_COUNT - 200 && (
               <div className="absolute bottom-2 right-2 text-xs text-islamic-green-400">
-                {value.length}/2000
+                {value.length}/{MAX_CHARACTER_COUNT}
               </div>
             )}
           </div>
@@ -79,7 +86,7 @@ export function ChatInput({
           {/* Send Button */}
           <Button
             onClick={handleSubmit}
-            disabled={isLoading || disabled}
+            disabled={isLoading || disabled || !isValidCharacterCount}
             variant="islamic"
             size="icon"
             className="h-11 w-11 shrink-0"
@@ -96,8 +103,8 @@ export function ChatInput({
         <div className="flex justify-between items-center mt-2 text-xs text-islamic-green-500">
           <span>Press Enter to send, Shift+Enter for new line</span>
           <span className="text-islamic-green-400">
-            {value.length > 1800 &&
-              `${2000 - value.length} characters remaining`}
+            {value.length > MAX_CHARACTER_COUNT - 200 &&
+              `${MAX_CHARACTER_COUNT - value.length} characters remaining`}
           </span>
         </div>
       </div>
