@@ -1,44 +1,72 @@
-import React from "react";
+import { useState } from "react";
+import { useNavigate, useParams } from "react-router-dom";
+import { Plus, MessageSquare, Trash2, Settings } from "lucide-react";
+
 import { Button } from "@/components/ui/button";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { ChatSession } from "@/types";
 import { formatTimestamp, truncateText } from "@/lib/utils";
-import { Plus, MessageSquare, Trash2, Settings, MoonStar } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useChatStore } from "@/stores/chatStore";
+import { useSessions } from "@/hooks/useSessions";
 
 interface SidebarProps {
-  sessions: ChatSession[];
-  currentSessionId: string;
-  onNewChat: () => void;
-  onSelectSession: (sessionId: string) => void;
-  onDeleteSession: (sessionId: string) => void;
   className?: string;
-  isLoading?: boolean;
 }
 
-export function Sidebar({
-  sessions,
-  currentSessionId,
-  onNewChat,
-  onSelectSession,
-  onDeleteSession,
-  className,
-}: // isLoading = false,
-SidebarProps) {
-  const [hoveredSession, setHoveredSession] = React.useState<string | null>(
-    null
-  );
+export function Sidebar({ className }: SidebarProps) {
+  const [hoveredSession, setHoveredSession] = useState<string | null>(null);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+
+  const { sessionId } = useParams<{ sessionId: string }>();
+
+  const navigate = useNavigate();
+
+  const { currentSessionId, setCurrentSession } = useChatStore();
+  const {
+    sessions,
+    deleteSession,
+    isLoading: isSessionsLoading,
+  } = useSessions();
+
+  const handleNewChat = () => {
+    navigate("/");
+  };
+
+  const handleSelectSession = (selectedSessionId: string) => {
+    setCurrentSession(selectedSessionId);
+    navigate(`/chat/${selectedSessionId}`);
+  };
+
+  const handleDeleteSession = async (sessionIdToDelete: string) => {
+    try {
+      await deleteSession(sessionIdToDelete);
+
+      // If we deleted the current session, redirect appropriately
+      if (sessionIdToDelete === sessionId) {
+        const remainingSessions = sessions.filter(
+          (s) => s.id !== sessionIdToDelete
+        );
+        if (remainingSessions.length > 0) {
+          navigate(`/chat/${remainingSessions[0].id}`);
+        } else {
+          navigate("/");
+        }
+      }
+    } catch (error) {
+      console.error("Failed to delete session:", error);
+    }
+  };
 
   return (
     <div
       className={cn(
         "h-full w-80 bg-white border-r border-islamic-green-200 flex flex-col",
-        className
+        "transition-transform duration-300 ease-in-out"
       )}
     >
       {/* Header */}
       <div className="p-4 border-b border-islamic-green-200">
-        <Button onClick={onNewChat} className="w-full" variant="islamic">
+        <Button onClick={handleNewChat} className="w-full" variant="islamic">
           <Plus className="w-4 h-4 mr-2" />
           New Chat
         </Button>
@@ -65,7 +93,7 @@ SidebarProps) {
                       ? "bg-islamic-green-100 border border-islamic-green-300"
                       : "hover:bg-islamic-green-50"
                   )}
-                  onClick={() => onSelectSession(session.id)}
+                  onClick={() => handleSelectSession(session.id)}
                   onMouseEnter={() => setHoveredSession(session.id)}
                   onMouseLeave={() => setHoveredSession(null)}
                 >
@@ -96,7 +124,7 @@ SidebarProps) {
                           className="w-6 h-6 opacity-0 group-hover:opacity-100 transition-opacity"
                           onClick={(e) => {
                             e.stopPropagation();
-                            onDeleteSession(session.id);
+                            handleDeleteSession(session.id);
                           }}
                         >
                           <Trash2 className="w-3 h-3 text-red-500" />
