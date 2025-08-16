@@ -60,7 +60,7 @@ export function Sidebar({ className }: SidebarProps) {
   return (
     <div
       className={cn(
-        "h-full w-80 bg-white border-r border-islamic-green-200 flex flex-col",
+        "h-full w-80 bg-background border-r border-islamic-green-200 flex flex-col",
         "transition-transform duration-300 ease-in-out"
       )}
     >
@@ -76,7 +76,7 @@ export function Sidebar({ className }: SidebarProps) {
       <ScrollArea className="flex-1">
         <div className="p-2">
           {sessions.length === 0 ? (
-            <div className="text-center py-8 text-islamic-green-500">
+            <div className="text-center py-8 text-islamic-green-500 dark:text-islamic-green-400">
               <MessageSquare className="w-8 h-8 mx-auto mb-2 opacity-50" />
               <p className="text-sm">No conversations yet</p>
               <p className="text-xs opacity-75">Start a new chat to begin</p>
@@ -90,8 +90,8 @@ export function Sidebar({ className }: SidebarProps) {
                     "group relative rounded-lg p-3 cursor-pointer transition-all duration-200",
                     "hover:bg-islamic-green-50",
                     currentSessionId === session.id
-                      ? "bg-islamic-green-100 border border-islamic-green-300"
-                      : "hover:bg-islamic-green-50"
+                      ? "bg-islamic-green-100 dark:bg-islamic-green-900 border border-islamic-green-300 dark:border-islamic-green-500"
+                      : "hover:bg-islamic-green-50 dark:hover:bg-islamic-green-800/25"
                   )}
                   onClick={() => handleSelectSession(session.id)}
                   onMouseEnter={() => setHoveredSession(session.id)}
@@ -103,13 +103,13 @@ export function Sidebar({ className }: SidebarProps) {
                         className={cn(
                           "font-medium text-sm mb-1 truncate",
                           currentSessionId === session.id
-                            ? "text-islamic-green-800"
-                            : "text-gray-800"
+                            ? "text-islamic-green-800 dark:text-islamic-green-200"
+                            : "text-gray-800 dark:text-islamic-green-50"
                         )}
                       >
                         {truncateText(session.title, 30)}
                       </h3>
-                      <div className="text-xs text-islamic-green-600">
+                      <div className="text-xs text-islamic-green-600 dark:text-islamic-green-500">
                         {formatTimestamp(new Date(session.updated_at))}
                       </div>
                     </div>
@@ -149,10 +149,10 @@ export function Sidebar({ className }: SidebarProps) {
       </ScrollArea>
 
       {/* Footer */}
-      <div className="p-4 border-t border-islamic-green-200">
+      <div className="p-4 border-t border-islamic-green-200 dark:border-islamic-green-800/25">
         <Button
           variant="ghost"
-          className="w-full justify-start text-islamic-green-600"
+          className="w-full justify-start text-islamic-green-600 dark:text-islamic-green-50 dark:hover:bg-islamic-green-800/25"
         >
           <Settings className="w-4 h-4 mr-2" />
           Settings

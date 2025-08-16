@@ -55,7 +55,7 @@ export function ChatInput({
   );
 
   return (
-    <div className="border-t border-islamic-green-200 bg-white p-4">
+    <div className="border-t border-islamic-green-200 bg-background p-4">
       <div className="max-w-4xl mx-auto">
         <div className="relative flex items-end gap-3">
           {/* Input Area */}
@@ -68,16 +68,16 @@ export function ChatInput({
               placeholder={placeholder}
               disabled={disabled || isLoading}
               className={cn(
-                "min-h-[22px] max-h-[120px] resize-none pr-12 py-3",
-                "border-islamic-green-200 focus:border-islamic-green-400",
-                "placeholder:text-islamic-green-400"
+                "bg-background min-h-[22px] max-h-[120px] resize-none pr-12 py-3",
+                "border-islamic-green-200 focus:border-islamic-green-400 dark:border-islamic-green-800 dark:focus:border-islamic-green-700",
+                "placeholder:text-gray-400/75 dark:placeholder:text-islamic-green-50/50"
               )}
               rows={1}
             />
 
             {/* Character count */}
             {value.length > MAX_CHARACTER_COUNT - 200 && (
-              <div className="absolute bottom-2 right-2 text-xs text-islamic-green-400">
+              <div className="absolute bottom-2 right-2 text-xs text-islamic-green-400 dark:text-islamic-green-600">
                 {value.length}/{MAX_CHARACTER_COUNT}
               </div>
             )}
@@ -100,7 +100,7 @@ export function ChatInput({
         </div>
 
         {/* Keyboard Shortcut Hint */}
-        <div className="flex justify-between items-center mt-2 text-xs text-islamic-green-500">
+        <div className="flex justify-between items-center mt-2 text-xs text-gray-500 dark:text-islamic-green-50/75">
           <span>Press Enter to send, Shift+Enter for new line</span>
           <span className="text-islamic-green-400">
             {value.length > MAX_CHARACTER_COUNT - 200 &&

@@ -98,7 +98,7 @@ export function ChatMessagesPage() {
   }
 
   return (
-    <div className="h-screen flex flex-col bg-gray-50">
+    <div className="h-screen flex flex-col bg-background">
       {/* Header */}
       <Header />
 
@@ -108,7 +108,7 @@ export function ChatMessagesPage() {
         <Sidebar />
 
         {/* Chat Area */}
-        <div className="flex-1 flex flex-col bg-white">
+        <div className="flex-1 flex flex-col bg-background">
           {/* Messages */}
           <ChatMessages
             messages={messages.map((msg) => ({

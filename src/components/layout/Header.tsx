@@ -55,7 +55,7 @@ export function Header({ className }: HeaderProps) {
     <>
       <header
         className={cn(
-          "h-16 bg-white border-b border-islamic-green-200 flex items-center justify-between px-4",
+          "h-16 bg-background border-b border-islamic-green-200 flex items-center justify-between px-4",
           className
         )}
       >
@@ -80,10 +80,10 @@ export function Header({ className }: HeaderProps) {
               <MoonStar className="w-5 h-5 text-white" />
             </div>
             <div className="flex flex-col items-start">
-              <h1 className="font-semibold text-islamic-green-800">
+              <h1 className="font-semibold text-islamic-green-800 dark:text-islamic-green-200">
                 Islamic Finance AI
               </h1>
-              <p className="text-xs text-islamic-green-600">
+              <p className="text-xs text-islamic-green-600 dark:text-islamic-green-400">
                 Sharia-Compliant Financial Consultant
               </p>
             </div>
@@ -91,24 +91,30 @@ export function Header({ className }: HeaderProps) {
         </div>
 
         {/* Center Section - Status */}
-        <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-islamic-green-50 rounded-full">
-          <div className="w-2 h-2 bg-islamic-green-500 rounded-full animate-pulse" />
-          <span className="text-sm text-islamic-green-700">AI Ready</span>
+        <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-islamic-green-50 dark:bg-islamic-green-800 rounded-full">
+          <div className="w-2 h-2 bg-islamic-green-500 dark:bg-islamic-green-200 rounded-full animate-pulse" />
+          <span className="text-sm text-islamic-green-700 dark:text-islamic-green-50">
+            AI Ready
+          </span>
         </div>
 
         {/* Right Section */}
         <div className="flex items-center gap-2">
           {/* Language Toggle */}
-          <Button variant="ghost" size="icon" className="hidden sm:flex">
+          <Button
+            className="dark:hover:bg-islamic-green-900/25"
+            variant="ghost"
+            size="icon"
+          >
             <Globe className="w-4 h-4" />
           </Button>
 
           {/* Theme Toggle */}
           <Button
             variant="ghost"
+            className="dark:hover:bg-islamic-green-900/25"
             size="icon"
             onClick={() => setIsDark(!isDark)}
-            className="hidden sm:flex"
           >
             {isDark ? (
               <Sun className="w-4 h-4" />
@@ -120,12 +126,22 @@ export function Header({ className }: HeaderProps) {
           <Separator orientation="vertical" className="h-6 hidden sm:block" />
 
           {/* Help */}
-          <Button variant="ghost" size="icon" onClick={handleHelpClick}>
+          <Button
+            className="dark:hover:bg-islamic-green-900/25"
+            variant="ghost"
+            size="icon"
+            onClick={handleHelpClick}
+          >
             <HelpCircle className="w-4 h-4" />
           </Button>
 
           {/* User Profile */}
-          <Button variant="ghost" size="icon" onClick={handleProfileClick}>
+          <Button
+            className="dark:hover:bg-islamic-green-900/25"
+            variant="ghost"
+            size="icon"
+            onClick={handleProfileClick}
+          >
             <User className="w-4 h-4" />
           </Button>
         </div>
