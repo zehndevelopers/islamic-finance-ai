@@ -1,4 +1,4 @@
-import React from "react";
+import { useEffect, useMemo, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 import { Send, Loader2 } from "lucide-react";
@@ -21,7 +21,7 @@ export function ChatInput({
   placeholder = "Ask about Islamic finance...",
   disabled = false,
 }: ChatInputProps) {
-  const textareaRef = React.useRef<HTMLTextAreaElement>(null);
+  const textareaRef = useRef<HTMLTextAreaElement>(null);
 
   const MAX_CHARACTER_COUNT = 2000;
 
@@ -41,7 +41,7 @@ export function ChatInput({
   };
 
   // Auto-resize textarea
-  React.useEffect(() => {
+  useEffect(() => {
     const textarea = textareaRef.current;
     if (textarea) {
       textarea.style.height = "auto";
@@ -49,7 +49,7 @@ export function ChatInput({
     }
   }, [value]);
 
-  const isValidCharacterCount = React.useMemo(
+  const isValidCharacterCount = useMemo(
     () => value.trim().length > 0 && value.length <= MAX_CHARACTER_COUNT,
     [value]
   );
@@ -68,7 +68,7 @@ export function ChatInput({
               placeholder={placeholder}
               disabled={disabled || isLoading}
               className={cn(
-                "min-h-[44px] max-h-[120px] resize-none pr-12 py-3",
+                "min-h-[22px] max-h-[120px] resize-none pr-12 py-3",
                 "border-islamic-green-200 focus:border-islamic-green-400",
                 "placeholder:text-islamic-green-400"
               )}

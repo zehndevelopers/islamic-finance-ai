@@ -1,8 +1,14 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { ChatPage } from "@/pages/ChatPage";
-import { ProtectedRoute } from "@/components/auth/ProtectedRoute";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+} from "react-router-dom";
+import { WelcomePage } from '@/pages/WelcomePage'
+import { ChatMessagesPage } from '@/pages/ChatMessagesPage'
+import { ProfilePage } from '@/pages/ProfilePage'
+import { ProtectedRoute } from '@/components/auth/ProtectedRoute';
 import "./App.css";
 
 // Create a client
@@ -25,26 +31,20 @@ function App() {
               path="/"
               element={
                 <ProtectedRoute>
-                  <ChatPage />
+                  <WelcomePage />
                 </ProtectedRoute>
               }
             />
-            <Route
-              path="/chat"
-              element={
-                <ProtectedRoute>
-                  <ChatPage showWelcome={false} />
-                </ProtectedRoute>
-              }
-            />
-            <Route
-              path="/chat/:sessionId"
-              element={
-                <ProtectedRoute>
-                  <ChatPage showWelcome={false} />
-                </ProtectedRoute>
-              }
-            />
+            <Route path="/chat/:sessionId" element={
+              <ProtectedRoute>
+                <ChatMessagesPage />
+              </ProtectedRoute>
+            } />
+            <Route path="/profile" element={
+              <ProtectedRoute>
+                <ProfilePage />
+              </ProtectedRoute>
+            } />
           </Routes>
         </div>
         {process.env.NODE_ENV === "development" && (
