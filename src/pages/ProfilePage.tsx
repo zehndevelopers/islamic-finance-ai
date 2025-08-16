@@ -112,7 +112,7 @@ export function ProfilePage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-background">
       <Header />
 
       <div className="max-w-2xl mx-auto px-4 py-8">
@@ -120,23 +120,25 @@ export function ProfilePage() {
         <Button
           variant="ghost"
           onClick={() => navigate(-1)}
-          className="mb-6 text-islamic-green-600 hover:text-islamic-green-700"
+          className="mb-6 text-islamic-green-600 hover:text-islamic-green-700 dark:text-islamic-green-50/75 dark:hover:text-islamic-green-600 dark:hover:bg-islamic-green-900/15"
         >
           <ArrowLeft className="w-4 h-4 mr-2" />
           Back
         </Button>
 
         {/* Profile Header */}
-        <div className="bg-white rounded-lg shadow-sm border border-gray-200 p-6 mb-6">
+        <div className="bg-background rounded-lg shadow-sm border border-gray-200 dark:border-gray-600/75 p-6 mb-6">
           <div className="flex items-center gap-4 mb-6">
             <div className="w-16 h-16 bg-gradient-to-br from-islamic-green-500 to-islamic-teal-500 rounded-full flex items-center justify-center">
               <User className="w-8 h-8 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">
+              <h1 className="text-2xl font-bold text-gray-900 dark:text-islamic-green-50">
                 Profile Settings
               </h1>
-              <p className="text-gray-600">Manage your personal information</p>
+              <p className="text-gray-600 dark:text-islamic-green-50/75">
+                Manage your personal information
+              </p>
             </div>
           </div>
 
@@ -160,7 +162,7 @@ export function ProfilePage() {
               <div>
                 <label
                   htmlFor="name"
-                  className="block text-sm font-medium text-gray-700 mb-2"
+                  className="block text-sm font-medium text-gray-700 dark:text-islamic-green-50/75 mb-2"
                 >
                   First Name
                 </label>
@@ -182,7 +184,7 @@ export function ProfilePage() {
               <div>
                 <label
                   htmlFor="surname"
-                  className="block text-sm font-medium text-gray-700 mb-2"
+                  className="block text-sm font-medium text-gray-700 dark:text-islamic-green-50/75 mb-2"
                 >
                   Last Name
                 </label>
@@ -205,7 +207,7 @@ export function ProfilePage() {
             <div className="max-w-xs">
               <label
                 htmlFor="age"
-                className="block text-sm font-medium text-gray-700 mb-2"
+                className="block text-sm font-medium text-gray-700 dark:text-islamic-green-50/75 mb-2"
               >
                 Age
               </label>
@@ -230,7 +232,7 @@ export function ProfilePage() {
               <Button
                 type="submit"
                 disabled={isLoading}
-                className="bg-islamic-green-600 hover:bg-islamic-green-700 text-white"
+                className="bg-islamic-green-600 hover:bg-islamic-green-700 dark:bg-islamic-green-700 dark:hover:bg-islamic-green-800 text-white"
               >
                 {isLoading ? (
                   <>
@@ -249,8 +251,8 @@ export function ProfilePage() {
         </div>
 
         {/* Additional Info */}
-        <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-          <p className="text-sm text-blue-800">
+        <div className="bg-background border border-blue-200 dark:border-blue-800/50 rounded-lg p-4">
+          <p className="text-sm text-blue-800 dark:text-blue-50/75">
             <strong>Privacy Note:</strong> Your personal information is stored
             securely and will only be used to personalize your Islamic Finance
             AI experience. All fields are optional.

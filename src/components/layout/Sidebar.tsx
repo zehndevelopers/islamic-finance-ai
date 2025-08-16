@@ -60,12 +60,12 @@ export function Sidebar({ className }: SidebarProps) {
   return (
     <div
       className={cn(
-        "h-full w-80 bg-background border-r border-islamic-green-200 flex flex-col",
+        "h-full w-80 bg-background border-r border-islamic-green-200 dark:border-islamic-green-800/25 flex flex-col",
         "transition-transform duration-300 ease-in-out"
       )}
     >
       {/* Header */}
-      <div className="p-4 border-b border-islamic-green-200">
+      <div className="p-4 border-b border-islamic-green-200 dark:border-islamic-green-800/25">
         <Button onClick={handleNewChat} className="w-full" variant="islamic">
           <Plus className="w-4 h-4 mr-2" />
           New Chat

@@ -1,14 +1,10 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-} from "react-router-dom";
-import { WelcomePage } from '@/pages/WelcomePage'
-import { ChatMessagesPage } from '@/pages/ChatMessagesPage'
-import { ProfilePage } from '@/pages/ProfilePage'
-import { ProtectedRoute } from '@/components/auth/ProtectedRoute';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { WelcomePage } from "@/pages/WelcomePage";
+import { ChatMessagesPage } from "@/pages/ChatMessagesPage";
+import { ProfilePage } from "@/pages/ProfilePage";
+import { ProtectedRoute } from "@/components/auth/ProtectedRoute";
 import "./App.css";
 
 // Create a client
@@ -25,7 +21,7 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <Router>
-        <div className="App min-h-screen bg-gray-50">
+        <div className="App min-h-screen bg-gray-50 dark:bg-gray-900/10">
           <Routes>
             <Route
               path="/"
@@ -35,16 +31,22 @@ function App() {
                 </ProtectedRoute>
               }
             />
-            <Route path="/chat/:sessionId" element={
-              <ProtectedRoute>
-                <ChatMessagesPage />
-              </ProtectedRoute>
-            } />
-            <Route path="/profile" element={
-              <ProtectedRoute>
-                <ProfilePage />
-              </ProtectedRoute>
-            } />
+            <Route
+              path="/chat/:sessionId"
+              element={
+                <ProtectedRoute>
+                  <ChatMessagesPage />
+                </ProtectedRoute>
+              }
+            />
+            <Route
+              path="/profile"
+              element={
+                <ProtectedRoute>
+                  <ProfilePage />
+                </ProtectedRoute>
+              }
+            />
           </Routes>
         </div>
         {process.env.NODE_ENV === "development" && (

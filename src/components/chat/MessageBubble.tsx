@@ -73,7 +73,7 @@ export function MessageBubble({ message, onCopy }: MessageBubbleProps) {
             isUser ? "justify-end" : "justify-start"
           )}
         >
-          <span className="text-sm font-medium text-islamic-green-800 dark:text-islamic-green-200">
+          <span className="text-sm font-medium text-islamic-green-800 dark:text-islamic-green-50">
             {isUser ? "You" : "Islamic Finance AI"}
           </span>
           <span className="text-xs text-muted-foreground">
@@ -88,7 +88,7 @@ export function MessageBubble({ message, onCopy }: MessageBubbleProps) {
             "relative inline-block max-w-3xl rounded-2xl px-4 py-3 shadow-sm",
             isUser
               ? "bg-islamic-teal-600 text-white dark:bg-islamic-teal-900 ml-auto"
-              : "bg-background border border-islamic-green-200 dark:border-islamic-green-800",
+              : "bg-background border border-islamic-green-200 dark:border-islamic-green-800/25",
             isRtl && "text-right font-arabic"
           )}
         >

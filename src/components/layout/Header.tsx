@@ -55,7 +55,7 @@ export function Header({ className }: HeaderProps) {
     <>
       <header
         className={cn(
-          "h-16 bg-background border-b border-islamic-green-200 flex items-center justify-between px-4",
+          "h-16 bg-background border-b border-islamic-green-200 dark:border-islamic-green-800/25 flex items-center justify-between px-4",
           className
         )}
       >

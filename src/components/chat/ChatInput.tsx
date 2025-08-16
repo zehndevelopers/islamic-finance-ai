@@ -55,7 +55,7 @@ export function ChatInput({
   );
 
   return (
-    <div className="border-t border-islamic-green-200 bg-background p-4">
+    <div className="border-t border-islamic-green-200 dark:border-islamic-green-800/25 bg-background p-4">
       <div className="max-w-4xl mx-auto">
         <div className="relative flex items-end gap-3">
           {/* Input Area */}

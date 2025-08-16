@@ -45,7 +45,7 @@ export function WelcomePage() {
   };
 
   return (
-    <div className="h-screen bg-gradient-to-br from-islamic-green-50 to-islamic-teal-50 flex flex-col">
+    <div className="h-screen bg-gradient-to-br from-islamic-green-50 to-islamic-teal-50 dark:from-islamic-green-900/10 dark:to-islamic-teal-900/10 flex flex-col">
       {/* Header */}
       <Header />
 
@@ -58,10 +58,10 @@ export function WelcomePage() {
           <div className="h-full flex-1 flex flex-col items-center justify-center px-4 py-8">
             {/* Welcome Title */}
             <div className="text-center mb-12">
-              <h1 className="text-4xl md:text-5xl font-bold text-islamic-green-800 mb-4">
+              <h1 className="text-4xl md:text-5xl font-bold text-islamic-green-800 dark:text-islamic-green-500 mb-4">
                 Islamic Finance AI
               </h1>
-              <p className="text-lg md:text-xl text-islamic-green-600 max-w-2xl">
+              <p className="text-lg md:text-xl text-islamic-green-600 dark:text-islamic-green-400/50 max-w-2xl">
                 Your intelligent assistant for Islamic finance guidance,
                 Sharia-compliant solutions, and financial wisdom.
               </p>
@@ -81,7 +81,7 @@ export function WelcomePage() {
 
             {/* Suggestion Buttons */}
             <div className="w-full max-w-4xl">
-              <p className="text-center text-islamic-green-700 mb-6 font-medium">
+              <p className="text-center text-islamic-green-700 dark:text-islamic-green-400/80 mb-6 font-medium">
                 Try asking about:
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -89,7 +89,7 @@ export function WelcomePage() {
                   <Button
                     key={index}
                     variant="outline"
-                    className="h-auto p-4 text-left border-islamic-green-200 hover:border-islamic-green-400 hover:bg-islamic-green-50 transition-all duration-200"
+                    className="h-auto p-4 text-left border-islamic-green-200 hover:border-islamic-green-400 hover:bg-islamic-green-50 dark:border-islamic-green-700/25 dark:hover:bg-islamic-green-900/25 dark:hover:border-islamic-green-700/25 transition-all duration-200"
                     onClick={() => handleQuickAction(action.prompt)}
                   >
                     {action.title}
@@ -100,7 +100,7 @@ export function WelcomePage() {
           </div>
 
           {/* Footer */}
-          <div className="text-center py-6 text-sm text-islamic-green-500">
+          <div className="text-center py-6 text-sm text-islamic-green-500 dark:text-islamic-green-700/80">
             <p>
               Built with Islamic principles • Sharia-compliant guidance •
               AI-powered insights
