@@ -109,7 +109,7 @@ export function Sidebar({ className }: SidebarProps) {
                       >
                         {truncateText(session.title, 30)}
                       </h3>
-                      <div className="text-xs text-islamic-green-600 dark:text-islamic-green-500">
+                      <div className="text-xs text-gray-600 dark:text-gray-400">
                         {formatTimestamp(new Date(session.updated_at))}
                       </div>
                     </div>
