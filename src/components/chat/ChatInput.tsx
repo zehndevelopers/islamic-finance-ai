@@ -11,6 +11,7 @@ interface ChatInputProps {
   isLoading?: boolean;
   placeholder?: string;
   disabled?: boolean;
+  className?: string;
 }
 
 export function ChatInput({
@@ -20,6 +21,7 @@ export function ChatInput({
   isLoading = false,
   placeholder = "Ask about Islamic finance...",
   disabled = false,
+  className,
 }: ChatInputProps) {
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -55,7 +57,12 @@ export function ChatInput({
   );
 
   return (
-    <div className="border-t border-islamic-green-200 dark:border-islamic-green-800/25 bg-background p-4">
+    <div
+      className={cn(
+        "border-t border-islamic-green-200 dark:border-islamic-green-800/25 bg-background p-4",
+        className
+      )}
+    >
       <div className="max-w-4xl mx-auto">
         <div className="relative flex items-end gap-3">
           {/* Input Area */}

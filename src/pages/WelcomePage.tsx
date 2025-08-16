@@ -76,6 +76,7 @@ export function WelcomePage() {
                 isLoading={isCreatingSession}
                 disabled={isCreatingSession}
                 placeholder="Ask about Islamic finance..."
+                className="border rounded-xl"
               />
             </div>
 
