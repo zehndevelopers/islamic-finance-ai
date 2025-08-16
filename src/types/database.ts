@@ -40,6 +40,43 @@ export interface Database {
           }
         ]
       }
+      profiles: {
+        Row: {
+          id: string
+          user_id: string
+          name: string | null
+          surname: string | null
+          age: number | null
+          created_at: string
+          updated_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          name?: string | null
+          surname?: string | null
+          age?: number | null
+          created_at?: string
+          updated_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          name?: string | null
+          surname?: string | null
+          age?: number | null
+          created_at?: string
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "profiles_user_id_fkey"
+            columns: ["user_id"]
+            referencedRelation: "users"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
       messages: {
         Row: {
           id: string
