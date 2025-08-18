@@ -9,24 +9,15 @@ import { cn } from "@/lib/utils";
 import { useChatStore } from "@/stores/chatStore";
 import { useSessions } from "@/hooks/useSessions";
 
-interface SidebarProps {
-  className?: string;
-}
-
-export function Sidebar({ className }: SidebarProps) {
+export function Sidebar() {
   const [hoveredSession, setHoveredSession] = useState<string | null>(null);
-  const [sidebarOpen, setSidebarOpen] = useState(true);
 
   const { sessionId } = useParams<{ sessionId: string }>();
 
   const navigate = useNavigate();
 
   const { currentSessionId, setCurrentSession } = useChatStore();
-  const {
-    sessions,
-    deleteSession,
-    isLoading: isSessionsLoading,
-  } = useSessions();
+  const { sessions, deleteSession } = useSessions();
 
   const handleNewChat = () => {
     navigate("/");

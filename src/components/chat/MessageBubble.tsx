@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { formatTimestamp, isRTL, formatCitation } from "@/lib/utils";
 import { Copy, User, Bot, Check, AlertCircle, Clock } from "lucide-react";
 import { cn } from "@/lib/utils";
+import ReactMarkdown from "react-markdown";
 
 interface MessageBubbleProps {
   message: Message;
@@ -101,9 +102,7 @@ export function MessageBubble({ message, onCopy }: MessageBubbleProps) {
                 : "prose-islamic-green prose-headings:text-islamic-green-800"
             )}
           >
-            <p className="whitespace-pre-wrap break-words mb-0">
-              {message.content}
-            </p>
+            <ReactMarkdown>{message.content}</ReactMarkdown>
           </div>
 
           {/* Citations */}

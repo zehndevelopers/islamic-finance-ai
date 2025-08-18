@@ -18,7 +18,7 @@ export function ChatMessagesPage() {
   const navigate = useNavigate();
 
   const { currentSessionId, setCurrentSession } = useChatStore();
-  const { sessions, isLoading: isSessionsLoading } = useSessions();
+  const { sessions } = useSessions();
   const { messages, isLoading: isMessagesLoading } = useMessages(
     sessionId || null
   );
