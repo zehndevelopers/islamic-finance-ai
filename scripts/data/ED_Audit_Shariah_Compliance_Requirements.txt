@@ -1,0 +1,1199 @@
+# AAOIFI Standard on Auditing and Assurance (SOAA) __
+
+## Auditing Requirements for Assessing Compliance with Shari'ah Principles and Rules
+
+*Exposure Draft (EDSOAA 1/2024)*
+
+## Contents
+
+- Contents
+- Preface
+- Introduction
+  - Overview
+  - Rationale for issuing this standard
+  - Significant changes from the previous standard
+- Objective of the standard
+- Scope
+- Definitions
+- Auditor's responsibility with regard to considerations for Shari'ah principles and rules in an audit of financial statements
+  - Broad classification of Shari'ah principles and rules requiring auditor's consideration
+  - Auditor's responsibility with regard to the truth and fairness opinion
+  - Auditor's responsibility with regard to the Shari'ah compliance opinion
+  - Auditor's respective responsibilities with regard to design and effective implementation of Shari'ah principles and rules
+  - Limitations of auditor's responsibility in the context of assessment of compliance with Shari'ah principles and rules in the audit of financial statements
+  - Management's and TCWG's responsibility
+- Compliance requirements
+  - Quality management
+- Conduct of an audit
+  - Planning and risk assessment
+    - Determination of applicable Shari'ah principles and rules and their implementation requirements
+    - Assessing the suitability of the applicable Shari'ah principles and rules
+    - Interaction with Shari'ah supervisor(s)
+    - Identifying and assessing the risk of non-compliance with Shari'ah principles and rules
+    - Assessment of governance and control environment mitigating the risk of non-compliance with Shari'ah principles and rules
+    - Determining audit materiality
+    - Assessing the need for involving auditor's expert(s)
+    - Reliance on the work performed by SSB
+    - Reliance on the work performed by the external Shari'ah auditor
+  - Execution
+    - Minimum substantive procedures in respect of compliance with Shari'ah principles and rules
+    - Non-compliance brought to the auditor's attention by other audit procedures
+    - Audit procedures when non-compliance is identified or suspected
+    - Additional procedures to identify instances of non-compliance with Shari'ah principles and rules – not having a direct effect on the financial statements
+  - Considerations of fraud and error
+    - Professional scepticism
+  - Other significant considerations during the conduct of an audit
+    - Written representations
+  - Unique aspects of an IFI’s audit – due to business model / product structures
+  - Documentation and archiving
+  - Conclusion of an audit
+    - Communicating with TCWG on identified or suspected non-compliance
+    - Communication with SSB and making the auditor’s draft report available
+    - Reporting identified or suspected non-compliance to an appropriate authority outside the institution
+- Auditor’s report
+  - Truth and fairness opinion – potential implications of identified or suspected non-compliance
+  - Shari'ah compliance opinion – reference to the placement of reliance on SSB and other functions of Shari'ah governance
+- Effective date
+- Amendments to other standards
+- Appendices
+- Appendix A: Adoption of the standard
+  - Members of the AAOIFI Governance and Ethics Board
+  - Members of the AAOIFI Accounting Board
+  - Members of the Auditing and Assurance Standards Committee (AASC)
+  - Executive team
+- Appendix B: Basis for conclusions
+- Appendix C: Brief history of the preparation of the standard
+
+*[ED of] AAOIFI Standard on Auditing and Assurance (SOAA) ___ "Auditing Requirements for Assessing Compliance with Shari'ah Principles and Rules" is set out in paragraphs 1 - 70.*
+
+Where the context so requires, the use of the masculine gender shall include the feminine gender and the
+singular shall include the plural and vice versa and the word “person” shall include any institution,
+corporation, firm, partnership, body corporate or other forms of association. The table of contents and
+headings do not form part of the text of the standard and are for the purpose of convenience and ease of
+{{ ... }}
+understanding and may, at times, help in the interpretation of text only.
+
+All AAOIFI SOAAs shall be read in conjunction with the definitions, Shari’ah principles and rules and key
+considerations provided by AAOIFI Shari’ah Standards (SS) in respect of such products and matters.
+
+## Preface
+
+PR1 Auditing for Islamic financial institutions, Islamic finance transactions and other financial and related
+information having compliance with Shari’ah principles and rules and the AAOIFI’s Financial
+Accounting Standards, in particular, have been a part of the AAOIFI’s standard setting mandate since
+its inception. The approach was to develop a limited set of standards focusing only on the value
+addition and the specific aspects of auditing related to Shari’ah principles and rules and the specific
+business models and structures related to Islamic finance, while allowing use of other established
+practices of auditing (in particular, International Standards on Auditing (ISAs), issued by the
+International Auditing and Assurance Standards Board (IAASB)).
+
+PR2 Considering significant developments in the auditing profession in last several years, an auditing
+standards revision project was initiated by the AAOIFI Governance and Ethics Board to align the
+AAOIFI’s auditing standards (now named as “AAOIFI Standards on Auditing and Assurance” (SOAAs)¹ )
+with the current established practices of auditing, and the updated AAOIFI strategy for auditing
+standards setting.
+
+PR3 It is expected that this project shall include the following work products:
+
+a. a standard on the framework of auditing² ;
+
+b. a standard, on special considerations of an audit, particularly on the aspects of compliance
+with Shari’ah principles and rules (this standard);
+
+c. a guidance note, on the illustrative auditor’s report; and
+
+d. guidance note(s) on the audit of Islamic finance products, services, structures and business models.
+
+PR4 This standard shall be read in conjunction with [ED of] SOAA 1 "Framework of Auditing" and
+supersedes the existing SOAA 4 “Testing for Compliance with Shari’ah Rules and Principles by an
+External Auditor”.
+
+¹ Previously issued as AAOIFI Auditing Standards for Islamic Financial Institutions (ASIFI), later renamed as AAOIFI Standards on Auditing and Assurance (SOAA).
+
+² [ED of] SOAA 1 "Framework of Auditing"”
+
+## Introduction
+
+### Overview
+
+{{ ... }}
+IN4 AAOIFI SOAAs, including this SOAA, are developed in line with the revised AAOIFI auditing standard
+setting strategy, considering the aspects that need to be considered by the auditors of financial
+statements for IFIs and entities that report in line, and comply, with Shari’ah principles and rules.
+These aspects, inter-alia, include:
+
+a. the information needs of Shari'ah conscious stakeholders⁴ as to whether the transactions
+conducted by the institution are Shari’ah compliant. This is based on the premise that such
+users of the financial statements are not merely interested in profit, rather they are equally
+concerned whether Shari’ah principles and rules have been complied with while earning
+such profit; and
+
+{{ ... }}
+b. the business model and transaction structures in case of various Islamic financial institutions
+and Islamic finance structures, as well as, other Shari’ah compliant institutions e.g., social
+financial institutions, which are different from their conventional counterparts, and hence
+are subject to specific financial reporting requirements.
+
+IN5 The new strategy is to develop a limited set of standards while complementing, instead of
+competing with, other established practices of auditing (in particular, International Standards on
+Auditing (ISAs), issued by the International Auditing and Assurance Standards Board (IAASB)). This
+entails providing value addition through addressing specific aspects of auditing related to Shari’ah
+principles and rules and the specific business models and structures related to Islamic finance, which
+are not the subject of other established practices of auditing.
+
+IN6 Development of an updated set of standards on auditing was considered essential by the AAOIFI
+Governance and Ethics Board, considering the recent developments in the established practices of
+auditing and the increasing need for guidance in this area. Hence, a comprehensive project of
+revision of auditing standards was initiated, resulting in the work products including this standard.
+
+³ Shari'ah conscious stakeholder is a stakeholder who has an interest in the institution to be informed whether the institution is following Shari'ah principles and rules while conducting its business.
+
+This standard was considered essential in order to provide the necessary guidance to an auditor for
+specific considerations related to compliance with Shari’ah principles and rules.
+
+### Significant changes from the previous standard
+
+IN7 This standard brings significant changes from its predecessor standard (SOAA 4 “Testing for
+Compliance with Shari’ah Rules and Principles by an External Auditor”), inter-alia, in the following
+aspects:
+
+a. the contents and requirements have been aligned with the revised [ED of] SOAA 1
+“Framework of Auditing” and other work product(s) of the recent auditing standards
+revision project;
+
+b. definitions and significant principles have been aligned with current established practices of
+auditing (EPAs), including coverage of certain aspects which were not covered in the
+predecessor standard(s), including aspects related to reporting, communication, related
+parties, compliance with Shari’ah principles and rules, etc.;
+
+c. the auditor’s responsibility with regard to considerations for Shari’ah principles and rules
+has been addressed in detail, bifurcating between the truth and fairness opinion and the
+Shari’ah compliance opinion, and the same have further been aligned with the EPAs;
+
+d. the auditor’s responsibilities with regard to consideration of the design and effective
+implementation of Shari’ah principles and rules, respectively, have been clarified; and
+
+e. additional guidance in respect of substantive procedures, as well as, reporting,
+communication and documentation requirements has been provided.
+
+## Objective of the standard
+
+1. The objective of this standard is to prescribe the auditing requirements applicable to an auditor in
+   respect of the consideration for Shari’ah principles and rules in an audit of financial statements of an
+   Islamic financial institution (IFI / the institution) or another institution that operates in compliance,
+   and reports in line, with Shari’ah principles and rules.
+
+## Scope
+
+2. This standard prescribes an auditor’s responsibility to consider Shari’ah principles and rules in an
+   audit of financial statements of an IFI or another institution^4 that operates in compliance, and
+   reports in line, with Shari’ah principles and rules, carried out in accordance with the AAOIFI auditing
+   framework^5. This standard compliments the requirements of AAOIFI Standard on Auditing and
+   Assurance (SOAA) 1 “Framework of Auditing” and shall be read in conjunction therewith.
+3. An audit of the following is not considered within the scope of this standard:
+
+a. an external Shari’ah audit (independent assurance engagement with regard to an
+institution’s compliance with Shari’ah principles and rules), where the assurance service
+provider is engaged specifically to provide an opinion with regard to the institution’s
+compliance with Shari’ah principles and rules;
+
+b. an assurance engagement with a limited or specific scope where the assurance service
+provider is engaged specifically to provide an opinion with regard to such limited or specific
+scope, e.g., a certification of computation and distribution of profits and losses attributable
+to respective stakeholders;
+
+c. a transaction or structure, offered by a conventional financial institution referred to in
+clauses (a) and (b) of paragraph 3 of AAOIFI Financial Accounting Standard (FAS) 40
+“Financial Reporting for Islamic Finance Windows”; and
+
+d. an institution engaged in general business operations which are not in compliance with an
+identified set of Shari’ah principles and rules, as well as, an identified Shari’ah governance
+framework.
+
+(^4) Explanation: AAOIFI SOAAs are meant for providing a framework for the audit of financial statements of IFIs. However, these may also be applied for the purpose of audit of financial statements of institutions (including virtual institutions) other than IFIs including, in particular, the social finance institutions and institutions involving Islamic finance structures and transactions.
+
+## Definitions
+
+4. For the purpose of interpreting and applying this standard, the following short definitions are
+   relevant:
+
+a. Applicable financial reporting framework – is a financial reporting framework adopted by
+management and, where appropriate, those charged with governance (TCWG) for the
+purpose of the preparation of the financial statements of an institution or institution, based
+on the hierarchy mentioned in paragraph 7 of AAOIFI Conceptual Framework of Financial
+Reporting or any other framework which is in line with the Shari’ah principles and rules;
+
+b. Attestation external Shari'ah audit – is a type of external Shari'ah audit engagement in
+which the external Shari’ah auditor reports on a “statement of compliance with Shari’ah
+principles and rules” issued by the management of the IFI;
+
+c. Auditor – is a person or persons conducting an audit, and includes an audit firm, the
+engagement partner and, as the context suggests, other members of the engagement team,
+in compliance with the requirements of this standard;
+
+d. Audit documentation – is the record of audit procedures performed, relevant audit evidence
+obtained, and conclusions reached, by the auditor;
+
+e. Audit evidence – is the information used by the auditor in arriving at the conclusions on
+which the auditor’s opinion is based. Audit evidence includes both information contained in
+the accounting records underlying the financial statements and information obtained from
+other sources;
+
+f. Direct external Shari'ah audit – is a type of external Shari'ah audit engagement in which the
+external Shari’ah auditor reports directly on the compliance of an institution with the criteria
+given in SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an
+institution’s Compliance with Shari’ah principles and rules)” with regard to the subject
+matter i.e., compliance with Shari’ah principles and rules applicable to its financial
+arrangements, contracts and transactions during a specific period;
+
+g. Established practices of auditing (EPAs) – comprise of the International Standards on
+Auditing (ISAs) issued by the International Auditing and Assurance Standards Board (IAASB)
+and / or the equivalent standards and regulatory requirements applicable in the respective
+jurisdiction;
+
+h. External Shari’ah audit^11 – is an independent assurance engagement to provide reasonable
+assurance that an IFI complies with the “Shari’ah principles and rules” applicable to its
+financial arrangements, contracts and transactions during a specific period^12 based on a
+specific set of “Shari’ah principles and rules” contained in the criteria^13 ;
+
+i. External Shari’ah auditor – is a firm having professional knowledge and competence of
+auditing and relevant Shari’ah principles and rules, duly fulfilling the fit and proper criteria
+laid down by the respective regulator (the central Shari’ah board, if applicable) for
+appointment as an external Shari’ah auditor, who, at the request of the institution, provides
+an independent assurance report on the state of compliance by an institution with the
+Shari’ah principles and rules. The auditor may also be appointed as the external Shari’ah
+auditor of the institution;
+
+j. Fraud – refers to an intentional act by one or more individuals among management, TCWG,
+employees or third parties, involving the use of deception to obtain an unjust or illegal
+advantage or intentional non-compliances with Shari’ah principles and rules;
+
+k. Internal Shari’ah audit function – is a function part of the governance organs of an
+institution, being independent of management, with the primary objective to provide
+assurance to TCWG and the Shari’ah supervisory board (SSB) in relation to the institution’s
+adherence to the Shari’ah principles and rules;
+
+l. Internal Shari’ah auditors – are those individuals who perform the activities of the internal
+Shari’ah audit function;
+
+m. Islamic financial institutions (IFIs / the institutions)^14 – are financial institutions that operate
+in line with Shari’ah principles and rules performing banking, insurance / Takaful, capital
+markets and similar activities and include the stand-alone branches, divisions and windows
+of conventional financial institutions that offer products and services in line with Shari’ah
+principles and rules;
+
+n. Management^15 – for the purpose of this standard, management is an organ, or combination
+of organs, that manages an institution’s operations and resources (including human
+resources). Management’s functions include, inter-alia, risk assessment, objective setting,
+planning, organising, staffing, leading or directing and controlling an institution.
+
+(^11) SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an IFI’s Compliance with Shari’ah principles
+and rules)”
+(^12) See paragraph 13 of SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an IFI’s Compliance
+with Shari’ah principles and rules)”
+(^13) See paragraph 15 of SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an IFI’s Compliance
+with Shari’ah principles and rules)”
+(^14) AAOIFI GS 12 “Sukuk Governance”
+(^15) AAOIFI GS 9 “Shari’ah Compliance Function”
+
+Management includes such directors and employees who are involved in the above-
+mentioned functions, irrespective of their designations. It may also refer to specific
+departments and / or the whole organisational management collectively [Explanation: In the
+specific context of this standard, the management includes such management of the
+conventional parent, which is involved in the functions related to the Islamic finance
+window, insofar and to the extent as allowed in line with the provisions of this standard];
+
+o. Materiality – refers to the quantum or degree of significance of misstatements, including
+omissions, which individually, or in the aggregate, could reasonably be expected to influence
+the economic decisions of users taken on the basis of the financial statements and / or the
+state of the institution’s compliance with Shari’ah principles and rules. Materiality is
+determined in the light of surrounding circumstances, duly considering the size
+(quantitative) or nature (qualitative) of a misstatement, or a combination of both;
+
+p. Modified opinion – is a qualified opinion, an adverse opinion or a disclaimer of opinion;
+
+q. Risk assessment procedures – are the audit procedures performed to obtain an
+understanding of the institution and its environment, including the institution’s internal
+control, to identify and assess the risks of material misstatement, whether due to fraud or
+error, at the institution, the financial statements and assertion levels;
+
+r. Shari’ah compliance department (SCD) – means a department (and includes a division, team,
+section or unit) entrusted with the responsibilities of Shari’ah compliance in accordance with
+respective AAOIFI GS^16 ;
+
+s. Shari’ah compliance function^17 – is an integral part of an IFI’s governance and control
+structure, catering to certain crucial objectives of the IFI relating to its compliance with
+Shari’ah principles and rules;
+
+t. Shari’ah compliance opinion – is an opinion, being an integral part of the auditor’s report,
+duly formed and expressed by an auditor in addition to his truth and fairness opinion on the
+financial statements of an institution, as to whether (or not) the institution has complied, in
+all material respects, with the Shari’ah principles and rules applicable to its financial
+arrangements, contracts and transactions during the period covered by the financial
+statements;
+
+u. Shari’ah non-compliance risk^18 – is the risk that arises from an IFI’s failure to comply with
+Shari’ah principles and rules. This is a sub-set of operational risk and may in certain
+circumstances result in legal, financial or reputational risk;
+
+v. Shari’ah principles and rules^19 – comprise “the Shari’ah principles and rules defined by the
+following hierarchy, as appropriate:
+
+(^16) AAOIFI GS 9 “Shari’ah Compliance Function”
+(^17) See paragraph 4 of AAOIFI GS 9 “Shari’ah Compliance Function”
+(^18) AAOIFI GS 11 “Internal Shari’ah Audit”
+(^19) AAOIFI GS 1 “Shari’ah Governance Framework”
+
+i. the Shari’ah standards issued by Accounting and Auditing Organization for Islamic
+Financial Institutions (AAOIFI);
+
+ii. the regulations issued by the respective jurisdiction’s regulator insofar as these
+entail the regulatory Shari’ah requirements;
+
+iii. the rulings of the central Shari’ah board for the respective jurisdiction (if there is
+one);
+
+iv. the requirements of the applicable financial accounting standards (FASs) as issued
+by AAOIFI insofar as these entail Shari’ah related requirements; and
+
+v. the approvals and rulings given by the Shari’ah supervisory board of the institution”;
+
+[Explanation: In case of an ambiguity, identified during a compliance, audit or rating
+exercise, as the case may be, with regard to interpretations related to (i) to (iv) above, the
+Shari'ah supervisory board’s clarification shall prevail];
+
+w. **Shari'ah supervisory board (SSB)**²⁰ – is an independent body of specialised jurists in Fiqh Al-
+Muamalat (Islamic commercial jurisprudence). In addition, the SSB may preferably include
+advisors (referred to as “SSB advisors”) who are experts in areas such as finance, economics,
+accounting or law, and have reasonable knowledge of Shari’ah principles and rules. The SSB
+is entrusted with the duty of reviewing and supervising the activities of an institution in
+order to ensure that it operates in compliance with Shari’ah principles and rules. The Fatwas
+and rulings (related to Shari’ah matters) of the SSB are binding on the institution;
+
+x. **Substantive procedures** – are audit procedures that are performed to test material
+misstatements in an account balance, transaction class or disclosure component of the
+financial statements;
+
+y. **Those charged with governance (TCWG)**²¹ – in line with the International Ethics Standards
+Board for Accountants (IESBA) pronouncement, are “the person(s) or organisation(s) (for
+example, a corporate trustee) with responsibility for overseeing the strategic direction of the
+institution and obligations related to the accountability of the institution. This includes
+overseeing the financial reporting process. For some institutions in some jurisdictions, those
+charged with governance may include management personnel, for example, executive
+members of a governance board of a private or public sector institution, or an owner-
+manager”; and
+
+z. **Truth and fairness opinion** – is an opinion which the auditor is required to form whether the
+financial statements are prepared, in all material respects, in accordance with the applicable
+financial reporting framework.
+
+²⁰ AAOIFI GS 1 "Shari'ah Governance Framework"
+
+²¹ AAOIFI GS 15 "Syndicated Financing"
+
+## Auditor's responsibility with regard to considerations for Shari'ah principles and rules in an audit of financial statements
+
+5. The overall aim of an audit of financial statements, the overall objectives of an auditor and the
+   auditor’s responsibilities in connection therewith are established in accordance with the
+   requirements of the respective AAOIFI SOAA²². According to the same, the auditor's opinion is
+   comprised of the following:
+
+a. truth and fairness opinion – on the truth and fairness of the financial statements of the
+institution, in all material respects, in line with the applicable financial reporting framework;
+and
+
+b. Shari’ah compliance opinion – as to whether (or not) the institution has complied, in all
+material respects, with the Shari’ah principles and rules applicable to its financial
+arrangements, contracts and transactions during the period covered by the financial
+statements.
+
+#### Broad classification of Shari’ah principles and rules requiring auditor’s consideration
+
+6. The Shari’ah principles and rules that require auditor’s consideration during an audit of financial
+   statements of an institution may be broadly categorised as follows:
+
+a. Shari’ah principles and rules that affect the auditor’s truth and fairness opinion, including:
+
+i. Shari’ah principles and rules relevant to accounting and financial reporting
+requirements (see paragraph 8 ); and
+
+ii. Shari’ah principles and rules whose non-compliance may have financial impact (see
+paragraph 9 ); and
+
+b. other Shari’ah principles and rules that may not affect the auditor’s truth and fairness
+opinion.
+
+[Explanation: With regard to the auditor’s Shari’ah compliance opinion, all of the above categories
+may have relevance.]
+
+#### Auditor’s responsibility with regard to the truth and fairness opinion
+
+7. For the purpose of providing an opinion on truth and fairness of the financial statements of an
+   institution, an auditor shall have due consideration of the institution’s compliance with Shari’ah
+   principles and rules, that may impact treatment, presentation and disclosure in the financial
+   statements.
+8. There can be certain Shari’ah principles and rules that may require specific accounting and financial
+   reporting treatments, presentation and disclosures in an institution’s financial statements. These
+   may include, e.g.:
+
+²² [ED of] SOAA 1 "Framework of Auditing"
+
+a. certain accounting and financial reporting treatments in the financial statements, including
+establishment of contractual rights and obligations of the counter-parties and hence,
+requiring application of an appropriate financial reporting framework²³; and
+
+b. appropriate presentation and disclosures in the financial statements regarding the nature,
+contractual rights and obligations and other relevant aspects about certain transactions and
+balances.
+
+9. Additionally, the financial statements may be affected, inter-alia, by the following situations of non-
+   compliance with Shari’ah principles and rules:
+
+a. financial effect of such non-compliance resulting, e.g., in the reversal of the transaction,
+changes in the rights and obligations of the counter-parties and stakeholders and payments
+due to charity / purification of income;
+
+b. non-compliance of contractual arrangements with counter-parties resulting in financial
+effects, e.g., in changes in rights and obligations, recognition of revenue and expenses,
+computation of profits (and losses) and their respective attribution to different
+stakeholders; and
+
+c. legal and regulatory non-compliance situation and expectation of resulting punitive actions
+by the regulatory and supervisory authorities (RSAs) including, e.g., restrictions on business
+activities or financial penalties.
+
+10. The requirements in this standard regarding the auditor’s responsibility for the truth and fairness
+    opinion are designed to assist the auditor in identifying any material misstatement of the financial
+    statements due to non-compliance with Shari’ah principles and rules, considering, inter-alia, the
+    factors enumerated in paragraphs 8 - 9. Accordingly, the auditor is responsible for obtaining
+    reasonable assurance that the financial statements, taken as a whole, are free from material
+    misstatement, whether due to fraud or error. In conducting an audit of financial statements, the
+    auditor shall consider the effect of the applicable Shari’ah principles and rules (see paragraphs 21 -
+    23 ), as relevant to respective stages and process flow of an audit engagement.
+11. An auditor shall consider the requirements (including certain detailed procedures and reporting
+    requirements) of EPAs, regarding the audit considerations for compliance with laws and regulations,
+    as considered relevant and suitable in the context of application of the requirements of this
+    standard.
+
+#### Auditor’s responsibility with regard to the Shari’ah compliance opinion
+
+12. There is a rebuttable presumption that the auditor’s responsibility regarding the work to be
+    performed enabling it to form its Shari’ah compliance opinion concluding as to whether (or not) the
+    institution has complied with the Shari’ah principles and rules, shall ordinarily not enhance its overall
+    responsibility, and hence the work to be performed, regarding its primary responsibility.
+
+²³ For example, certain Shari'ah principles and rules (see paragraph 5 v(v)) are established considering the accounting and financial reporting requirements. (Also see Chapter 1 of AAOIFI Conceptual Framework for Financial Reporting (Revised 2020)).
+
+13. The presumption stipulated in paragraph 12 may be rebutted and an auditor’s responsibility
+    regarding the Shari’ah compliance opinion may increase, and hence appropriate additional work
+    may be necessitated, if its assessment of risk related to the inability of detection of the institution’s
+    non-compliance with Shari’ah principles and rules is increased by virtue of any, or a combination, of
+    the following factors:
+
+a. absence or inadequacy of the Shari’ah governance framework;
+
+b. weak Shari’ah compliance risk management function;
+
+c. inadequate internal controls relevant to Shari’ah compliance; and / or
+
+d. auditor’s inability to place reliance on (or an absence of):
+
+i. the work performed by the SSB and the SSB’s report;
+
+ii. the work performed by the external Shari’ah auditor and the external Shari’ah
+auditor’s report; and
+
+iii. the work performed by the internal Shari'ah audit function and its respective
+reports.
+
+#### Auditor's respective responsibilities with regard to design and effective implementation of Shari'ah principles and rules
+
+14. The auditor’s responsibility with regard to forming the Shari’ah compliance opinion, according to the
+    hierarchy prescribed in the definition of Shari’ah principles and rules, along with the respective
+    explanation, shall be established as follows:
+
+a. regarding the design part of the financial arrangements, contracts and transactions, i.e.,
+Shari’ah compliance in respect of product structures, documentation and process flows, the
+auditor’s responsibility is limited to the extent of ensuring compliance with such
+requirements contained in the respective hierarchy (while ensuring the appropriate order of
+priority), without forming his own opinion in respect of such matters, and referring to the
+institution’s SSB / Shari’ah supervisor for any relevant interpretation; and
+
+b. regarding the effective implementation of Shari’ah principles and rules in financial
+arrangements, contracts and transactions during the period, the auditor would generally be
+responsible for ensuring compliance in line with the requirements of the AAOIFI auditing
+framework, particularly, those contained in this standard.
+
+#### Limitations of auditor's responsibility in the context of assessment of compliance with Shari'ah principles and rules in the audit of financial statements
+
+15. Owing to the inherent limitations of an audit, the auditor cannot be expected to detect all instances
+    of non-compliance with Shari’ah principles and rules. There is an unavoidable risk that some
+    material misstatements in the financial statements may not be detected, even though the audit is
+    properly planned and performed in accordance with the AAOIFI auditing framework²⁴.
+
+²⁴ See paragraph 4 of [ED of] SOAA 1 "Framework of Auditing"”
+
+16. In the context of Shari’ah principles and rules, the potential effects of inherent limitations on the
+    auditor’s ability to detect material misstatements are greater for the following reasons:
+
+a. there are Shari’ah principles and rules, relating principally to the operating aspects of an
+institution, that typically do not affect the financial statements and are not captured by the
+institution’s information systems relevant to financial reporting; or
+
+b. non-compliance may involve conduct designed to conceal it, such as collusion, forgery,
+deliberate failure to record transactions, management override of controls or intentional
+misrepresentations made to the auditor.
+
+17. In most circumstances, there is a rebuttable presumption that any non-compliance with Shari’ah
+    principles and rules is less likely to be detected by the auditor, and hence the auditor may not be
+    considered responsible for detecting the same, if:
+
+a. it is not directly affecting the events, transactions and balances reflected in the financial
+statements; or
+
+b. it is not material from a quantitative perspective for the purpose of preparing financial
+statements, despite being material from a qualitative perspective regarding compliance with
+Shari’ah principles and rules.
+
+18. The determination of any relief in the auditor’s responsibility in line with the provisions of
+    paragraphs 15 and 17 , shall be carefully established subject to the requirements of paragraphs 12 -
+    13 , regarding the necessity of enhancement in the work to be performed and fulfilment of all
+    relevant requirements of this standard.
+
+#### Management’s and TCWG’s responsibility................................................................................................
+
+19. It is the responsibility of management, with the oversight of TCWG, to ensure the institution’s
+    compliance with Shari’ah principles and rules applicable to its financial arrangements, contracts and
+    transactions and for establishing the internal controls considered necessary for this purpose^25.
+
+## Compliance requirements
+
+### Quality management
+
+20. An auditor shall ensure that it has adequate capability in terms of resources and knowledge of the
+    Shari’ah principles and rules and the nature of operations and transactions of the institution in order
+    to fulfil the responsibilities under the engagement in a professional manner, in accordance with the
+    requirements of respective AAOIFI SOAA^26.
+
+(^25) See paragraphs 138-139 of [ED of] SOAA 1 “Framework of Auditing”
+(^26) Also see paragraphs 12 - 14 and 3 6 - 37
+
+## Conduct of an audit
+
+### Planning and risk assessment
+
+#### Determination of applicable Shari’ah principles and rules and their implementation requirements
+
+21. An auditor shall develop an understanding of the applicable Shari’ah principles and rules, with
+    appropriate hierarchy of the same in line with the requirements of relevant AAOIFI standards, and
+    the legal and regulatory framework, industry practices and contractual requirements (including
+    those applicable according to the constitution documents of the institution). The auditor shall also
+    develop understanding of the respective process flows, approved standard documentation and
+    product manuals / SOPs.
+
+#### Assessing the suitability of the applicable Shari’ah principles and rules
+
+22. An auditor shall assess the suitability of applicable Shari’ah principles and rules regarding the
+    respective institution and shall document the detailed requirements thereof. For the institution’s
+    respective functions and products, whereby appropriate Shari’ah principles and rules are not
+    available, the auditor shall interact with the Shari’ah supervisor(s) / SSB of the institution and obtain
+    specific rulings (and other relevant guidance) accordingly.
+23. In cases where the auditor is unable to conclude with regard to the suitability of applicable Shari’ah
+    principles and rules, he shall either:
+
+a. withdraw from the engagement altogether – if the impact on the truth and fairness opinion
+is considered pervasive; or
+
+b. disclaim the Shari’ah compliance opinion – if the impact on the truth and fairness opinion is
+not considered pervasive.
+
+#### Interaction with Shari’ah supervisor(s)
+
+24. The auditor may need to interact with, communicate with, request Fatawa, rulings or specific
+    opinions from the Shari’ah supervisor(s) / SSB of the institution, or their nominee, including on their
+    observations.
+
+#### Identifying and assessing the risk of non-compliance with Shari’ah principles and rules
+
+25. An auditor’s overall responsibility regarding its Shari’ah compliance opinion, and hence, the work
+    that needs to be performed may be enhanced by the probable impact of the significant factors
+    enumerated in paragraph 12. Accordingly, the planning and risk assessment phase of an audit shall
+    include considerations regarding the same. Similarly, the requirements of paragraphs 26 - 39 may
+    result in changes in the overall planning and risk assessment and the extent of work to be performed
+    by the auditor.
+
+(^27) Paragraphs 17 and 18 of SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an IFI’s Compliance
+with Shari’ah principles and rules)”
+(^28) Paragraph 12 of SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an IFI’s Compliance with
+Shari’ah principles and rules)”
+
+26. In addition, an auditor shall, using his knowledge, analysis and experience, identify relevant risks of
+    non-compliance with Shari’ah principles and rules by obtaining an understanding of issues arising in
+    past years, as well as, changes that have occurred in the industry that may have given rise to risks
+    previously unidentified. An auditor shall also consider the significant changes in the Shari’ah
+    governance and control environment. Moreover, the effect, if any, of the changes in Shari’ah
+    principles and rules (e.g., by way of adoption of a new standard or regulation or application of a new
+    Fatwa or ruling) on the existing products and services shall also be considered.
+27. An auditor shall determine the impact of the findings on the current risk assessment and, after
+    evaluating the relevant mitigating factors, including the effectiveness of Shari’ah governance and
+    control environment, shall apply his professional judgment, so as to conclude on whether enhanced
+    audit procedures are necessary to bring such risk to an acceptable level.
+
+#### principles and rules.................................................................................................................................... Assessment of governance and control environment mitigating the risk of non-compliance with Shari’ah
+
+#### with Shari’ah principles and rules
+
+28. As part of obtaining an understanding of an institution and its Shari’ah governance and internal
+    control environment relevant to the implementation of Shari’ah principles and rules, an auditor shall
+    obtain a general understanding of:
+
+a. the Shari’ah principles and rules applicable to the institution and the extent to which
+Shari’ah principles and rules form part of the hierarchy of such legal and regulatory
+framework (see paragraphs 21 - 23 ); and
+
+b. as to how the institution is complying with that framework and relevant controls.
+
+29. An auditor shall obtain sufficient appropriate audit evidence regarding compliance with the
+    provisions of those Shari’ah principles and rules generally recognised to have a direct effect on the
+    determination of material amounts and disclosures in the financial statements.
+
+#### Determining audit materiality
+
+30. An auditor shall consider the significance of compliance with Shari’ah principles and rules on the
+    quantitative and qualitative aspects of determination of audit materiality in line with the
+    requirements of the respective AAOIFI SOAA^29 , duly considering the aspects of risk assessment and
+    requirements of performance of additional work in line with the paragraphs 1 2 and 18.
+31. An auditor shall also consider, while determining the qualitative materiality aspects, the probable
+    impact of the significant factors enumerated in paragraph 13 , that may result in enhancement of the
+    responsibility and hence, the work to be performed by the auditor.
+
+#### Assessing the need for involving auditor’s expert(s).................................................................................
+
+32. In addition to the requirements of the respective AAOIFI SOAA^30 , an auditor shall ensure that the
+    audit team includes adequate subject-matter expert(s) suitable for an audit of financial statements
+    of an IFI. The subject-matter expert(s) shall have a reasonable understanding of:
+
+(^29) See paragraphs 21- 22 and 29-33 (particularly paragraph 32) of [ED of] SOAA 1 “Framework of Auditing”
+(^30) Paragraphs 34-38 of [ED of] SOAA 1 “Framework of Auditing”
+
+a. Shari’ah principles and rules; and
+
+b. accounting and financial reporting requirements for IFIs, particularly those relevant to
+Shari’ah principles and rules^31.
+
+33. While it would generally be considered more appropriate that adequate involvement of the subject-
+    matter expert(s) is ensured through suitable composition of the audit team, an auditor may consider
+    using experts who are externally sourced to enable him to fulfil his responsibilities in connection
+    with the audit. In addition, it may be relevant in certain circumstances to involve senior expert(s) in
+    addition to the internally available resources, in order to address any higher level of unmitigated
+    audit risks, as appropriate. In case of the use of an external subject-matter expert, an auditor shall
+    preferably consider suitable fit and proper criteria^32.
+34. The nature, timing and extent of the auditor’s procedures, as well as, the competence, capabilities
+    and objectivity of the subject-matter expert(s) shall be commensurate with the overall planning and
+    risk assessment performed in line with the requirements of this standard and the AAOIFI auditing
+    framework.
+
+#### Reliance on the work performed by SSB
+
+35. In addition to the specific requirements of respective AAOIFI SOAA^33 , an auditor, at a minimum,
+    shall:
+
+a. review the SSB’s report(s) (annual or periodic, as applicable), in line with the requirements
+of respective AAOIFI GS^34 ;
+
+b. review the minutes of the meetings of SSB held during the period; and
+
+c. review the resolutions and Fatwas issued during the period (and those issued earlier, having
+relevance to the transactions and balances reported in the current financial statements, to
+the extent deemed adequate).
+
+36. In the event that the report referred to in paragraph 35 is not available (even in draft form) or does
+    not include the relevant reporting requirements as contained in the respective AAOIFI GS^35 , an
+    auditor shall assess the need for:
+
+a. requesting a specific confirmation / representation from the SSB in this regard; and / or
+
+b. requesting a meeting or other form of direct communication with the SSB.
+
+37. The procedures selected by an auditor for the purpose of placing reliance on the work performed by
+    the SSB and the SSB report depend on his professional judgment and assessment of the risks of
+
+(^31) See Chapter 1 of AAOIFI Conceptual Framework for Financial Reporting (Revised 2020)
+(^32) This may, e.g., include the fit and proper criteria defined by the respective RSA or determined in line with the
+requirements of the respective AAOIFI GS as applicable to senior level Shari’ah compliance / advisory positions, e.g., the
+criteria applicable to a head of internal Shari’ah audit, head of Shari’ah compliance department or a SSB member (or
+SSB advisor).
+(^33) See paragraph 39 of [ED of] SOAA 1 “Framework of Auditing”
+(^34) AAOIFI GS 21 “Shari’ah Supervisory Board: Review and Report”
+(^35) AAOIFI GS 21 “Shari’ah Supervisory Board: Review and Report”
+
+material non-compliance with Shari’ah principles and rules. In making those risk assessments, an
+auditor shall consider, and test the design and implementation of, the governance framework
+applicable to the SSB, in order to determine the extent of reliance to be placed, but not for the
+purpose of expressing an opinion or commenting on the effectiveness or competence of SSB.
+
+#### Reliance on the work performed by the external Shari’ah auditor
+
+38. Extent of reliance on the work performed by the external Shari’ah auditor shall be determined, in
+    line with the following:
+
+a. in case the auditor (or his firm) also performs as external Shari’ah auditor – the auditor shall
+review and extensively use the work performed and conclusions reached during the external
+Shari’ah audit engagement, and ensure that the report in respect of external Shari’ah audit
+is issued prior to, or at least simultaneously with, the auditor’s report in order to avoid any
+inconsistency of opinion; and
+
+b. in other cases – the auditor shall perform a quality assessment of such external Shari’ah
+audit and review of the report and other communications by the external Shari’ah auditor
+with the management, TCWG and organs of Shari’ah governance, and ensure that the
+external Shari’ah auditor’s report is available before, or at the time of, issuing his auditor’s
+report.
+
+### Execution
+
+#### Minimum substantive procedures in respect of compliance with Shari’ah principles and rules
+
+39. Unless the risk assessment in respect of compliance with Shari’ah principles and rules requires
+    additional procedures to be performed, an auditor shall perform the minimum substantive
+    procedures enumerated in paragraphs 40 - 46.
+40. An auditor shall perform the following audit procedures to help identify instances of non-compliance
+    with other Shari’ah principles and rules that may have a material effect on the financial statements:
+
+a. confirming with the management and, where appropriate, TCWG, as to whether the
+institution is in compliance with Shari’ah principles and rules;
+
+b. confirming with the respective organs of Shari’ah governance, and by way of reviewing their
+reports to establish, as to whether the institution is in compliance with Shari’ah principles
+and rules;
+
+c. inspecting correspondence, if any, with the relevant RSAs.
+
+#### Non-compliance brought to the auditor’s attention by other audit procedures
+
+41. General audit procedures applied to form an opinion on the financial statements may bring
+    instances of non-compliance or suspected non-compliance with Shari’ah principles and rules to the
+    auditor’s attention. For example, such audit procedures may include:
+
+a. reading minutes of management committees, TCWG, SSB and other organs of governance;
+
+b. reading internal reports of different governance and control functions;
+
+c. checking with the institution’s management and in-house Shari’ah compliance department
+and / or external Shari’ah auditor concerning significant Shari’ah non-compliance issues and
+potential control lapses;
+
+d. reviewing the activity of the charity fund and other instances of charity, purification of
+income and reversal of transactions, etc.; and
+
+e. performing substantive tests of details of classes of transactions, account balances or
+disclosures.
+
+#### Audit procedures when non-compliance is identified or suspected
+
+42. If an auditor becomes aware of an instance of non-compliance or information regarding a potential
+    or suspected non-compliance with Shari’ah principles and rules, he shall obtain an understanding
+    and further evidence:
+
+a. in respect of the nature of the act and the circumstances in which it has occurred;
+
+b. enabling him to further evaluate as to whether such instance is a possible indication of a
+series of such or similar instances, or has an impact on the overall control environment and
+the respective risk assessment;
+
+c. enabling him to further evaluate the possible effect of such instance or series of instances on
+the financial statements; and
+
+d. enabling him to perform a macro-level assessment of the possible effect of such instance or
+series of instances, on the institution’s overall state of compliance with Shari’ah principles
+and rules.
+
+43. If an auditor suspects there may be non-compliance, he shall discuss the matter with the
+    appropriate level of management, respective organs of Shari’ah governance and, where appropriate,
+    TCWG. If management or, as appropriate, TCWG do not provide sufficient information that supports
+    that the institution is in compliance with Shari’ah principles and rules and, in his judgment, the effect
+    of the suspected non-compliance may be material to the financial statements, the auditor shall
+    consider the need to, firstly, obtain a specific opinion / representation from the SSB and, secondly,
+    involve the auditor’s subject-matter expert.
+44. If sufficient information about suspected non-compliance cannot be obtained, the auditor shall
+    evaluate the effect of the lack of sufficient appropriate audit evidence on the auditor’s opinion
+    (including both the truth and fairness opinion and the Shari’ah compliance opinion).
+
+#### having a direct effect on the financial statements Additional procedures to identify instances of non-compliance with Shari’ah principles and rules – not
+
+#### rules – not having a direct effect on the financial statements
+
+45. Certain Shari’ah principles and rules may need specific consideration in an audit of financial
+    statements due to having a fundamental effect on the operations of the institution, even though the
+    same may not have an impact on the financial statements of the institution. Non-compliance with
+    such Shari’ah principles and rules that have a fundamental effect on the operations of the institution
+    may cause the institution to:
+
+a. face severe reputation risk impacting the eventual operational and financial performance;
+
+b. be subjected to punitive actions by RSAs; and / or
+
+c. cease operations or call into question the institution’s status as a going concern.
+
+46. Generally, the audit procedures required as per AAOIFI auditing framework, including in particular
+    those required by this standard, would reasonably be expected to bring to the auditor’s attention
+    instances of non-compliance with Shari’ah principles and rules that may or may not have a material
+    effect on the financial statements. Nevertheless, an auditor is expected to perform reasonable
+    additional audit procedures to address the risks identified in this respect.
+
+### Considerations of fraud and error
+
+#### Professional scepticism
+
+47. In addition to the general requirements applicable to an auditor under the AAOIFI auditing
+    framework regarding his responsibility to detect fraud and error, it is important that an auditor shall
+    apply professional scepticism in matters relating to Shari’ah principles and rules, which are also
+    susceptible to significant fraud and error risks.
+48. An auditor shall consider, and appropriately incorporate in his audit procedures, that in certain
+    situations such susceptibility to fraud and error may increase due to financial pressures, weak
+    internal controls, system deficiencies / limitations and lack of adequately trained human resources
+    assigned with the respective responsibilities.
+49. An auditor, in no case, is expected to place reliance solely on the functions and reports of SSB and
+    other relevant organs of Shari’ah governance, without application of professional scepticism and
+    fulfilling other relevant requirements of this standard.
+50. The following matters, in particular, would require the auditor to apply professional scepticism:
+
+a. unjust or illegitimate advantage to or against the counterparties, particularly, in case of
+participatory transactions or structures, e.g., intentional or unintentional misallocation of
+profits and losses in the case of profit and loss distribution;
+
+b. breach of contractual obligations and non-compliance of Shari’ah principles and rules in
+respect of establishing rights and obligations of the parties, e.g., not passing on the due
+benefits to the customers or claiming illegitimate amounts from them;
+
+c. misuse of funds provided by the participatory stakeholders including violation of contracts,
+or passing on undue losses to them;
+
+d. concealing or omitting facts by the management in respect of certain activities and relevant
+information to the auditors, SSB, TCWG, other organs of governance, participatory
+stakeholders and shareholders;
+
+e. misleading the SSB through concealing certain facts about a matter of significance, resulting
+in a misinformed Shari’ah ruling or decision^36 ;
+
+f. repeated violation and / or misinterpretation of Shari’ah principles and rules; and
+
+g. manipulation of documents and records particularly those pertaining to the sequence of
+Islamic finance transactions.
+
+### Other significant considerations during the conduct of an audit
+
+#### Written representations
+
+51. An auditor shall request management and, where appropriate, TCWG, to provide written
+    representations in such form and contents as considered suitable. Such written representations
+    shall, at least, include the requirements for a management’s statement in respect of compliance
+    with Shari’ah principles and rules, as illustrated by the respective AAOIFI SOAA^37.
+52. In certain circumstances an auditor may need to evaluate the implications of identified or suspected
+    non-compliance with Shari’ah principles and rules on the reliability of written representations
+    received from management and, where applicable, TCWG. These, inter-alia, may include the
+    situations whereby the auditor suspects or has evidence in respect of:
+
+a. the involvement or intended involvement of the management and, where applicable, TCWG
+in any identified or suspected non-compliance;
+
+b. the concealment of facts from respective organs of Shari’ah governance, particularly, the
+SSB; and
+
+c. the management and, where applicable, TCWG having knowledge of such non-compliances
+and, contrary to the requirements of respective Shari’ah governance framework, not taking
+necessary actions to resolve such matter.
+
+### Unique aspects of an IFI’s audit – due to business model / product structures
+
+53. Audit of an IFI, from the perspective of Shari’ah compliance considerations, may have certain unique
+    aspects due to the nature of contractual relationships in line with Shari’ah principles and rules. In
+    addition, these may have certain specific requirements according to the fiduciary responsibilities
+    (and stewardship requirements), on the management and TCWG, as applicable, according to the
+    nature of the business model of the institution or the respective transaction structure. These
+    fiduciary responsibilities, at times, may not be segregated from the fundamental Shari’ah
+    compliance requirements. On the other hand, due to their impacts on the rights and obligations of
+    the respective parties and transparency considerations, these may have direct impact on the
+    financial reporting requirements for the IFI.
+
+(^36) AAOIFI GS 18 “Shari’ah Decision-Making Process”
+(^37) See Appendix B2 of SOAA 6 “External Shari’ah Audit (Independent Assurance Engagement on an IFI’s Compliance
+with Shari’ah principles and rules)”
+
+54. Accordingly, an auditor is expected to give due consideration to all such aspects in an audit of an IFI,
+    including, but not limited to, the following:^38
+
+a. general stewardship and fiduciary responsibilities – whereby it is expected that an IFI (as a
+whole, and its management and TCWG in particular) fulfil the general stewardship
+requirements and fiduciary responsibilities, not only towards the common shareholders, but
+also towards other (particularly, the participatory) stakeholders. Such responsibilities may
+include:
+
+i. related parties – to be dealt (and also the respective transactions to be reported) on
+a fair and transparent basis; and
+
+ii. equitable treatment of stakeholders, particularly participatory stakeholders, by
+having due audit consideration for profit and loss sharing, surplus and deficit
+determination, reserves management, etc., considering the contractual compliance,
+computation, valuation and measurement and fair and transparent disclosures;
+
+b. specific funds management and reporting – whereby it is expected that an auditor of an IFI
+shall give due consideration to such specific funds which are created according to the unique
+business model of the IFI, regarding the compliance with Shari’ah principles and rules and
+contractual obligations, fulfilment of fiduciary responsibilities and transparent and fair
+financial reporting (irrespective of quantitative materiality). These may include the
+following:
+
+i. charity fund / obligations;
+
+ii. Zakah fund / obligations; and
+
+iii. Qard fund;
+
+c. off-balance-sheet assets under management – which are kept and reported on an off-
+balance-sheet basis, in line with the respective financial reporting framework, and hence
+may be susceptible to more than ordinary risk of non-fulfilment of Shari’ah compliance or
+contractual requirements, risk of unfair and non-transparent reporting (particularly, at
+times, in consideration of the overall materiality) and risk of failure to fulfil fiduciary
+responsibilities; and
+
+d. completeness and relevance of information – whereby certain information that may not be
+considered relevant for a conventional financial institution or any other institution / entity,
+may be relevant for fair and transparent reporting, in the context of an audit of an IFI, due to
+Shari’ah compliance considerations or the fiduciary responsibility element.
+
+(^38) While certain core principles for such audit considerations have been summarised in this section, it is expected that
+in due course appropriate detailed guidelines may be issued in this respect by AAOIFI Governance and Ethics Board
+(AGEB).
+
+### Documentation and archiving
+
+55. An auditor shall appropriately document (and include audit evidence in the audit documentation)
+    the following:
+
+a. any identified or suspected non-compliance with Shari’ah principles and rules;
+
+b. the audit procedures performed, the significant professional judgments made and the
+conclusions reached thereon; and
+
+c. the discussions of significant matters related to the non-compliance with management,
+TCWG, SSB and others, including how management and, where applicable, TCWG and / or
+SSB have responded to the matter.
+
+56. The auditor’s documentation of findings regarding identified or suspected non-compliance with
+    Shari’ah principles and rules may include, for example:
+
+a. copies of records or documents; or
+
+b. minutes of discussions held with management, TCWG, SSB or parties outside the institution.
+
+57. Law, regulation or relevant ethical requirements may also set out additional documentation
+    requirements regarding identified or suspected non-compliance with Shari’ah principles and rules.
+
+### Conclusion of an audit
+
+#### Communicating with TCWG on identified or suspected non-compliance
+
+58. An auditor shall communicate with TCWG matters involving non-compliance with Shari’ah principles
+    and rules that come to the auditor’s attention during the course of the audit, other than when the
+    matters are clearly inconsequential. It is, however, essential that the views of the SSB of the
+    institution are obtained in respect of such matters before (or at the time of) communicating the
+    same to TCWG. Such communication shall normally take place at the time of, or near, the conclusion
+    of the audit.
+59. If, in the auditor’s judgment, the non-compliance referred to in paragraph 58 is believed to be
+    intentional and material, the auditor shall communicate the matter with the SSB and TCWG as soon
+    as practicable.
+
+#### Communication with SSB and making the auditor’s draft report available
+
+60. While concluding an audit, in addition to the requirements of respective AAOIFI SOAA^39 , an auditor
+    shall appropriately coordinate and communicate with SSB, through management, whereby the
+    following considerations shall apply:
+
+a. an auditor shall consult with the SSB regarding specific opinions, approvals and rulings about
+the matters where adequately documented Shari’ah principles and rules have not been
+made available, or may need interpretation, or where he needs the SSB’s views on his
+observations and instances of Shari’ah non-compliance noted during the course of the audit;
+
+(^39) See paragraphs 113-117 of [ED of] SOAA 1 “Framework of Auditing”
+
+b. an auditor shall obtain the draft report of the SSB, and consider any impact of the matters
+addressed in the same on the work performed and conclusions reached during the audit;
+
+c. prior to issuance of the final report of the SSB, an auditor shall make available to the SSB his
+draft report and conclusions related to compliance with Shari’ah principles and rules; and
+
+d. the auditor shall appropriately take into account any corrective measures suggested by the
+SSB, and their effect on the conclusions reached.
+
+#### Reporting identified or suspected non-compliance to an appropriate authority outside the institution
+
+61. If the auditor has identified or suspects material / substantive / systematic non-compliance with
+    Shari’ah principles and rules, the auditor shall determine whether law, regulation or relevant ethical
+    requirements:
+
+a. require the auditor to report to an appropriate authority outside the institution (which may
+include the respective RSA or the respective central Shari’ah board (CSB)); or
+
+b. establish responsibilities under which reporting to an appropriate authority outside the
+institution may be appropriate in the circumstances.
+
+## Auditor’s report
+
+### Truth and fairness opinion – potential implications of identified or suspected non-compliance
+
+62. If the auditor concludes that the identified or suspected non-compliance of Shari’ah principles and
+    rules has a material effect on the financial statements that has not been adequately reflected, the
+    auditor shall, in accordance with the requirements of AAOIFI auditing framework (including the
+    relevant requirements of EPAs) express a qualified opinion or an adverse opinion on the financial
+    statements.
+63. If the auditor is precluded by management or TCWG from obtaining sufficient appropriate audit
+    evidence to evaluate whether a non-compliance of Shari’ah principles and rules that may be
+    material to the financial statements has, or is likely to have, occurred, the auditor shall express a
+    qualified opinion or disclaim an opinion on the financial statements on the basis of a limitation on
+    the scope of the audit in accordance with the requirements of AAOIFI auditing framework (including
+    the relevant requirements of EPAs).
+64. If the auditor is unable to determine whether a non-compliance of Shari’ah principles and rules has
+    occurred because of limitations imposed by the circumstances rather than by the management or
+    TCWG, the auditor shall evaluate the effect on the auditor’s opinion in accordance with AAOIFI
+    auditing framework (including the relevant requirements of EPAs).
+
+### Shari’ah governance Shari’ah compliance opinion – reference to the placement of reliance on SSB and other functions of
+
+## other functions of Shari’ah governance
+
+65. An auditor’s Shari’ah compliance opinion may also be affected by the circumstances identified in
+    paragraphs 62 - 64 and a modification of the auditor’s report in this respect shall also become
+    necessary, accordingly.
+66. For the purpose of forming the Shari’ah compliance opinion, an auditor may rely, as appropriate, on
+    the following:
+
+a. the function and report of SSB for the period;
+
+b. the report of the external Shari’ah auditor (if any) for the period;
+
+c. the internal Shari’ah audit function and its reports as relevant to the period; and
+
+d. the overall Shari’ah compliance function and the Shari’ah compliance department’s reports
+as relevant to the period.
+
+67. A reference shall be made in the auditor’s report of the fact that such reliance has been placed, for
+    the purpose of forming the auditor’s Shari’ah compliance opinion, in line with the requirements of
+    the AAOIFI auditing framework.
+
+## Effective date
+
+68. This standard shall be effective for audits of financial statements for periods beginning on or after 1
+    January 2027. Earlier application is allowed, if SOAA 1 “Framework of Auditing” is also adopted
+    simultaneously.
+
+## Amendments to other standards
+
+69. This standard supersedes the existing SOAA 4 “Testing for Compliance with Shari’ah Rules and
+    Principles by an External Auditor”.
+
+## Appendices
+
+## Appendix A: Adoption of the standard
+
+This standard was presented for the final consultation to the AAOIFI Accounting Board’s meeting No. **\_
+held on \_\_\_\_** corresponding to \***\*\_\_\*\***, and to the AAOIFI Governance and Ethics Board meeting No.
+**\_ held on \_\_\_\_** corresponding to \***\*\_\*\***, for its approval and was duly approved.
+
+### Members of the AAOIFI Governance and Ethics Board
+
+1. Mr. Mohammad Farrukh Raza – chairman
+2. Dr. Walid Hegazy – deputy chairman
+3. Mr. Abdullah AlMoqbel
+4. Dr. Abozer Magzoub
+5. Prof. Dr. Ashraf Hashim
+6. Prof. Dr. Engku Rabiah Adawiah
+7. Mufti Irshad Ahmad Aijaz
+8. Mr. Iyad Asali
+9. Dr. Mohamed Qaseem
+10. Dr. Mohammad Kabir Hassan
+11. Dr. Necmettin Kizilkaya
+12. Mr. Saleem Ullah
+13. Mr. Sohaib Umar
+14. Dr. Umar A. Oseni
+15. Mr. Walid Alzahrani
+16. Dr. Zahid ur Rehman Khokher
+
+### Members of the AAOIFI Accounting Board
+
+1. Mr. Hamad Abdulla Al Oqab – chairman
+2. Mr. Syed Najmul Hussain – deputy chairman
+3. Mr. Abdulkadir Farah
+4. Dr. Abdulrahman M. Alrazeen
+5. Prof. Abdul Razzak Kasem
+
+6. Dr. Bello Lawal Danbatta
+7. Mr. Firas Hamdan
+8. Mr. Irshad Mahmood
+9. Mr. Kazim Merchant
+10. Ms. Khawla Ahmed Ebrahim
+11. Mr. M. Ali Latif
+12. Dr. Muhammad Albeltagi
+13. Mr. Saud Al Busaidi
+14. Mr. Sezayi Toprak
+15. Mr. Wael Merza
+
+### Reservation
+
+The standard was approved unanimously.
+
+### Members of the Auditing and Assurance Standards Committee (AASC)
+
+1. Mr. Saleem Ullah – chairman
+2. Mr. Firas Hamdan – deputy chairman
+3. Dr. Abdulbari Mashal
+4. Dr. Bello Lawal Danbatta
+5. Mr. Fawad Laique
+6. Mr. Irshad Mahmood
+7. Mr. Muzammil Kasbati
+8. Dr. Walid Hegazy
+
+### Executive team
+
+1. Mr. Omar Mustafa Ansari (AAOIFI)
+2. Ms. Zahra Jassim (AAOIFI)
+3. Ms. Alyaa Adel (AAOIFI)
+4. Ms. Merjan Abid (Consultant-researcher)
+
+## Appendix B: Basis for conclusions
+
+[To be updated later]
+
+## Appendix C: Brief history of the preparation of the standard
+
+H1 AAOIFI Governance and Ethics Board (AGEB / the board) initiated the auditing standards revision
+project in 2019, with an objective of updating and improving the auditing standards issued by AAOIFI
+in light of Shari’ah principles and rules and the latest established practices of auditing (EPAs). The
+task was delegated to a dedicated committee, namely Auditing and Assurance Standards Committee
+(AASC)^40 comprising of members and nominees from both AGEB and AAOIFI Accounting Board
+(AAB).
+
+H2 After issuance of the exposure draft of AAOIFI Standard on Auditing and Assurance (SOAA) 1
+“Framework of Auditing”, AASC, in its 11th meeting held on 27 Rabi’ II 1446H, corresponding to 30
+October 2024, discussed and recommended the outline and contents of the exposure draft of this
+standard.
+
+H3 The exposure draft of the standard was discussed during the 41st AAB meeting, held on 30 Rabi II
+1446H, corresponding to 2 November 2024, whereby AAB, in principle, agreed with the overall
+approach and contents of the standard with specific comments for improvement and also agreed
+that the members will provide additional comments in due course through circulation.
+
+H4 AASC, in its 12th meeting held on 22 Jumada I 1446H, corresponding to 24 November 2024, reviewed
+and agreed on the principles and requirements embedded in the standard and recommended the
+exposure draft for perusal of AGEB.
+
+H5 The exposure draft of the standard was presented to AGEB in its two different meetings, i.e., 39th
+and 40th meetings, held on 3 Jumada I 1446H and 9 Jumada II 1446H, corresponding to 5 November
+2024 and 10 December 2024 respectively. The board, accordingly, approved the overall approach
+and contents of the standard, as well as, the final version of the exposure draft of the standard, in
+two different stages, respectively.
+
+H6 The exposure draft of the standard was issued after incorporation of the boards’ comments and
+completion of necessary formalities on 25 Jumada II 144 6 H, corresponding to 26 December 202 4 ,
+inviting public comments thereon.
+
+(^40) Previously named and referred to as Professional Auditing Standards Committee (PASC)
