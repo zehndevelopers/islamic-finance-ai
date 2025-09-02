@@ -1,18 +1,16 @@
 import { useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom";
+
 import { Button } from "@/components/ui/button";
-import { Separator } from "@/components/ui/separator";
 import { WelcomeModal } from "@/components/modals/WelcomeModal";
-import {
-  Menu,
-  Sun,
-  Moon,
-  Globe,
-  HelpCircle,
-  User,
-  MoonStar,
-} from "lucide-react";
+import { Sun, Moon, Globe, ChevronDownIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { Input } from "../ui/input";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuLabel,
+  DropdownMenuTrigger,
+} from "../ui/dropdown-menu";
 
 interface HeaderProps {
   className?: string;
@@ -26,9 +24,7 @@ export function Header({ className }: HeaderProps) {
     return false;
   });
   const [welcomeModalOpen, setWelcomeModalOpen] = useState(false);
-  const navigate = useNavigate();
 
-  // Apply theme to document
   useEffect(() => {
     if (isDark) {
       document.documentElement.classList.add("dark");
@@ -39,110 +35,70 @@ export function Header({ className }: HeaderProps) {
     }
   }, [isDark]);
 
-  const handleLogoClick = () => {
-    navigate("/");
-  };
-
-  const handleProfileClick = () => {
-    navigate("/profile");
-  };
-
-  const handleHelpClick = () => {
-    setWelcomeModalOpen(true);
-  };
-
   return (
     <>
       <header
         className={cn(
-          "h-16 bg-background border-b border-islamic-green-200 dark:border-islamic-green-800/25 flex items-center justify-between px-4",
+          "h-16 flex items-center justify-between px-4 bg-gray-100/50 border border-gray-200 dark:border-gray-800/25 rounded-2xl",
           className
         )}
       >
-        {/* Left Section */}
         <div className="flex items-center gap-4">
-          {/* Sidebar Toggle */}
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button variant="outline" className="ml-auto">
+                IMF GPT 1.1 <ChevronDownIcon />
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="end">
+              <DropdownMenuLabel>IMF GPT 1.1</DropdownMenuLabel>
+            </DropdownMenuContent>
+          </DropdownMenu>
+        </div>
+
+        <div className="hidden md:flex items-center gap-2">
+          <Button
+            variant="default"
+            className={cn(
+              "w-8 h-8 bg-transparent hover:bg-primary/25 dark:hover:bg-islamic-green-900/25 rounded-full",
+              { "bg-primary/15": !isDark }
+            )}
+            size="icon"
+            onClick={() => setIsDark(false)}
+          >
+            <Sun
+              className={cn(
+                "w-5 h-5 text-gray-400 dark:text-gray-200 hover:text-islamic-green-600 dark:hover:text-islamic-green-400",
+                { "text-primary/75 dark:text-islamic-green-200": !isDark }
+              )}
+            />
+          </Button>
           <Button
             variant="ghost"
+            className={cn(
+              "w-8 h-8 bg-transparent hover:bg-primary/25 dark:hover:bg-islamic-green-900/25 rounded-full",
+              { "bg-primary/15": isDark }
+            )}
             size="icon"
-            onClick={() => {}}
-            className="lg:hidden"
+            onClick={() => setIsDark(true)}
           >
-            <Menu className="w-5 h-5" />
+            <Moon
+              className={cn(
+                "w-5 h-5 text-gray-400 dark:text-gray-200 hover:text-islamic-green-600 dark:hover:text-islamic-green-400",
+                { "text-primary/75 dark:text-islamic-green-200": isDark }
+              )}
+            />
           </Button>
-
-          {/* Logo & Title */}
-          <button
-            onClick={handleLogoClick}
-            className="flex items-center gap-3 hover:opacity-80 transition-opacity cursor-pointer"
-          >
-            <div className="w-8 h-8 bg-gradient-to-br from-islamic-green-500 to-islamic-teal-500 rounded-lg flex items-center justify-center">
-              <MoonStar className="w-5 h-5 text-white" />
-            </div>
-            <div className="flex flex-col items-start">
-              <h1 className="font-semibold text-islamic-green-800 dark:text-islamic-green-200">
-                Islamic Finance AI
-              </h1>
-              <p className="text-xs text-islamic-green-600 dark:text-islamic-green-400">
-                Sharia-Compliant Financial Consultant
-              </p>
-            </div>
-          </button>
         </div>
 
-        {/* Center Section - Status */}
-        <div className="hidden md:flex items-center gap-2 px-3 py-1 bg-islamic-green-50 dark:bg-islamic-green-800 rounded-full">
-          <div className="w-2 h-2 bg-islamic-green-500 dark:bg-islamic-green-200 rounded-full animate-pulse" />
-          <span className="text-sm text-islamic-green-700 dark:text-islamic-green-50">
-            AI Ready
-          </span>
-        </div>
-
-        {/* Right Section */}
         <div className="flex items-center gap-2">
-          {/* Language Toggle */}
+          <Input placeholder="Search" />
           <Button
-            className="dark:hover:bg-islamic-green-900/25"
+            className="dark:hover:bg-islamic-green-900/25 rounded-full"
             variant="ghost"
             size="icon"
           >
             <Globe className="w-4 h-4" />
-          </Button>
-
-          {/* Theme Toggle */}
-          <Button
-            variant="ghost"
-            className="dark:hover:bg-islamic-green-900/25"
-            size="icon"
-            onClick={() => setIsDark(!isDark)}
-          >
-            {isDark ? (
-              <Sun className="w-4 h-4" />
-            ) : (
-              <Moon className="w-4 h-4" />
-            )}
-          </Button>
-
-          <Separator orientation="vertical" className="h-6 hidden sm:block" />
-
-          {/* Help */}
-          <Button
-            className="dark:hover:bg-islamic-green-900/25"
-            variant="ghost"
-            size="icon"
-            onClick={handleHelpClick}
-          >
-            <HelpCircle className="w-4 h-4" />
-          </Button>
-
-          {/* User Profile */}
-          <Button
-            className="dark:hover:bg-islamic-green-900/25"
-            variant="ghost"
-            size="icon"
-            onClick={handleProfileClick}
-          >
-            <User className="w-4 h-4" />
           </Button>
         </div>
       </header>
