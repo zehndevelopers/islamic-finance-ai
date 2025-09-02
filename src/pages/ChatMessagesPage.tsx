@@ -98,18 +98,13 @@ export function ChatMessagesPage() {
   }
 
   return (
-    <div className="h-screen flex flex-col bg-background">
-      {/* Header */}
-      <Header />
+    <div className="h-screen flex space-x-3 p-3 bg-gradient-to-bl from-islamic-green-800 to-islamic-green-300 dark:from-islamic-green-900/10 dark:to-islamic-teal-900/10">
+      <Sidebar />
 
-      {/* Main Content */}
-      <div className="flex-1 flex overflow-hidden">
-        {/* Sidebar */}
-        <Sidebar />
+      <div className="flex flex-col flex-1 bg-background rounded-2xl overflow-hidden">
+        <Header />
 
-        {/* Chat Area */}
-        <div className="flex-1 flex flex-col bg-background">
-          {/* Messages */}
+        <div className="flex flex-col flex-1 items-center justify-center">
           <ChatMessages
             messages={messages.map((msg) => ({
               id: msg.id,
@@ -126,7 +121,6 @@ export function ChatMessagesPage() {
             showWelcome={false}
           />
 
-          {/* Input */}
           <ChatInput
             value={inputValue}
             onChange={setInputValue}

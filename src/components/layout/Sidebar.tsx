@@ -51,7 +51,7 @@ export function Sidebar() {
   return (
     <div
       className={cn(
-        "h-full w-80 bg-background border-r border-islamic-green-200 dark:border-islamic-green-800/25 flex flex-col",
+        "h-full w-80 bg-background rounded-2xl border-islamic-green-200 dark:border-islamic-green-800/25 flex flex-col",
         "transition-transform duration-300 ease-in-out"
       )}
     >

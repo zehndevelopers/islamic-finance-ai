@@ -59,7 +59,7 @@ export function ChatInput({
   return (
     <div
       className={cn(
-        "border-t border-islamic-green-200 dark:border-islamic-green-800/25 bg-background p-4",
+        "w-full border-t border-islamic-green-200 dark:border-islamic-green-800/25 bg-background p-4",
         className
       )}
     >

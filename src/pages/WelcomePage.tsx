@@ -45,18 +45,14 @@ export function WelcomePage() {
   };
 
   return (
-    <div className="h-screen bg-gradient-to-br from-islamic-green-50 to-islamic-teal-50 dark:from-islamic-green-900/10 dark:to-islamic-teal-900/10 flex flex-col">
-      {/* Header */}
-      <Header />
+    <div className="h-screen flex space-x-3 p-3 bg-gradient-to-bl from-islamic-green-800 to-islamic-green-300 dark:from-islamic-green-900/10 dark:to-islamic-teal-900/10">
+      <Sidebar />
 
-      <div className="flex-1 flex overflow-hidden">
-        {/* Sidebar */}
-        <Sidebar />
+      <div className="flex flex-col flex-1 bg-background rounded-2xl overflow-hidden">
+        <Header />
 
-        {/* Main Content */}
-        <div className="flex-1 flex flex-col items-center justify-center">
+        <div className="flex flex-col flex-1 items-center justify-center">
           <div className="h-full flex-1 flex flex-col items-center justify-center px-4 py-8">
-            {/* Welcome Title */}
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-bold text-islamic-green-800 dark:text-islamic-green-500 mb-4">
                 Islamic Finance AI
@@ -67,7 +63,6 @@ export function WelcomePage() {
               </p>
             </div>
 
-            {/* Chat Input */}
             <div className="w-full max-w-4xl mb-12">
               <ChatInput
                 value={inputValue}
@@ -80,7 +75,6 @@ export function WelcomePage() {
               />
             </div>
 
-            {/* Suggestion Buttons */}
             <div className="w-full max-w-4xl">
               <p className="text-center text-islamic-green-700 dark:text-islamic-green-400/80 mb-6 font-medium">
                 Try asking about:
@@ -100,7 +94,6 @@ export function WelcomePage() {
             </div>
           </div>
 
-          {/* Footer */}
           <div className="text-center py-6 text-sm text-islamic-green-500 dark:text-islamic-green-700/80">
             <p>
               Built with Islamic principles • Sharia-compliant guidance •
