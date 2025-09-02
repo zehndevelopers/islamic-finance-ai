@@ -1,0 +1,1600 @@
+# AAOIFI Standard on Auditing (SOA) 1
+
+## Framework of Auditing
+
+_Exposure draft (EDSOA 1/2022) v 5_
+
+## Contents
+
+- Contents
+- Preface
+- Introduction
+  - Overview
+  - Rationale for this standard
+  - Significant changes from previous standard
+- Objective of the standard
+- Scope
+- AAOIFI framework for auditing
+- Definitions
+- Overall aim, objective and scope of the audit
+  - Overall aim of an audit
+  - Overall objectives of the auditor
+  - Scope of an audit
+- Compliance requirements
+  - Compliance with AAOIFI framework for auditing
+  - Ethical requirements
+  - Quality management
+- Conduct of an audit
+  - Initiation and pre-commencement
+    - Acceptance and continuance
+    - Acceptance of audit engagement
+    - Preconditions for an audit engagement acceptance
+    - Agreeing the terms of audit engagement through an engagement letter
+  - Planning and risk assessment
+    - Audit planning
+    - Competence of audit team
+    - Shari’ah principles and rules Identifying and assessing the risks of material misstatement and non-deduction of compliance with
+    - Determining audit materiality
+    - Assessing the need for involving auditor’s expert
+    - Reliance on the work performed by Shari’ah Supervisory Board (SSB)
+    - Reliance on the work performed by the external Shari’ah auditor
+    - Performing preliminary analytical procedures
+    - Assessing and using the work of internal audit function
+    - Assessing and using the work of internal Shari’ah audit function
+  - Execution
+    - Audit sampling
+    - Assessment of control environment and tests of control
+    - Update of planned approach and combined risk assessment
+    - Substantive procedures
+    - Supervision of audit work
+  - Consideration of fraud and error
+    - Responsibility for the prevention and detection of fraud
+    - Auditor’s responsibility
+    - Professional scepticism
+    - Inherent limitation of an audit
+    - Identification and assessment of risks of material misstatement
+  - Other significant considerations during the conduct of an audit
+    - Going concern
+    - Audit materiality
+    - Written representations
+    - Related parties...........................................................................................................................................
+    - Compliance with laws and regulations
+    - Contingent liabilities and commitments
+  - Documentation and archiving
+  - Conclusion of audit
+    - Review of audit work
+    - Engagement quality control review
+  - Communication with those charged with governance
+  - Communication with Shari’ah Supervisory Board (SSB).................................................................................
+  - Going concern assessment update
+  - Review for subsequent events
+- Auditor’s report
+  - Issuance of auditor’s report
+    - Primary opinion
+    - Supplementary opinion
+  - Elements of auditor’s report
+    - Title
+    - Addressee
+    - Auditor’s opinion
+    - Basis for opinion
+    - Going concern
+    - Key audit matters (KAMs)
+    - Management’s responsibilities
+    - Auditor’s responsibilities for the audit of the financial statements
+    - Report on other legal and regulatory requirements
+    - Name of engagement partner
+    - Signature of the auditor
+    - Auditor’s address
+    - Date of the auditor’s report
+  - Modification to the auditor’s opinion and its types
+    - Qualified opinion
+    - Adverse opinion
+    - Disclaimer of opinion
+    - Emphasis of matter paragraph in the auditor’s report
+- Effective date
+- Amendments to other standards
+- APPENDICES
+- Appendix A: Adoption of the standard
+  - Members of the AAOIFI Governance and Ethics Board
+  - Members of the AAOIFI Accounting Board
+  - Reservation
+  - Members of the Professional Auditing Standards Committee (PASC)
+  - Executive team
+- Appendix B: Basis for conclusions
+  - [To be updated]
+- Appendix C: Brief history of the preparation of the standard
+
+AAOIFI Standard on Auditing (SOA) 1 “Framework of Auditing” is set out in paragraphs 01 - 160. All the
+paragraphs have equal authority.
+
+Where the context so requires, the use of the masculine gender shall include the feminine
+gender and the singular shall include the plural and vice versa and the word “person” shall
+include any institution, corporation, firm, partnership, body corporate or other forms of
+association. The table of contents and headings do not form part of the text of the standard
+and are for the purpose of convenience and ease of understanding, and may, at times, help
+in the interpretation of text only.
+
+All AAOIFI SOA shall be read in conjunction with the definitions, Shari’ah principles and rules and key
+considerations provided by AAOIFI Shari’ah Standards (SS) in respect of such products and matters.
+
+## Preface
+
+PR1 Auditing for Islamic financial institutions, Islamic finance transactions and other financial and related
+information having compliance with Shari’ah principles and rules and the AAOIFI’s Financial
+Accounting Standards, in particular, have been a part of the AAOIFI’s standard setting mandate since
+its inception. The approach was to develop a limited set of standards focusing only on the value
+addition and the specific aspects of auditing related to Shari’ah principles and rules and the specific
+business models and structures related to Islamic finance, while allowing use of other established
+practices of auditing (in particular, International Standards on Auditing (ISAs), issued by the
+International Auditing and Assurance Standards Board (IAASB)).
+
+PR2 Considering significant developments in the auditing profession in last several years, an auditing
+AAOIFI’s auditing standards (now named as “AAOIFI Standards on Auditing” (SOAs)) with the current
+established practices of auditing, and the updated AAOIFI strategy for auditing standards setting.
+
+PR3 It is expected that this project shall include the following work products:
+
+a. this standard, on the framework of auditing;
+b. another standard, on special considerations of an audit;
+c. a guidance note, on the illustrative auditor's report; and
+d. guidance note(s) on the audit of Islamic finance products, services, structures, and business models.
+
+## Introduction
+
+### Overview
+
+IN1 This AAOIFI Standard on Auditing (SOA) aims to provide a comprehensive framework for an auditor
+for performance of an audit of the financial statements of an institution or entity that reports in line,
+and complies, with Shari’ah principles and rules.
+
+IN2 It provides the principle-based guidance with regard to the responsibilities of the auditor with regard
+to an audit, including those related to quality management, communication, planning and execution
+of the audit (including the general process flow of an audit) and concluding on the evidence
+gathered, as well as, reporting in the form of providing a primary and supplementary opinion.
+
+IN3 The framework, as contained in this standard, is considered comprehensive, when read with, and
+implemented along with other established practices of auditing.
+
+### Rationale for this standard
+
+IN4 AAOIFI SOAs, including this SOA, are developed in line with the revised AAOIFI auditing standards
+setting strategy, considering the aspects that need to be considered by the auditors of financial
+statements for the institutions and entities that report in line, and comply, with Shari’ah principles
+and rules. These aspects, inter alia, include:
+
+a. the information needs of Shari'ah conscious stakeholders¹ with regard to as to whether the transactions conducted by the institution are Shari'ah compliant. This is based on the premise that such users of the financial statements are not merely interested in profit, rather they are equally concerned whether Shari'ah principles and rules have been complied with while earning such profit; and
+
+b. the business model and transaction structures in case of various Islamic financial institutions and structures, as well as, other Shari'ah compliant institutions e.g., social financial institutions, which at most times are different from the conventional institutions, and hence are subject to specific financial reporting requirements.
+
+IN5 The new strategy is to develop a limited set of standards while complementing, but not competing
+with, other established practices of auditing (in particular, International Standards on Auditing (ISAs),
+issued by the International Auditing and Assurance Standards Board (IAASB)). This entails providing
+value addition through addressing specific aspects of auditing related to Shari’ah principles and rules
+and the specific business models and structures related to Islamic finance, which are not the subject
+of other established practices of auditing.
+
+IN6 Development of an updated set of standards on auditing was considered essential by the AAOIFI
+Governance and Ethics Board (AGEB), considering the recent developments in the established
+practices of auditing and the increasing need for guidance in this area. Hence, a comprehensive
+
+¹ Shari'ah conscious stakeholder is a stakeholder who has an interest in the institution to be informed whether the institution is following Shari'ah principles and rules while conducting its business.
+
+project of revision of auditing standards was initiated, resulting in the work products including this standard.
+
+### Significant changes from previous standard
+
+IN7 This standard (SOA 1 ) brings significant changes from its predecessor standards, inter alia, in the
+following aspects:
+
+a. the standard combines the requirements of multiple earlier standards (including (Auditing Standard for Islamic Financial Institutions (ASIFI) 1 "Objective and Principles of Auditing", ASIFI 2 "Auditor's Report", ASIFI 3 "Terms of Audit Engagement" and ASIFI 5 "Auditor's Responsibility to Consider Fraud and Error in an Audit of Financial Statements") at one place, while reducing redundancies and overlapping with other established practices of auditing;
+
+b. AAOIFI framework for auditing has been defined including aspects of its compliance;
+
+c. opinion of the auditor has been bifurcated for better clarity of scope, methodology and approach, as well as, reporting requirement, in form of a primary opinion on truth and fairness of the financial information and a supplementary opinion on compliance with Shari'ah principles and rules;
+
+d. quality management requirements at firm level and engagement level have been inserted;
+
+e. definitions and significant principles have been aligned with current established practices of auditing, including coverage of certain aspects which were not covered in the predecessor standard(s), including aspects related to reporting, communication, related parties, compliance with laws and regulations, key audit matters, etc.; and
+
+f. process flow and key principles of auditing related to various execution phases of an audit have been included, such as audit sampling, tests of control and testing of details have been made part of the standard.
+
+## Objective of the standard
+
+1. The objective of this standard is to provide a comprehensive framework for an auditor for
+   performance of an audit of the financial statements of an institution or entity that reports in line,
+   {{ ... }}
+   and complies, with Shari’ah principles and rules.
+
+## Scope
+
+2. This standard shall apply to an auditor in respect of an audit of the financial statements of an
+   institution or entity that reports in line, and complies, with Shari’ah principles and rules.
+
+_[Explanation: AAOIFI Standards on Auditing (SOAs) are meant for providing a framework of auditing for the audit of Islamic financial institutions (IFIs). However, these may also be applied for the purpose of audit of financial statements of institutions and entities (including virtual entities) other than IFIs including, in particular, the social finance institutions and institutions involving Islamic finance structures and transactions.]_
+
+3. An audit of the following is not considered within the scope of this standard:
+
+   a. a transaction or structure, offered by a conventional financial institution referred to in clauses (a) and (b) of paragraph 3 of AAOIFI Financial Accounting Standard (FAS 40) "Financial Reporting for Islamic Finance Windows"; and
+
+   b. an institution engaged in general business operations not in compliance with an identified set of Shari'ah principles and rules, as well as, an identified Shari'ah governance framework.
+
+## AAOIFI framework for auditing
+
+4. AAOIFI framework for auditing comprises all AAOIFI SOAs (read with related pronouncements) and
+   the established practices of auditing, insofar as the requirements of such established practices of
+   auditing are consistent with AAOIFI SOAs and the Shari’ah principles and rules.
+
+## Definitions
+
+5. For the purpose of interpreting and applying this standard, the following short definitions are relevant²:
+
+   a. **Applicable financial reporting framework** – is a financial reporting framework adopted by management and, where appropriate, those charged with governance for the purpose of the preparation of the financial statements of an institution or entity, based on the hierarchy mentioned in paragraph 73 of AAOIFI Conceptual Framework of Financial Reporting or any other framework which is in line with the Shari'ah principles and rules;
+
+   b. **Auditor** – is a person or persons conducting an audit, and includes an audit firm, the engagement partner and, as the context suggests, other members of the engagement team, in compliance with the requirements of this standard;
+
+   c. **Audit documentation** – is the record of audit procedures performed, relevant audit evidence obtained and conclusions reached by the auditor;
+
+   d. **Audit evidence** – is the information used by the auditor in arriving at the conclusions on which the auditor's opinion is based. Audit evidence includes both information contained in the accounting records underlying the financial statements and information obtained from other sources;
+
+   e. **Audit risk** – is the risk that the auditor expresses an inappropriate audit opinion when the financial statements are materially misstated or when any material non-compliance with Shari'ah principles and rules remains unaddressed. Audit risk is a function of the risk of material misstatement [i.e., the risk that a material misstatement may exist in the financial statements] and the detection risk [i.e., the risk that the auditor may not be able to identify such material misstatement];
+
+   f. **Audit sampling** – is the application of audit procedures to less than 100 percent of items within a population of audit relevance such that all sampling units have a chance of selection in order to provide the auditor with a reasonable basis on which to draw conclusions about the entire population;
+
+   g. **Direct external Shari'ah audit** – is a type of external Shari'ah audit engagement in which the external Shari'ah auditor reports directly on the compliance of an institution with the criteria given in SOA 6 "External Shari'ah Audit (Independent Assurance Engagement on an institution's Compliance with Shari'ah principles and rules)" with regard to the subject matter i.e., compliance with Shari'ah principles and rules applicable to its financial arrangements, contracts and transactions during a specific period⁴;
+
+   h. **Emphasis of matter paragraph** – is a paragraph included in the auditor's report that refers to a matter appropriately presented or disclosed in the financial statements that, in the auditor's judgment, is of such importance that it is fundamental to users' understanding of the financial statements and the institution's state of compliance with Shari'ah principles and rules;
+
+   i. **Error** – is an unintentional misstatement of amounts or disclosures in financial statements including unintentional non-compliances with Shari'ah principles and rules;
+
+   j. **Established practices of auditing** – comprise of the International Standards on Auditing (ISAs) issued by the International Auditing and Assurance Standards Board (IAASB) and / or the equivalent standards and regulatory requirements applicable in the respective jurisdiction;
+
+   k. **External Shari'ah audit** – is an independent assurance engagement to provide reasonable assurance that an institution complies with the Shari'ah principles and rules applicable to its financial arrangements, contracts and transactions during a specific period⁵, based on a specific set of Shari'ah principles and rules contained in the criteria⁶;
+
+   l. **External Shari'ah auditor** – is a firm having professional knowledge and competence of auditing and relevant Shari'ah principles and rules, duly fulfilling the fit and proper criteria laid down by the respective regulator (the central Shari'ah board, if applicable) for appointment as an external Shari'ah auditor, who, at the request of the institution, provides an independent assurance report on the state of compliance by an institution with the Shari'ah principles and rules. The auditor may also be appointed as the external Shari'ah auditor of the institution;
+
+   m. **Fraud** – refers to an intentional act by one or more individuals among management, those charged with governance, employees or third parties, involving the use of deception to obtain an unjust or illegal advantage or intentional non-compliances with Shari'ah principles and rules;
+
+   n. **Institution** – for the purpose of this standard, is an Islamic financial institution (IFI) or any other institution or entity (including any virtual entity / institution) whose financial statements are subject to audit under the AAOIFI framework for auditing;
+
+   o. **Internal audit function** – is a function of an institution that performs assurance and consulting activities designed to evaluate and improve the effectiveness of the institution's governance, risk management and internal control processes;
+
+   p. **Internal Shari'ah audit function** – is a function part of the governance organs of an institution, being independent of management, with the primary objective to provide assurance to those charged with governance and the Shari'ah supervisory board (SSB) in relation to the institution's adherence to the Shari'ah principles and rules;
+
+   q. **Internal Shari'ah auditors** – are those individuals who perform the activities of the internal Shari'ah audit function;
+
+   r. **Islamic financial institutions (IFIs)** – are financial institutions that operate in line with Shari'ah principles and rules performing banking, insurance / Takaful, capital markets and similar activities and include the stand-alone branches, divisions and windows of conventional financial institutions that offer products and services in line with Shari'ah principles and rules;
+
+⁵ See paragraph 13 of SOA 6 "External Shari'ah Audit (Independent Assurance Engagement on an IFI's Compliance with Shari'ah principles and rules)"
+
+⁶ See paragraph 15 of SOA 6 "External Shari'ah Audit (Independent Assurance Engagement on an IFI's Compliance with Shari'ah principles and rules)"
+
+s. **Key audit matters** – are those matters that, in the auditor's professional judgment, were of most significance in the audit of the financial statements of the current period. Key audit matters are selected from matters communicated with those charged with governance;
+
+t. **Materiality** – refers to the quantum or degree of significance of misstatements, including omissions, which individually, or in the aggregate, could reasonably be expected to influence the economic decisions of users taken on the basis of the financial statements and / or the state of the institution's compliance with Shari'ah principles and rules. Materiality is determined in the light of surrounding circumstances, duly considering the size (quantitative) or nature (qualitative) of a misstatement, or a combination of both;
+
+u. **Modified opinion** – is a qualified opinion, an adverse opinion or a disclaimer of opinion;
+
+v. **Other matter paragraph** – is a paragraph included in the auditor's report that refers to a matter other than those presented or disclosed in the financial statements that, in the auditor's judgment, is relevant to users' understanding of the audit, the auditor's responsibilities or the auditor's report;
+
+w. **Performance materiality** – is the amount or amounts set by the auditor at less than materiality for the financial statements (or the institution) as a whole to reduce to an appropriately low level the probability that the aggregate of uncorrected and undetected misstatements exceeds materiality for the financial statements (or the institution) as a whole. If applicable, performance materiality also refers to the amount or amounts set by the auditor at less than the materiality level or levels for particular classes of transactions, account balances or disclosures;
+
+x. **Pervasive** – is a term used, in the context of misstatements, to describe the effects on the financial statements (or state of compliance with Shari'ah principles and rules) of misstatements or the possible effects on the financial statements (or state of compliance with Shari'ah principles and rules) of misstatements, if any, that are undetected due to an inability to obtain sufficient appropriate audit evidence. Pervasive effects on the financial statements are those that, in the auditor's judgment:
+
+      i. are not confined to specific elements, classes of transaction, accounts or items of the financial statements;
+      ii. if so confined, represent or could represent a substantial proportion of the financial statements or the overall affairs of the institution; or
+      iii. in relation to disclosures, are fundamental to users' understanding of the financial statements;
+
+y. **Population** – is the entire set of data from which a sample is selected and about which the auditor wishes to draw conclusions;
+
+z. **Preconditions for an audit** – the use by management of an acceptable financial reporting framework in the preparation of the financial statements and applicable Shari'ah principles and rules, and the agreement of management and, where appropriate, those charged with governance to the premise on which an audit is conducted;
+
+aa. **Primary opinion** – is an opinion which the auditor is required to form whether the financial statements are prepared, in all material respects, in accordance with the applicable financial reporting framework;
+
+bb. **Professional scepticism** – is an attitude of having a questioning mind, being alert to conditions which may indicate possible misstatement due to error, fraud or non-compliance with Shari'ah principles and rules and critically assessing the audit evidence;
+
+cc. **Public interest entities** – are the entities that are of significant public relevance because of the nature of their business, their size or the number of their stakeholders. In the specific context of this standard, public interest entities shall include:
+
+       i. all listed institutions or entities i.e., their common shares are listed and publicly traded on a stock exchange;
+       ii. all institutions or entities that have publicly traded securities other than common shares e.g., Sukuk; and
+       iii. all retail IFIs, that deal with a large number of common stakeholders e.g., investment accountholders, depositors, unitholders, participants and employees;
+
+dd. **Risk assessment procedures** – are the audit procedures performed to obtain an understanding of the institution and its environment, including the institution's internal control, to identify and assess the risks of material misstatement, whether due to fraud or error, at the institution, the financial statements and assertion levels;
+
+ee. **Sampling unit** – refers to the individual items constituting a population;
+
+ff. **Shari'ah principles and rules**⁷ – comprise the Shari'ah principles and rules defined by the following hierarchy, as appropriate:
+
+       i. the Shari'ah standards issued by Accounting and Auditing Organisation for Islamic Financial Institutions (AAOIFI);
+       ii. the regulations issued by the respective jurisdiction's regulator insofar as these entail the regulatory Shari'ah requirements;
+       iii. the rulings of the central Shari'ah board for the respective jurisdiction (if there is one);
+       iv. the requirements of the applicable Financial Accounting Standards as issued by AAOIFI insofar as these entail Shari'ah related requirements; and
+       v. the approvals and rulings given by the Shari'ah supervisory board of the institution;
+
+       *[Explanation: In case of an ambiguity, identified during a compliance, audit or rating exercise, as the case may be, with regard to interpretations related to above, the Shari'ah supervisory board's clarification shall prevail.]*
+
+⁷ AAOIFI GS 9 "Shari'ah Compliance Function"
+
+gg. **Shari'ah supervisory board (SSB)** – is an independent body of specialised jurists in Fiqh Al-Muamalat (Islamic commercial jurisprudence). The Shari'ah supervisory board is entrusted with the duty of directing, reviewing and supervising the activities of the Islamic financial institution in order to ensure that they are in compliance with Shari'ah principles and rules;
+
+hh. **Substantive procedures** – are audit procedures that are performed to test material misstatements in an account balance, transaction class or disclosure component of the financial statements; and
+
+ii. **Supplementary opinion** – is an opinion, being an integral part of the auditor's report, duly formed and expressed by an auditor in addition to his primary opinion on the financial statements of an institution, as to whether (or not) the institution has complied, in all material respects, with the Shari'ah principles and rules applicable to its financial arrangements, contracts and transactions during the period covered by the financial statements;
+
+jj. **Test of controls** – are audit procedures performed to test the operating effectiveness of controls in preventing or detecting material misstatements at the relevant assertion level.
+
+## Overall aim, objective and scope of the audit
+
+### Overall aim of an audit
+
+{{ ... }} 6. The aim of an audit of financial statements is to enhance the degree of confidence of intended users
+(including, in particular, the Shari’ah conscious stakeholder) in the financial statements. This is
+achieved by the expression of opinion by the auditor as to whether (or not, or to what extent), the
+financial statements are prepared, in all material respects, in accordance with an applicable financial
+reporting framework (i.e., AAOIFI Financial Accounting Standards, read with the AAOIFI Conceptual
+Framework of Financial Reporting), as well as, an opinion on the state of compliance of the
+respective institution with the Shari’ah principles and rules.
+
+### Overall objectives of the auditor
+
+7. The overall objectives of the auditor are:
+
+   a. to obtain reasonable assurance about whether the financial statements of the institution are, as a whole, free from material misstatement, whether due to fraud or error, thereby enabling the auditor to express an opinion on whether the financial statements are prepared, in all material respects, in accordance with an applicable financial reporting framework (i.e., AAOIFI Financial Accounting Standards, read with the AAOIFI Conceptual Framework of Financial Reporting);
+
+   b. to obtain reasonable assurance whether the institution has, in all material respects, complied with Shari'ah principles and rules with regard to the financial arrangements, contracts, and transactions during the period covered by the financial statements subject to audit; and
+
+   c. to report on the financial statements and communicate as required by AAOIFI SOAs, in accordance with the auditor's findings.
+
+### Scope of an audit
+
+8. The term “scope of an audit” refers to the audit procedures deemed necessary by the auditor in the
+   circumstances to achieve the objectives of an auditor in line with the requirements of AAOIFI SOAs.
+   {{ ... }}
+9. The scope with regard to the compliance of an institution with the Shari’ah principles and rules shall
+   be limited to the financial arrangements, contracts and transactions having Shari’ah implications
+   entered by the institution with its customers, other financial institutions and stakeholders both, in
+   substance and in their legal form.
+
+## Compliance requirements
+
+### Compliance with AAOIFI framework for auditing
+
+10. An auditor shall not assert compliance with this standard unless all the requirements of AAOIFI
+    framework for auditing are complied with.
+
+### Ethical requirements
+
+11. An auditor shall comply with the requirements of the “Code of Ethics for Islamic Finance
+    Professionals” issued by AAOIFI, as well as, the requirements of the relevant code(s) of ethics^8 , as
+    applicable.
+
+### Quality management
+
+12. An auditor shall establish and maintain a system of quality management at firm level to provide it
+    with reasonable assurance that:
+
+a. the firm and its personnel comply with professional standards and applicable legal and
+regulatory requirements; and
+
+b. reports issued by the firm or engagement partners are appropriate in the circumstances.
+
+13. An auditor shall implement quality management procedures at the engagement level that provide
+    the auditor with reasonable assurance that:
+
+(^8) IESBA Code of Ethics for Professional Accountants, as well as, any alternate or supplementary code of ethics applicable
+to auditors in the respective jurisdiction.
+
+a. the audit complies with professional standards, as well as, applicable legal and regulatory
+requirements; and
+
+b. the auditor’s report issued is appropriate in the circumstances.
+
+14. An auditor shall ensure that it has adequate capability in terms of resources and knowledge of the
+    Shari’ah principles and rules and the nature of operations and transactions of the institution in order
+    to fulfil the responsibilities under the engagement in a professional manner. The quality
+    management standards^9 in line with the established practices of auditing shall be followed. This shall
+    entail active involvement of Shari’ah expert(s) throughout the engagement, as well as, the expert(s)
+    of the applicable financial reporting framework (including, in particular, the AAOIFI Financial
+    Accounting Standards). Such assessment of capability shall be documented appropriately.
+
+## Conduct of an audit
+
+### Initiation and pre-commencement
+
+#### Acceptance and continuance
+
+15. To accept and continue an audit the auditor shall have policies and procedures to ensure that only
+    those audits of financial statements of an institution are accepted and continued where the auditor:
+
+a. is competent to perform the engagement (including possession of appropriate knowledge
+and experience about Shari’ah principles and rules);
+
+b. can comply with relevant ethical requirements; and
+
+c. has considered the integrity of the institution.
+
+#### Acceptance of audit engagement
+
+16. An auditor shall accept or continue an audit engagement only when the basis upon which it is to be
+    performed has been agreed and this can be achieved by:
+
+a. establishing whether the preconditions exist for an audit; and
+
+b. confirming that there is a common understanding between the auditor and those charged
+with governance (or the management, where appropriate) of the institution of the terms of
+the audit engagement.
+
+#### Preconditions for an audit engagement acceptance
+
+17. Before accepting an audit, an auditor shall:
+
+a. determine whether the financial reporting framework under which financial statements (if
+not fully compliant with the AAOIFI FASs) are prepared is acceptable with regard to the
+requirements of Shari’ah principles and rules; and
+
+b. obtain agreement of those charged with governance and the management that they
+acknowledge and understand their respective responsibilities for the preparation of the
+
+(^9) See International Standard on Quality Management (ISQM 1) “Quality Management for Firms that Perform Audits or
+Reviews of Financial Statements, or Other Assurance or Related Services Engagements”.
+
+financial statements in accordance with applicable financial reporting framework and in
+compliance with Shari’ah principles and rules.
+
+#### Agreeing the terms of audit engagement through an engagement letter
+
+18. An auditor shall agree the terms of engagement through an audit engagement letter or other
+    appropriate form of written agreement and shall establish an unambiguous understanding with the
+    institution about the terms of the engagement, including the type, scope and timing of the
+    engagement, in line with the requirements of this standard and established practices of auditing.
+19. The terms of the audit engagement, which are documented in the engagement letter, shall include
+    the objectives and scope of the audit engagement, management’s responsibilities, the auditor’s
+    responsibilities, identification of applicable financial reporting framework under which financial
+    statements would be prepared, identification of Shari’ah principles and rules (and their respective
+    hierarchy) and the limitations of the engagement.
+20. An auditor shall also obtain the agreement of those charged with governance (and the management,
+    where appropriate) that they acknowledge and understand their respective responsibilities:
+
+a. to ensure that the financial arrangements, contracts and transactions having Shari’ah
+implications entered into by the institution are, in substance and in their legal form / in
+letter and spirit, in accordance with the requirements of Shari’ah principles and rules, and to
+establish controls and procedures necessary for this purpose; and
+
+b. to provide the auditor with:
+
+i. access to all information that is relevant to the preparation of financial statements
+and / or compliance with Shari’ah principles and rules;
+
+ii. additional information that the auditor may request from management for the
+purpose of the audit; and
+
+iii. unrestricted access to persons of the institution for the purpose of seeking evidence
+during the conduct of audit.
+
+### Planning and risk assessment
+
+#### Audit planning
+
+21. An auditor shall plan and perform an audit of the financial statements with professional competence
+    and due care recognising that circumstances may exist which cause the financial statements to be
+    materially misstated.
+22. Planning involves developing an overall strategy for the scope, emphasis, timing and conduct of the
+    engagement, and an engagement plan, consisting of a detailed approach for the nature, timing and
+    extent of evidence-gathering procedures and the reasons for selecting them.
+23. Planning includes identifying the audit risk while obtaining the understanding of the business,
+    assessing the identified risk and responding to audit risks by designing the adequate audit
+    procedures and applying them to obtain sufficient appropriate audit evidence to bring down the
+
+audit risk to an acceptable level. Planning also includes consideration of materiality and application
+of analytical procedures.
+
+24. The nature and extent of planning varies with the engagement circumstances. Examples of the
+    matters that may be considered include:
+
+a. the characteristics of the engagement that define its scope, including the terms of the
+engagement and the characteristics of the financial information and business of the
+institution;
+
+b. the expected timing and the nature of the communications required;
+
+c. the results of engagement acceptance activities;
+
+d. the auditor’s understanding of the institution and its environment;
+
+e. the auditor’s prior knowledge of the industry;
+
+f. identification of intended users and their information needs, and consideration of
+materiality and the components of engagement risk;
+
+g. the extent to which the risks of fraud and error are relevant to the engagement;
+
+h. resources necessary to perform the engagement, such as personnel and expertise
+requirements, including the nature and extent of experts’ involvement; and
+
+i. the initial assessment of effectiveness of Shari’ah related functions including the Shari’ah
+supervisory board, the internal Shari’ah audit function, the Shari’ah compliance function and
+the external Shari’ah audit (where applicable), as well as, corresponding effect on the risk
+assessment and planned procedures (including placement of reliance on these functions).
+
+#### Competence of audit team
+
+25. The auditor shall ascertain the competence of the audit team, with particular emphasis on the
+    team’s collective knowledge and understanding of the applicable financial reporting framework and
+    the applicable Shari’ah principles and rules.
+
+#### Shari’ah principles and rules Identifying and assessing the risks of material misstatement and non-deduction of compliance with
+
+#### compliance with Shari’ah principles and rules
+
+26. The auditor is responsible to identify and assess the risks of material misstatement whether due to
+    fraud or error, at the financial statement and assertion levels. For this purpose, the auditor is
+    required to understand the institution and its environment, including its internal control. This would
+    provide a basis for designing and implementing responses to the assessed risks of material
+    misstatement.
+27. The auditor shall also assess the risk that a material non-compliance with Shari’ah principles and
+    rules, and where applicable, its effect in form of a misstatement of the financial statements, remain
+    undetected.
+28. The risk assessment procedures may generally include the following:
+
+a. inquiries of management, and of others within the institution including where appropriate,
+the internal audit and internal Shari’ah audit functions who in the auditor’s judgment could
+provide information which may assist him in identifying risks of material misstatement due
+to fraud or error;
+
+b. inquiries of SSB and external Shari’ah auditors, where applicable;
+
+c. analytical procedures; and
+
+d. observation and inspection.
+
+#### Determining audit materiality
+
+29. The auditor shall determine audit materiality appropriately in planning and performing the audit and
+    in evaluating the effect of identified misstatements on the audit and of uncorrected misstatements,
+    if any, on the financial statements and in forming the opinion in the auditor’s report.
+30. Planning materiality is the maximum amount by which the auditor believes the financial statements
+    could be misstated and still not affect the decisions of users. Performance materiality is as defined in
+    paragraph 5(w).
+31. The materiality considerations generally include the materiality in terms of the amount relevant for
+    decision making, the tolerable amount and observed rate of deviation (quantitative considerations),
+    and the nature and cause of any observed deviation. However, at times these values would not be
+    arrived at as the same values for a financial statements audit because the decision making protocols
+    and tolerance limits of the stakeholders might be different from the financial performance
+    perspective. Additionally, in several areas the quantitative as well as the significance or severity of
+    an observation from the Shari’ah perspective or the significance of an observation for specific set of
+    stakeholders (qualitative considerations).
+32. In respect of the matters having qualitative materiality including in particular where the risk for non-
+    compliance with Shari’ah principles and rules is higher, the sample selection shall also take into
+    consideration the qualitative aspects of individual items of population.
+33. The auditor shall include in the audit documentation the following, along with the factors considered
+    in determination of audit materiality:
+
+a. materiality for the financial statements as a whole;
+
+b. if applicable, the materiality level or levels for particular classes of transactions, account
+balances or disclosures;
+
+c. performance materiality; and
+
+d. any revision in above as the audit progressed.
+
+#### Assessing the need for involving auditor’s expert
+
+34. A major consideration in planning the audit is the need for experts. Skills that might be required on
+    an engagement include expertise in tax, valuation, pension, information technology (IT), law and
+    Shari’ah principles and rules.
+
+35. The auditor is responsible for expressing the audit opinion and that responsibility is not reduced by
+    the auditor’s use of the work of an auditor’s expert.
+36. In relying on the expert, the auditor should evaluate competence, objectivity, qualification, relevant
+    experience of the expert and adequacy of such auditor’s expert’s work for the purpose of audit
+    including the following factors:
+
+a. the relevance and reasonableness of the expert’s findings or conclusions, and their
+consistency with other audit evidence;
+
+b. the relevance and reasonableness of significant assumptions used by the expert; and
+
+c. the relevance, completeness and accuracy of the source data used by the expert.
+
+37. If the auditor using the work of an auditor’s expert (including a Shari’ah expert) concludes that his
+    work is adequate for the purpose of audit, his relevant findings and / or conclusions shall be
+    accepted as appropriate audit evidence.
+38. The auditor shall not refer to the work of an auditor’s expert in the auditor’s report containing an
+    unmodified opinion unless required by law or regulation to do so.
+
+#### Reliance on the work performed by Shari’ah Supervisory Board (SSB)
+
+39. An auditor shall evaluate the work performed by the SSB, including its report and minutes of
+    meetings, and shall after careful evaluation conclude as to whether and to what extent reliance can
+    be placed on such work for the purpose of audit. [Details to be referred to SOA 4].
+
+#### Reliance on the work performed by the external Shari’ah auditor
+
+40. An auditor shall evaluate the work performed by the external Shari’ah auditor (where applicable),
+    including review of its report and working papers, and shall after careful evaluation conclude as to
+    whether and to what extent reliance can be placed on such work for the purpose of audit. [Details to
+    be referred to SOA 4].
+
+#### Performing preliminary analytical procedures
+
+41. An auditor shall apply analytical procedures at the planning and risk assessment phase of an audit.
+42. The objectives of preliminary analytical procedures conducted include:
+
+a. to understand the business of the institution and transactions; and
+
+b. to identify elements of financial statements that are likely to contain errors.
+
+43. These analytical procedures may include both financial and non-financial information (like number
+    of branches opened, number of staff inducted and increase in accountholders during the period).
+    Analytical procedures my help identify the existence of unusual transactions or events, amounts,
+    ratios and trends that might indicate matters that have audit implications.
+44. An inadequate understanding of the inherent risk or control risk at the planning stage can lead to
+    designing weak analytical procedures. Similarly, any inability to detect any material misstatement
+    may expose to higher audit risk which, in turn, shall affect the quality of the audit.
+
+45. The results of the analytical procedures performed at planning and risk assessment phase assist the
+    auditor in assessing the risks of material misstatement in order to provide a basis for designing and
+    implementing responses to such assessed risks.
+
+#### Assessing and using the work of internal audit function
+
+46. If the work of internal audit function is relevant for the purpose of audit for specific audit areas, the
+    auditor shall perform a preliminary assessment of internal audit by obtaining information about
+    matters such as:
+
+a. the objectivity of internal audit function i.e., status and reporting of internal audit function
+within the institution;
+
+b. the due professional care of internal audit, especially whether the work is adequately
+planned, supervised and reviewed in line with global standards;
+
+c. the competence of the internal audit function including knowledge of Shari’ah principles and
+rules relevant to the function; and
+
+d. whether management acts on internal audit’s reports and recommendations and how this is
+evidenced.
+
+47. The internal audit function’s work may affect the nature, timing and extent of the audit procedures
+    performed by the auditor. For example, as part of their regular work, the internal auditors may
+    review, assess and monitor the institution’s controls that are included in the accounting system.
+    Similarly, part of their work may include confirming receivables or observing certain physical
+    inventories.
+48. If the internal auditors are competent and objective, the auditor may use the internal auditors’ work
+    in these areas to reduce the scope of audit work. The materiality of the account balance or class of
+    transactions and its related audit risk may also determine how much the auditor can rely on the
+    internal auditors’ work. When internal auditors provide direct assistance, the auditor should
+    supervise, review, evaluate and test their work.
+
+#### Assessing and using the work of internal Shari’ah audit function
+
+49. If the work of internal Shari’ah audit function is relevant for the purpose of audit for specific audit
+    areas, the auditor shall perform a preliminary assessment of internal Shari’ah audit by obtaining
+    information about matters such as:
+
+a. the objectivity of internal Shari’ah audit function i.e., status and reporting of Shari’ah
+internal audit function within the institution;
+
+b. the due professional care of internal Shari’ah audit, especially whether the work is
+adequately planned, supervised and reviewed in line with relevant AAOIFI GS and other
+applicable global standards;
+
+c. the competence of the internal Shari’ah audit function including knowledge of Shari’ah
+principles and rules relevant to the function; and
+
+d. whether management acts on internal Shari’ah audit’s reports and recommendations and
+how this is evidenced.
+
+50. The work performed by the internal Shari’ah audit function may affect the nature, timing and extent
+    of the audit procedures performed by the auditor. For example, performance of audit by internal
+    Shari’ah auditors on profit and loss distribution on monthly basis and to what extent the auditor can
+    rely on that.
+51. If the internal Shari’ah auditors are competent and objective, the auditor may use the work
+    performed by the internal Shari’ah auditors in suitable areas to reduce the scope of audit work. The
+    materiality of the account balance or class of transactions and its related audit risk may also
+    determine how much the auditor can rely on the work performed by the internal Shari’ah auditors.
+52. When internal Shari’ah auditors provide direct assistance, the auditor should supervise, review,
+    evaluate and test their work.
+53. The auditor may consider reliance on the work performed by the internal Shari’ah auditors from the
+    perspective of both, the primary and the supplementary opinions.
+
+### Execution
+
+#### Audit sampling
+
+54. Audit sampling is the application of an audit procedure to less than 100 percent of the items within
+    an account balance or class of transactions for the purpose of obtaining and evaluating audit
+    evidence about certain characteristic of such selected items, eventually assisting in forming a
+    conclusion about the overall population of such balance or class.
+55. An auditor shall select items for the sample in such a way that each sampling unit in the population
+    has a chance of selection and the sample represents the population in an appropriate manner. When
+    sampling is used by an auditor, an element of uncertainty enters into the auditor’s conclusions. This
+    element of uncertainty, namely sampling risk, refers to the possibility that the sample drawn is not
+    representative of the population and that, resultantly, the auditor will reach an incorrect conclusion
+    about the account balance or class of transactions based on the sample. When using audit sampling
+    techniques to obtain evidence, the auditor must always accept some sampling risk. Sampling risk is
+    one reason why auditors must accept some detection and audit risk.
+56. An auditor shall determine the adequacy or otherwise the use of sampling, and the type of sampling
+    that needs to be applied. Such determination shall be based on the primary risk assessment
+    including the inherent and control risks related to non-compliance with Shari’ah principles and rules
+    and the materiality considerations including, in particular, the qualitative materiality considerations.
+57. After determining the need for application of sampling, the pertinent factors shall be considered
+    including the suitability of applying sampling in respect of each area / function and the relevant
+    controls and the characteristics of the population from which the sample will be drawn. Such
+    suitability and relevant sample sizes shall be responsive to the risk of non-compliance with Shari’ah
+    principles and rules (inherent risk, control risk and in case of testing of details, the combined risk)
+    and the materiality considerations.
+
+58. To determine a sample size, the auditor shall apply statistical approaches and judgment with regard
+    to the audit risk with particular emphasis on the risk of non-compliance with Shari’ah principles and
+    rules. Moreover, in line with the requirements of paragraph 32, where the risk of non-compliance
+    with Shari’ah principles and rules is higher, the sample selection shall take into consideration the
+    qualitative materiality aspects of individual items of population. This becomes more relevant in case
+    of the account balances and classes of transaction having newer and riskier products, services or
+    transactions from the perspective of Shari’ah non-compliance risk, as well as, the areas where there
+    are new or changed Shari’ah principles and rules (e.g., new Shari’ah standard, AAOIFI FAS, regulatory
+    Shari’ah requirement or ruling by SSB).
+
+#### Assessment of control environment and tests of control
+
+59. The auditor shall document and assess the control environment of the institution for all significant
+    areas. As a part of such process, the auditor shall assess the design effectiveness of the relevant
+    controls with regard to the achievement of their respective objectives.
+60. While assessing the control environment of the institution, the auditor shall also determine whether
+    the management of the institution demonstrates a culture of integrity, honesty and ethical
+    behaviour and commitment toward compliance with Shari’ah principles and rules.
+61. The auditor shall perform tests of controls for all significant areas when he decides to place reliance
+    on the controls for the purpose of reducing the overall combined audit risk to an acceptable level.
+    The tests of controls shall be designed to obtain evidence to assess their operating effectiveness i.e.,
+    the controls are functioning as designed on a consistent basis over the relevant period. Tests of
+    controls consist of inquiries, walk-throughs, observations and reperformances etc., as considered
+    appropriate in the context by the auditor.
+62. In the context of compliance with Shari’ah principles and rules, the auditor shall also perform tests
+    of controls on transactions and services offered by the institution. Due to the qualitative significance
+    and risk involved in such transactions and services, the auditor shall obtain satisfaction on the
+    efficiency and effectiveness of the controls designed and implemented by the institution.
+63. The auditor may design a test of controls to be performed concurrently with a test of details on the
+    same transaction. Although the purpose of a test of controls is different from the purpose of a test
+    of details, both may be accomplished concurrently by performing a test of controls and a test of
+    details on the same transaction, also known as a dual-purpose test. A dual-purpose test is designed
+    and evaluated by considering each purpose of the test separately.
+
+#### Update of planned approach and combined risk assessment
+
+64. The auditor shall document the conclusions drawn from the tests of controls and assess the effect
+    on the overall combined risk assessment (i.e., inherent risk and control risk). The auditor shall, based
+    on the revised combined risk assessment, plan and execute the substantive procedures which
+    include tests of details and analytical procedures.
+
+#### Substantive procedures
+
+65. The auditor shall perform substantive procedures commensurate with the combined risk assessment
+    with an aim to assess any remaining material misstatement in any class of transaction and disclosure
+
+component of the financial statements, as well as, any non-compliance with Shari’ah principles and
+rules.
+
+66. Substantive procedures are audit procedures designed to detect material misstatements at the
+    assertion level. Substantive procedures comprise of:
+
+a. test of details (of classes, account balances and disclosures); and
+
+b. substantive analytical procedures.
+
+67. Tests of details involve testing for errors or fraud in individual transactions, based on a suitable
+    sample commensurate with the combined risk assessment, and establishing whether any material
+    misstatements, are included in the transactions, accounts or disclosures in the financial statements,
+    or if there are any incidences of non-compliance with Shari’ah principles and rules.
+68. Substantive analytical procedures are performed to test the relevant assertions in transactions,
+    accounts and balances, particularly, existence and valuation assertions, by analysing trends,
+    predictive computations and other relevant procedures to establish a reasonable level of
+    confidence.
+
+#### Supervision of audit work
+
+69. The engagement partner is responsible for the engagement and its performance. Accordingly, he is
+    responsible for proper ongoing supervision of the work of audit team and for compliance
+    with professional standards and applicable legal and regulatory requirements. The engagement
+    partner is also responsible for supervising the work of auditor’s expert, etc.
+70. Direction of the audit team involves apprising them of matters such as:
+
+a. their responsibilities, including the need to comply with relevant ethical requirements, and
+to plan and perform an audit with professional scepticism;
+
+b. the objectives of the work to be performed and the expected outcome;
+
+c. material risks and mitigating factors, and the strategy to address the same;
+
+d. significant audit matters, including those related to the compliance of the institution with
+the Shari’ah principles and rules; and
+
+e. the detailed approach to the performance of the engagement.
+
+71. Supervision is a continuous process, beginning with engagement acceptance and planning while
+    ending with the conclusion of the audit.
+
+### Consideration of fraud and error
+
+#### Responsibility for the prevention and detection of fraud
+
+72. The primary responsibility for the prevention and detection of fraud and error rests with both those
+    charged with governance and management of the institution. However, the auditor, when planning
+    and performing the audit procedures and evaluating the results thereof, shall consider the risk of
+    material misstatements resulting from fraud and error.
+
+#### Auditor’s responsibility
+
+73. The auditor shall perform risk assessment procedures to appropriately assess the risks of material
+    misstatement and engagement risk. The auditor should obtain an understanding of management’s
+    objectives and strategies and the related business risks that may result in material misstatement of
+    the financial statements.
+74. The risk assessment procedures are audit procedures performed to obtain:
+
+a. an understanding of the institution and its environment; and
+
+b. the institution’s internal control.
+
+75. The above will enable the auditor to identify and assess the risk of material misstatement, whether
+    due to fraud or error at financial statement and assertion levels.
+76. The auditor is required to evaluate the effectiveness of an institution’s risk management framework
+    (internal control) in preventing misstatements whether through fraud or otherwise, in all audits.
+
+#### Professional scepticism
+
+77. The auditor is responsible for maintaining an attitude of professional scepticism throughout the
+    audit, recognising the possibility that a material misstatement due to fraud could exist,
+    notwithstanding the auditor’s past experience of the honesty and integrity of the institution’s
+    management and those charged with the governance. An overriding requirement of the standard is
+    that auditors are aware of the possibility of there being misstatements due to fraud.
+
+#### Inherent limitation of an audit
+
+78. Due to the inherent limitations of an audit, there is an unavoidable risk that the auditors may not
+    detect some material misstatements of the financial statements, even though the audit is properly
+    planned and performed in accordance with the AAOIFI framework for auditing.
+
+#### Identification and assessment of risks of material misstatement
+
+79. The auditor shall identify and assess the risks of material misstatement due to fraud at the financial
+    statement level, and at the assertion level for classes of transactions, account balances and
+    disclosures.
+80. When identifying and assessing the risks of material misstatement due to fraud, the auditor shall,
+    based on a presumption that there are risks of fraud in revenue recognition, evaluate which types of
+    revenue, revenue transactions or assertions give rise to such risks. The auditor is required to
+    document when he concludes that the presumption is not applicable in the circumstances of the
+    engagement and, accordingly, has not identified revenue recognition as a risk of material
+    misstatement due to fraud.
+81. The auditor shall treat those assessed risks of material misstatement due to fraud as significant risks
+    and accordingly, the auditor shall obtain an understanding of the institution’s related controls,
+    including control activities, relevant to such risks.
+82. The engagement partner discusses the susceptibility of the institution’s financial statements to
+    material misstatement due to fraud with the engagement team and appropriately documents them.
+
+### Other significant considerations during the conduct of an audit
+
+#### Going concern
+
+83. The concept of going concern is an underlying assumption in the preparation of financial statements,
+    hence it is assumed that the institution has neither the intention, nor the need, to liquidate or curtail
+    materially the scale of its operations.
+84. The auditor has a responsibility to evaluate whether there is substantial doubt about an institution’s
+    ability to continue as a going concern for a reasonable period of time. A reasonable period of time is
+    considered to be no more than one year beyond the date of the financial statements being audited.
+    While this assessment is made during the planning of the engagement, the auditor must also
+    consider this issue near the end of the engagement.
+85. Based on the audit evidence obtained, the auditor is required to conclude whether a material
+    uncertainty exists relating to events or conditions, that individually or collectively, may cast
+    significant doubt on the institution ’s ability to continue as a going concern. A material uncertainty
+    exists when the magnitude of its potential impact and likelihood of occurrence is such that, in the
+    auditor’s judgment, appropriate disclosure of the nature and implications of the uncertainty is
+    necessary for the fair presentation of the financial statements.
+
+#### Audit materiality
+
+86. While determining materiality the auditor shall take into account not only the amount but also the
+    qualitative nature of unadjusted misstatements within the financial statements.
+87. Determining materiality having Shari’ah considerations may be different from the financial
+    statements materiality e.g., in cases where the control environment for compliance with Shari’ah
+    principles and rules is less or more effective as compared to the control environment over financial
+    reporting.
+88. Qualitative materiality is to be assessed as per risk and impact and shall be more relevant. For
+    example, the purification is important to be done even if it is immaterial. At the same time if there is
+    a minor error in purification figure, which might not be quantitatively material and hence may be
+    ignored. Qualitative materiality is also impacted by the corrective actions i.e., if corrective actions
+    e.g., charity are performed, then the qualitative materiality determination would become irrelevant.
+89. Materiality determined using quantitative approaches may be adjusted on the auditors’ professional
+    judgment about the possible effect of qualitative factors such as:
+
+a. risk of earnings management, for example, management motivation to “manage” or
+“smooth” earnings;
+
+b. possible effect on misstatements on trends, such as profitability trend;
+
+c. presence of restrictive debt covenants;
+
+d. magnifying effect of misstatement on share price for a company with high price / earnings
+multiple;
+
+e. accuracy and reliability of accounting system;
+
+f. imminent acquisition / merger / sale;
+
+g. threat of litigation or other external review of the auditors’ work such as monitoring by
+government agency or IFI;
+
+h. imminent public stock offering;
+
+i. the risk that there may be undetected misstatements; and
+
+j. detection of fraud or fraud indicators in prior period.
+
+90. Qualitative materiality shall also be determined but it may be different from financial statements
+    materiality e.g., in cases where the control environment for compliance with Shari’ah principles and
+    rules is less or more effective as compared to the control environment over financial reporting or
+    where the audit is that of an Islamic banking division and not a full-fledged institution.
+
+#### Written representations
+
+91. The auditor shall obtain written representation from the management that it has fulfilled its
+    responsibility for the preparation of the financial statements in accordance with applicable financial
+    reporting framework.
+92. The written representations from the management shall have particular emphasis on the
+    management’s confirmation for adequacy of the internal control and governance system for
+    compliance with Shari’ah principles and rules and fiduciary responsibilities as well as product
+    documentation and process flows.
+93. These shall additionally emphasise on the completeness and relevance of all information and access
+    thereto, provided to the auditor. These shall further include the confirmation of disclosure of any
+    non-compliance with Shari’ah principles and rules having regard to criteria and local laws as well as
+    any known deficiency in design or application of controls, particularly with regard to product
+    approvals and related process flows. (See SOA 4 for further details).
+
+#### Related parties...........................................................................................................................................
+
+94. The nature of related party relationships and transactions may, in some circumstances, give rise to
+    higher risks of material misstatement of the financial statements than transactions with unrelated
+    parties.
+95. The auditor shall also design and perform further audit procedures to obtain sufficient appropriate
+    audit evidence about the assessed risks of material misstatement associated with related party
+    relationships and transactions.
+96. The auditor shall pay special attention while auditing the related party transactions (RPTs) as there
+    may be some Shari’ah non-compliant issues that may arise, as well as, there are intentional
+    misstatements risks because there can be a risk of inadequate profit and loss distribution, and unfair
+    treatment between the parties, for example transactions may be conducted at a price which is other
+    than arm’s length or with no exchange of consideration.
+
+#### Compliance with laws and regulations
+
+97. The auditor shall consider matters related to compliance with Shari’ah principles and rules from both
+    perspectives i.e., primary perspective of the primary opinion and secondary from the perspective of
+    the supplementary opinion (See SOA 4 for details).
+
+#### Contingent liabilities and commitments
+
+98. After obtaining a written statement from the management that all known liabilities have been
+    recorded in the books and that all contingent liabilities have been properly disclosed, the auditor
+    shall perform audit procedures to verify the management’s assertion.
+99. The auditor shall obtain sufficient appropriate evidence in order to reach and justify a conclusion on
+    the fairness of the financial statements. In this regard, the auditor shall also assess the possibility of
+    contingent liabilities, such as lawsuits, and searches for any events subsequent to the balance sheet
+    date that may impact the financial statements.
+100.  The auditor may identify contingent liabilities while conducting various audit procedures. Examples
+      of procedures that may help the auditor identify contingent liabilities include:
+
+a. reading the minutes of meetings of the board of directors, committees of the board and
+shareholders;
+
+b. reviewing contracts, financing agreements, leases and correspondence from government
+agencies;
+
+c. reviewing income tax liability, tax returns, etc.;
+
+d. confirming or otherwise documenting guarantees and letters of credit obtained from
+financial institutions or other lending agencies;
+
+e. inspecting other documents for possible guarantees; and
+
+f. reviewing reports of the SSB, external Shari’ah auditors, internal Shari’ah auditors, Shari’ah
+compliance department, etc.
+
+101. Significant contingent liabilities might suggest that an institution's capital commitments will escalate
+     significantly, leading to its deteriorating financial position, which eventually may impact the
+     assessment of the institution as a going concern.
+
+### Documentation and archiving
+
+102. An auditor shall document the performance of audit and relevant evidence in line with the
+     established practices of auditing. Audit documentation consists of the record of audit procedures
+     performed, relevant audit evidence obtained and conclusions reached by the auditor. Audit
+     documentation also facilitates the planning, performance and supervision of the engagement and
+     provides the basis for the review of the quality of the work by providing the reviewer with written
+     documentation of the evidence supporting the auditor’s significant conclusions.
+
+103. The key consideration is that the documentation shall be sufficient and appropriate to enable an
+     experienced auditor to understand the audit procedures performed, their results and conclusions
+     reached. Documentation should also support the adequacy of the professional judgments applied.
+104. In respect of the matters pertaining to compliance with Shari’ah principles and rules, details and
+     evident with regard to the observations comments thereon (by the management, Shari’ah
+     supervisory board and other parties (including Shari’ah compliance department, internal Shari’ah
+     auditor, external Shari’ah auditor etc.,)) , as well as, their respective conclusions shall be adequately
+     documented, along with their impact on the auditor’s report.
+105. The auditor shall document fraud and error risk factors identified as being present during the
+     auditor’s assessment process and document the auditor’s response to any such factors. If during the
+     performance of the audit, fraud and error risk factors are identified that cause the auditor to believe
+     that additional audit procedures are necessary, the auditor shall document the presence of such risk
+     factors and the auditor’s response to them.
+106. The auditor shall document matters which are important in providing evidence to support the audit
+     opinion, and that the working papers shall state the auditor’s reasoning on all significant matters
+     which require the auditor’s judgement, together with the auditor’s conclusion thereon. Because of
+     the importance of fraud and error risk factors in the assessment of the inherent or control risk of
+     material misstatement, the auditor shall document fraud risk factors identified and the response
+     from management considered appropriate by the auditor.
+107. Evidence of involvement of the subject matter (Shari’ah) experts in the team and the procedures and
+     reviews performed by them, as well as, their views on specific Shari’ah issues shall be documented
+     appropriately.
+108. The auditor shall develop and apply a consistent policy in line with the established practices of
+     auditing with regard to the completion of documentation and its archiving and any changes to the
+     same after archiving.
+
+### Conclusion of audit
+
+#### Review of audit work
+
+109. The engagement partner is ultimately responsible for the engagement and its performance.
+     Accordingly, he shall take responsibility for reviews being performed in accordance with the firm’s
+     review policies and procedures. In addition to the ongoing supervision of audit work, he shall ensure
+     carrying out an ongoing review process or a review of the audit documentation before concluding
+     the audit. Through the review of documentation and time to time discussions with the audit team,
+     he shall be satisfied that sufficient appropriate audit evidence has been obtained to support the
+     conclusions reached, with regard to both, the primary and the supplementary opinions.
+110. In particular, the engagement partner shall ensure that the work has been performed in accordance
+     with the professional standards and the legal and regulatory requirements, significant matters /
+     observations have been raised for further consideration and appropriate consultations have taken
+     place and the resulting conclusions have been documented and implemented. He shall also conclude
+
+as to whether the work performed and its documentation supports the conclusions reached, and if
+there is a need to revise the nature, timing and extent of work performed.
+
+#### Engagement quality control review
+
+111. Engagement quality control review is a process which provides an objective evaluation of the
+     significant judgments the engagement team made and the conclusions it reached in formulating the
+     auditor’s report. This evaluation is done on or before the date of the auditor’s report.
+112. For audits of financial statements, the engagement partner shall:
+
+a. ensure the appointment of engagement quality control reviewer;
+
+b. discuss significant matters which were noted during the audit including those which were
+identified by the engagement quality control reviewer during his review; and
+
+c. not issue the auditor’s report until the engagement quality control review has been
+performed and concluded.
+
+### Communication with those charged with governance
+
+113. When the auditor is required to communicate certain important findings within the institution, he
+     shall determine an appropriate level of authority within the governance structure of the institution
+     to whom the relevant matters are to be communicated.
+114. The auditor shall communicate with those charged with governance the responsibilities of the
+     auditor in relation to the audit, including that:
+
+a. the auditor is responsible for forming and expressing his opinion on the truth and fairness of
+the financial statements and the state of compliance of the institution with the Shari’ah
+principles and rules, whereas the management is responsible for the preparation of the
+financial statements in line with the applicable financial reporting framework and for ensure
+the institution’s compliance with Shari’ah principles and rules, with appropriate level of
+oversight of those charged with governance; and
+
+b. the audit of the financial statements does not relieve management or those charged with
+governance of their respective responsibilities.
+
+115. The auditor should also consider communicating the following:
+
+a. the overall approach and scope of the audit, including any limitations on the scope of the
+audit;
+
+b. the accounting policies, and any changes to them, that could materially affect the financial
+statements;
+
+c. adjustments arising as a result of audit procedures which could materially impact the
+financial statements;
+
+d. material events or uncertainties which may cast significant doubt on the institution’s ability
+to continue as a going concern and which require disclosure within the financial statements;
+
+e. any significant issues related to the risks related to non-compliance with Shari’ah principles
+and rules, as well as, any identified instances thereof;
+
+f. disagreements with management over accounting treatments or disclosures;
+
+g. any expected modifications to the auditor’s report; and
+
+h. material weaknesses discovered in the internal systems and controls.
+
+### Communication with Shari’ah Supervisory Board (SSB).................................................................................
+
+116. The auditor shall consider communication of significant matters pertaining compliance with Shari’ah
+     principles and rules with the SSB, including:
+
+a. accounting policies particularly where a specific AAOIFI FAS is not available or if the
+accounting policies are not in line with AAOIFI FAS;
+
+b. significant financial statements disclosures having Shari’ah implications;
+
+c. significant risk factors related to compliance with Shari’ah principles and rules;
+
+d. any non-compliance of the Shari’ah principles and rules due to which the financial
+statements may be materially misstated or which may impact the auditor’s report; and
+
+e. any significant issues related to compliance with Shari’ah principles and rules which in view
+of the auditors are important enough to be brought to the knowledge of SSB.
+
+117. The auditor shall issue the auditor’s report only after reviewing the SSB’s report (or draft thereof) on
+     the institution’s compliance with Shari’ah principles and rules and assessing the impacts of any
+     matters identified in such report on the financial statements or auditor’s report.
+
+### Going concern assessment update
+
+118. The auditor shall obtain and evaluate management’s assessment of the institution’s ability to
+     continue as a going concern evaluation. See paragraph 82 - 84.
+
+### Review for subsequent events
+
+119. The auditor should perform audit procedures designed to obtain sufficient appropriate audit
+     evidence that all events after the end of the financial reporting period, up to the date of the
+     auditors’ report that may require adjustment of, or disclosure in, the financial statements have been
+     identified.
+120. There are following two types of subsequent events which require consideration by management
+     and evaluation by the auditor:
+
+a. events that provide additional evidence about conditions that existed at the end of the
+financial reporting period and affect the estimates that are part of the financial statement
+preparation process. These events require adjustment of the financial statements; and
+
+b. events that provide evidence about conditions that did not exist at the end of the financial
+reporting period but that arose subsequently. These are usually disclosed in the financial
+statements.
+
+121. The auditor shall also perform audit procedures subsequent to the end of the financial reporting
+     period to ensure that the effects of any non-compliance with Shari’ah principles and rules identified
+     subsequent to the end of the financial reporting period but related to such period, are appropriately
+     disclosed and / or adjusted, where applicable. Such adjustment may include any allocation to charity
+     or reversal of transactions along with the consequential effects on the determination and attribution
+     of profits and losses to respective stakeholders.
+
+## Auditor’s report
+
+### Issuance of auditor’s report
+
+122. The auditor shall issue an auditor’s report in a written form in which he is required to form his
+     primary, as well as, supplementary opinions in line with the requirements of this standard.
+
+#### Primary opinion
+
+123. In order to form the primary opinion, the auditor shall conclude as to whether he has obtained
+     reasonable assurance about whether the financial statements as a whole are free from material
+     misstatement, whether due to fraud or error.
+124. The auditor shall express an unmodified opinion when in his view the financial statements are
+     prepared, in all material respects, in accordance with the applicable financial reporting framework.
+125. If based on audit evidence obtained during the audit, the auditor concludes that the financial
+     statements as a whole are not free from material misstatement, or if he is unable to obtain sufficient
+     appropriate audit evidence to conclude that the financial statements as a whole are free from
+     material misstatement, the auditor shall modify the opinion.
+
+#### Supplementary opinion
+
+126. In order to form the supplementary opinion, the auditor shall conclude as to whether (or not) the
+     institution has complied, in all material respects, with the Shari’ah principles and rules applicable to
+     its financial arrangements, contracts and transactions during the period covered by the financial
+     statements.
+127. The auditor shall express an unmodified opinion when in his view, the institution has complied, in all
+     material respects, with the Shari’ah principles and rules applicable to its financial arrangements,
+     contracts and transactions during the period covered by the financial statements. Otherwise, he
+     shall express a modified opinion.
+
+### Elements of auditor’s report
+
+128. The auditor’s report shall at least include the following elements:
+
+a. title;
+
+b. addressee;
+
+c. auditor’s opinion:
+
+i. primary opinion; and
+
+ii. supplementary opinion;
+
+d. basis for opinion;
+
+e. going concern;
+
+f. key audit matters;
+
+g. management’s responsibilities for:
+
+i. the financial statements; and
+
+ii. compliance with Shari’ah principles and rules;
+
+h. auditor’s responsibilities for the audit of:
+
+i. the financial statements; and
+
+ii. compliance with Shari’ah principles and rules;
+
+i. report on other legal and regulatory requirements;
+
+j. name of engagement partner;
+
+k. signature of the auditor;
+
+l. auditor’s address; and
+
+m. date of the auditor’s report.
+
+#### Title
+
+129. The title of auditor’s report shall clearly indicate that it is the report of an independent auditor.
+
+#### Addressee
+
+130. The auditor’s report shall be appropriately addressed as required by the circumstances of the
+     engagement and local laws and regulations.
+
+#### Auditor’s opinion
+
+131. The auditor’s report shall include a section on the auditor’s opinion and shall have the heading
+     “opinion”.
+132. The opinion section of the auditor’s report shall also:
+
+a. identify the institution whose financial statements have been audited;
+
+b. state that the financial statements have been audited;
+
+c. identify all the components of the financial statements along with notes and summary of
+significant accounting policies; and
+
+d. specify the date of and the period covered by the financial statements.
+
+133. The auditor’s opinion is comprised of the following:
+
+a. primary opinion – on the truth and fairness of the financial statements of the institution in
+line with the applicable financial reporting framework; and
+
+b. supplementary opinion – as to whether (or not) the institution has complied, in all material
+respects, with the Shari’ah principles and rules applicable to its financial arrangements,
+contracts and transactions during the period covered by the financial statements.
+
+#### Basis for opinion
+
+134. This section shall:
+
+a. state that the audit was conducted in accordance with Standards on Auditing (SOAs) issued
+by Accounting and Auditing Organisation for Islamic Financial Institutions (AAOIFI) along
+with a reference to the other established practices of auditing as applicable in addition to
+the SOAs;
+
+b. refer to the section of the auditor’s report that describes the auditor’s responsibilities under
+AAOIFI SOAs;
+
+c. include a statement that the auditor is independent of the institution in accordance with
+AAOIFI’s Code of Ethics for Islamic Finance Professionals, along with other applicable code(s)
+of ethics^10 (to be specified) and has fulfilled the auditor’s other ethical responsibilities in
+accordance with the requirements of such code(s); and
+
+d. state whether the auditor believes that the audit evidence obtained is sufficient and
+appropriate to provide a basis for the auditor’s opinion.
+
+#### Going concern
+
+135. Where applicable, the auditor shall report on going concern. It is the responsibility:
+
+a. to conclude on the appropriateness of the management’s use of going concern basis of
+accounting in the preparation of financial statements;
+
+b. to conclude based on the audit evidence obtained up to the date of the auditor’s report,
+whether a material uncertainty exists relating to events or conditions that may cast
+significant doubt on the institution’s ability to continue as a going concern; and
+
+c. to ensure that the appropriate disclosures are made in the financial statements regarding
+management’s critical judgments and assessment of the institution’s ability to continue as a
+going concern.
+
+(^10) The IESBA International Code of Ethics for Professional Accountants (including International Independence
+Standards).
+
+#### Key audit matters (KAMs)
+
+136. The auditor shall communicate KAMs in the auditor’s report, in the following manner:
+
+a. as a mandatory part of auditor’s report, in case of audit of an institution being a public
+interest entity or where required by the respective regulator; and
+
+b. as a preferred option, in case of audit of all other institutions, if so agreed with the
+institution along with other terms of engagement.
+
+137. KAMs shall be included in the auditor’s report (similar to the requirements of other established
+     practices of auditing) generally related to the auditor’s opinion on the truth and fairness of the
+     financial statements i.e., the primary opinion only. Accordingly, the KAMs related to the institution’s
+     compliance with Shari’ah principles and rules shall be included in the auditor’s report if, and only if,
+     these are also considered to be:
+
+a. relevant from the financial reporting perspective, as a key risk;
+
+b. an observation having a material impact on the financial statements; or
+
+c. significant from the perspective of auditor’s consideration of compliance with laws and
+regulations under established practices of auditing.
+
+#### Management’s responsibilities
+
+138. This section shall describe the management’s responsibilities for:
+
+a. preparing the financial statements in accordance with the applicable financial reporting
+framework and for such internal control as the management determines is necessary to
+enable the preparation of financial statements that are free from material misstatement,
+whether due to fraud or error; and
+
+b. assessing the institution’s ability to continue as a going concern and whether the use of the
+going concern basis of accounting is appropriate as well as disclosing, if applicable, matters
+relating to going concern. The explanation of management’s responsibility for this
+assessment shall include a description of when the use of the going concern basis of
+accounting is appropriate.
+
+c. ensuring the institution’s compliance with Shari’ah principles and rules applicable to its
+financial arrangements, contracts and transactions and for establishing the internal controls
+considered necessary for this purpose.
+
+139. This section shall also identify those responsible for the oversight of the financial reporting process
+     and the institution’s compliance with Shari’ah principles and rules, when those responsible for such
+     oversight are different from the management e.g., those charged with governance.
+
+#### Auditor’s responsibilities for the audit of the financial statements
+
+140. This section of the auditor’s report shall state the objectives of the auditor in line with the
+     requirements of paragraph 7 , along with explanations that:
+
+a. reasonable assurance is a high level of assurance, but is not a guarantee that an audit will
+always detect a material misstatement when it exists; and
+
+b. misstatements can arise from fraud or error, and either:
+
+i. describe that such misstatements are considered material if, individually or in the
+aggregate, these could reasonably be expected to influence the economic decisions
+of users taken on the basis of these financial statements; or
+
+ii. provide a definition or description of materiality in accordance with the applicable
+financial reporting framework.
+
+141. The auditor’s report shall also state exercising of professional judgment and maintaining
+     professional scepticism throughout the audit.
+142. In addition to the above, this section shall include auditor’s other responsibilities in line with the
+     requirements of this standard, as well as, applicable established practices of auditing.
+
+#### Report on other legal and regulatory requirements
+
+143. If the auditor addresses other reporting responsibilities in the auditor’s report that are in addition to
+     the auditor’s responsibilities under this standard (as a result of requirements by the respective
+     regulator or by applicable established practices of auditing), these other reporting responsibilities
+     shall be addressed in a separate section in the auditor’s report with a heading titled “report on other
+     legal and regulatory requirements”.
+
+#### Name of engagement partner
+
+144. The auditor’s report shall mention the name of the engagement partner.
+
+#### Signature of the auditor
+
+145. The report should be signed either in the name of the audit firm, the personal name of the auditor
+     or both, as appropriate.
+
+#### Auditor’s address
+
+146. The report shall mention a specific location, which is ordinarily the city where the auditor maintains
+     the office that has responsibility for the audit.
+
+#### Date of the auditor’s report
+
+147. The date of the auditor’s report shall not be earlier than the date on which the auditor has obtained
+     sufficient appropriate audit evidence on which to base the auditor’s opinion on the financial
+     statements.
+
+### Modification to the auditor’s opinion and its types
+
+148. The auditor shall modify the primary or the supplementary opinion in the auditor’s report when
+     required by paragraphs 125 and 127 , respectively. In such case, the requirements of the paragraphs
+     149 - 157 shall apply with regard to the suitability of the respective type of modification.
+
+#### Qualified opinion
+
+149. The auditor shall express a qualified opinion when:
+
+a. the auditor, having obtained sufficient appropriate audit evidence, concludes that
+misstatements, individually or in the aggregate, are material, but not pervasive, to the
+financial statements or the institution’s compliance with Shari’ah principles and rules; or
+
+b. the auditor is unable to obtain sufficient appropriate audit evidence on which to base the
+opinion, but the auditor concludes that the possible effects of undetected misstatements, if
+any, on the financial statements or the state of the institution’s compliance with Shari’ah
+principles and rules, could be material but not pervasive.
+
+#### Adverse opinion
+
+150. The auditor shall express an adverse opinion when the auditor, having obtained sufficient
+     appropriate audit evidence, concludes that misstatements, individually or in the aggregate, are both
+     material and pervasive to the financial statements or the state of the institution’s compliance with
+     Shari’ah principles and rules.
+151. If the auditor expresses an adverse primary or supplementary opinion, there is rebuttable
+     presumption that the other opinion shall also be necessary to be an adverse opinion.
+
+#### Disclaimer of opinion
+
+152. The auditor shall disclaim an opinion when the auditor is unable to obtain sufficient appropriate
+     audit evidence on which to base the opinion, and the auditor concludes that the possible effects of
+     undetected misstatements, if any, on the financial statements or the state of the institution’s
+     compliance with Shari’ah principles and rules, could be both material and pervasive.
+153. The auditor shall disclaim an opinion when, in extremely rare circumstances involving multiple
+     uncertainties, the auditor concludes that, notwithstanding having obtained sufficient appropriate
+     audit evidence regarding each of the individual uncertainties, it is not possible to form an opinion on
+     the financial statements or the state of the institution’s compliance with Shari’ah principles and
+     rules, due to the potential interaction of the uncertainties and their possible cumulative effect.
+154. If the auditor disclaims either his primary opinion or the supplementary opinion, there is rebuttable
+     presumption that the other opinion shall also be necessary to be disclaimed.
+
+#### Emphasis of matter paragraph in the auditor’s report
+
+155. If the auditor considers it necessary to draw users’ attention to a matter presented or disclosed in
+     the financial statements that, in the auditor’s judgment, is of such importance that it is fundamental
+     to users’ understanding of the financial statements, the auditor shall include an emphasis of matter
+     paragraph in the auditor’s report provided:
+
+a. the auditor would not be required to modify the opinion as a result of the matter; and
+
+b. the matter has not been determined to be a key audit matter to be communicated in the
+auditor’s report.
+
+156. If the auditor decides to include an emphasis of matter paragraph in the auditor’s report, the auditor
+     shall:
+
+a. include the paragraph within a separate section of the auditor’s report with an appropriate
+heading that includes the term “emphasis of matter”;
+
+b. the paragraph shall clearly refer to the matter being emphasised and to where relevant
+disclosures that fully describe the matter can be found in the financial statements;
+
+c. the paragraph shall refer only to information presented or disclosed in the financial
+statements; and
+
+d. indicate that the auditor’s opinion is not modified in respect of the matter emphasised.
+
+157. The auditor may, based on his professional judgment, include an emphasis of matter paragraph
+     related to his supplementary opinion, in respect of either:
+
+a. a matter of the institution’s identified material non-compliance with Shari’ah principles and
+rules, whereby a remedial action has appropriately resolved the issue during or subsequent
+to the financial reporting period; or
+
+b. a significant lapse in the internal controls (by design or in execution) relevant to the
+compliance with Shari’ah principles and rules, which nevertheless, may not have resulted in
+an identified non-compliance with Shari’ah principles and rules.
+
+## Effective date
+
+158. This standard shall be effective on the auditor’s report issued on the financial statements of the
+     institutions beginning on or after 01 January 2025. Early adoption of the standard is permitted. The
+     revised SOA 4 “**\*\*\*\***\_\_\_**\*\*\*\***” shall be adopted along with this standard.
+
+## Amendments to other standards
+
+159. The SOA 1 supersedes the existing SOA 1 “Objectives and Principles of Auditing”, SOA 2 “Auditor’s
+     Report”, SOA 3 “Terms of Audit Engagement” and SOA 5 “Auditor’s Responsibility to Consider Fraud
+     and Error in an Audit of Financial Statements”.
+160. This SOA along with Guidance Note (GN) 03 “Illustrative Auditor’s Report” supersedes GN 02
+     “Auditor’s Report”.
+
+## APPENDICES
+
+## Appendix A: Adoption of the standard
+
+This standard was presented for the final consultation to the AAOIFI Accounting Board’s meeting No. **\_
+held on \_\_\_\_** corresponding to \***\*\_\_\*\***, and to the AAOIFI Governance and Ethics Board meeting No.
+**\_ held on \_\_\_\_** corresponding to \***\*\_\*\***, for its approval and was duly approved.
+
+### Members of the AAOIFI Governance and Ethics Board
+
+1. Mr. Farrukh Raza – chairman
+2. Dr. Walid Hegazy – deputy chairman
+3. Dr. Abdulbari Mashal
+4. Mr. Abdullah Almoqbel
+5. Mr. Abozer Magzoub Mohammed
+6. Dr. Ahmet Albayrak
+7. Dr. Ali Sartawi
+8. Mr. Ebrahim Sidat
+9. Ms. Ibtihal Alshamali
+10. Prof. Mohammad Kabir Hassan
+11. Mr. Moosa Khoory
+12. Mr. Muzammil Kasbati
+13. Mr. Sohaib Umar
+14. Mr. Wael Merza
+15. Dr. Zahid Ur Rehman Khokher
+
+### Members of the AAOIFI Accounting Board
+
+1. Mr. Hamad Abdulla Al Oqab – chairman
+2. Mr. Syed Najmul Hussain – deputy chairman
+3. Mr. Abdelhalim Elsayed Elamin
+4. Mr. Abdulmalik al Suwayni
+5. Dr. Abdulrahman M. Alrazeen
+
+6. Ms. Amal Al Masri
+7. Dr. Bello Lawal Danbatta
+8. Mr. Firas Hamdan
+9. Mr. Hondamir Nusratkhujaev
+10. Mr. Imtiaz Ibrahim
+11. Mr. Irshad Mahmood
+12. Dr. Muhammad Beltagi
+13. Mr. Samet Arslan
+14. Mr. Saud Al Busaidi
+15. Mr. Yusuf Ahmed Ibrahim Hasan
+
+### Reservation
+
+The standard was approved unanimously.
+
+### Members of the Professional Auditing Standards Committee (PASC)
+
+1. Mr. Fawad Laique – chairman
+2. Mr. Irshad Mahmood – deputy chairman
+3. Dr. Abdulbari Mashal
+4. Dr. Bello Lawal Danbatta
+5. Mr. Firas Hamdan
+6. Mr. Muzammil Kasbati
+7. Dr. Walid Hegazy
+
+### Executive team
+
+1. Mr. Omar Mustafa Ansari (AAOIFI)
+2. Ms. Zahra Jassim (AAOIFI)
+3. Mr. Haroon Tabraze (Senior Consultant-Researcher)
+4. Mr. Shahid Hussain (Senior Consultant-Researcher)
+5. Ms. Alyaa Adel (AAOIFI)
+6. Ms. Merjan Abid (Senior Research Associate)
+
+## Appendix B: Basis for conclusions
+
+### [To be updated]
+
+## Appendix C: Brief history of the preparation of the standard
+
+H1 PASC initiated the auditing standards revision project in 2019, under the mandate to improve the
+auditing standards issued by AAOIFI in light of Shari’ah principles and rules and the latest established
+practices of auditing.
+
+H2 The preliminary study for SOA 1 was presented to PASC in its 3rd meeting, held on 12 Safar 1442H,
+corresponding to 29 September 2020. The members of the committee reviewed the detailed
+analysis of the international standards on auditing and discussed the matters that shall bear Shari’ah
+implications and therefore, be addressed in the standard.
+
+H3 The outline of the exposure draft was presented to PASC in its 5th meeting, held on 23 Dhul-Hajjah
+1442H, corresponding to 2 August 2021. The members of the committee approved the structure and
+agreed on the outcomes of the auditing standards revision project.
+
+H4 In its 6th meeting held on 25 Safar 1444H, corresponding to 21 September 2022, the PASC agreed on
+renaming the standards from Auditing Standards for Islamic Financial Institutions (ASIFIs) to
+Standards on Auditing (SOAs). The committee also commenced a detailed review of the first version
+of the exposure draft in this meeting.
+
+H5 The PASC continued the detailed review of the exposure draft in its 7th, 8th, 9th and 10th meetings,
+held on 16 Rabi’ I 1444H, 22 Rabi’ I 1444H, 12 Rabi’ II 1444H and 15 Rabi’ II 1444H, corresponding to
+12 October 2022, 18 October 2022, 6 November 2022 and 9 November 2022, respectively. The
+conclusions and amendments drawn as a result of these meetings were then incorporated in the
+exposure draft.
+
+H6 The exposure draft was discussed during the 31st AAB meeting, held on 1 and 2 JumadaI 1444H,
+corresponding to 25 and 26 November 2022. The AGEB was presented with the exposure draft in its
+28 th meeting held on 5 and 6 Jumada’ I 1444H, corresponding to 29 and 30 November 2022. Based
+on the resolution of minor observations raised during these meetings, the exposure draft was
+approved by both the boards in principle.
+
+H7 The exposure draft was issued after incorporation of the boards’ comments and with the approval of
+PASC on 30 Jumada I 1444H, corresponding to 24 December 2022.
