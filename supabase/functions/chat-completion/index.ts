@@ -51,7 +51,7 @@ serve(async (req) => {
       );
     }
 
-    const { sessionId, message, context }: ChatRequest = await req.json();
+    const { sessionId, message }: ChatRequest = await req.json();
 
     // Validate session belongs to user
     const { data: session, error: sessionError } = await supabaseClient
