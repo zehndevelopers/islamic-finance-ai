@@ -1,0 +1,719 @@
+[Exposure Draft (F 1 /202 4 ) of the]
+
+AAOIFI Financial Accounting Standard __
+
+**Deferred Delivery Sales**
+
+
+## Contents
+
+## Contents
+
+
+AAOIFI Financial Accounting Standard (FAS) __ “Deferred Delivery Sales” is set out in paragraphs 01 - 41. All
+the paragraphs have equal authority. This standard should be read in the context of its objective and the
+“AAOIFI Conceptual Framework for Financial Reporting”.
+All AAOIFI FASs shall be read in conjunction with the definitions, Shari’ah principles and rules and key
+
+- Contents
+- Preface
+- Introduction
+   - Overview
+   - Rationale for issuing this standard
+   - Significant changes from the previous standard
+- Objective of the standard
+- Scope
+- Definitions
+- Deferred delivery sales in the books of the buyer
+   - Initial recognition
+      - Advance for Salam goods and advance for Istisna goods
+      - Inventories
+   - Subsequent measurement
+      - Advance for Salam goods and advance for Istisna goods
+      - Inventories
+   - Derecognition
+      - Inventories
+      - Advance for Salam goods and advance for Istisna goods
+   - Revenue and profit recognition.....................................................................................................................
+      - Goods purchased under deferred delivery sales contract sold on deferred payment basis
+   - Presentation and disclosures
+- Deferred delivery sales in the books of the seller
+   - Initial recognition
+      - Salam or Istisna goods deliverable
+   - Subsequent measurement
+      - Salam and Istisna goods deliverable
+      - Onerous deferred delivery sales contracts................................................................................................
+      - Inventories
+   - Revenue and profit recognition.....................................................................................................................
+   - Presentation and disclosures
+- Related accounting treatments
+   - Parallel Salam and parallel Istisna
+      - Parallel Salam
+      - Parallel Istisna
+   - Subsequent change of price of the subject-matter
+      - Subsequent change in the price or the subject-matter with mutual consent
+      - Change in price of the subject-matter of Istisna contract based on performance
+- Effective date
+- Amendments to other standards
+- Appendices
+- Appendix A: Adoption of the standard
+   - Members of the board
+   - Reservation
+   - Working group members
+   - Executive team
+- Appendix B: Process flow for deferred delivery sales
+- Appendix C: Basis for conclusions
+- Appendix D: Brief history of the preparation of the standard
+
+
+## Preface
+
+PR1 Deferred delivery sales and development contracts based on Salam and Istisna are amongst the
+unique products of Islamic finance, having a significant proportion in the Islamic finance transactions
+in different markets. Due to multiple unique transaction structures based on Salam and Istisna, and
+certain Shari’ah compliance issues in their implementation, the financial reporting requirements for
+the same is always a challenge.
+
+PR2 AAOIFI had earlier addressed these unique financial reporting requirements in the AAOIFI Financial
+Accounting Standard (FAS) 7 “Salam and Parallel Salam” and FAS 10 “Istisna’a and Parallel Istisna’a”,
+which were identified for revision and improvement as a result of a comprehensive FAS review and
+revision project initiated by AAOIFI Accounting Board (AAB / the board).
+
+PR3 This standard aims at setting out the financial reporting principles for recognising, measuring,
+presenting and disclosing the transactions of deferred delivery sales (including transactions based on
+Salam and Istisna) that are carried out by both, the buyers and the sellers of such transactions.
+
+PR4 This standard, along with the [ED of] FAS __ “Istisna-based Development Contracts”, supersedes the
+earlier FAS 7 “Salam and Parallel Salam” and FAS 10 “Istisna’a and Parallel Istisna’a”.
+
+
+## Introduction
+
+### Overview
+
+IN1 This standard prescribes the accounting and financial reporting principles for recognition,
+measurement, presentation and disclosures related to deferred delivery sales transactions,
+applicable to the buyers and sellers for such transactions. Such transactions include both, Salam and
+Istisna based deferred delivery sales transactions, but do not include Istisna-based development
+contracts which are subject of another standard being simultaneously issued.
+
+### Rationale for issuing this standard
+
+IN2 In line with the financial accounting standards (FASs) development strategy, AAOIFI Accounting
+Board (AAB / the board) initiated a review and revision process for certain FASs, including FASs
+addressing the accounting and financial reporting issues of Salam and Istisna transactions. Such
+process and additional time-to-time feedback received from the market participants, revealed that
+certain aspects of the newer market practices and the changes and updates in the generally
+accepted accounting principles need to be incorporated in the relevant FASs. In addition, a need was
+felt to align certain requirements with the newer FASs and the revised framework. Accordingly, it
+was considered imperative to revise the existing FASs dealing with Salam and Istisna transactions.
+
+IN3 During the revision process, it was considered necessary by the board to prescribe the requirements
+related to deferred delivery sales (including those based on Salam and Istisna), at one place, in order
+to avoid duplication and confusion instead of two different standards. Nevertheless, it was also
+considered that the development contracts based on Istisna justify a different accounting treatment
+and, hence, the same need to be covered in a separate standard to be issued simultaneously with
+this standard.
+
+### Significant changes from the previous standard
+
+IN4 This standard brings significant changes from its predecessor standards (FAS 7 “Salam and Parallel
+Salam” and FAS 10 “Istisna’a and Parallel Istisna’a”), inter alia, in the following aspects:
+
+a. the revised standard has been drafted after combining and aligning the requirements of two
+earlier standards that addressed deferred delivery sales (including transactions based on
+both, Salam and Istisna, excluding Istisna-based development contracts addressed in the
+respective AAOIFI FAS^1 );
+b. the financial reporting requirements prescribed by the revised standard are aligned with the
+requirements related to control, transfer of control and revenue recognition as prescribed
+by the conceptual framework and the relevant AAOIFI FASs;
+c. the predecessor standards included certain Shari’ah requirements which have not been
+included in the revised standard, and accordingly this standard shall be read in conjunction
+with the respective AAOIFI Shari’ah Standards (SSs);
+(^1) [ED of] FAS __ “Istisna-based Development Contracts”
+
+
+d. the relevant definitions have been aligned with the definitions provided by the respective
+AAOIFI SSs;
+e. the revised standard prescribes the financial reporting requirements from both the buyer’s
+and seller’s perspective, while the predecessor standards addressed the financial reporting
+for the seller only;
+f. the revised standard aligns the requirements relating to impairment, credit losses, net
+realisable value (NRV) and onerous contracts, with the requirements of the respective
+AAOIFI FAS^2 ;
+g. the treatments and financial reporting requirements for parallel Salam and parallel Istisna
+transactions have been simplified and are now based on the applicable treatments for the
+seller and the buyer, respectively;
+h. the agency related accounting treatments have been clarified in case of a deferred delivery
+sale transaction structure involving an agent; and
+i. accounting requirements with respect to subsequent changes in the terms of the contract or
+in the goods, have been simplified.
+(^2) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+
+**[Exposure Draft (F 1 /202 4 ) of the]**
+
+**AAOIFI Financial Accounting Standard __**
+
+**Deferred Delivery Sales**
+
+## Objective of the standard
+
+1. The objective of this standard is to prescribe the appropriate accounting and financial reporting
+    principles for recognition, measurement, presentation and disclosures to apply in relation to
+    deferred delivery sales transactions (comprising Salam and Istisna sales transaction (see paragraph
+    5a)) for the buyers and sellers for such transactions.
+
+## Scope
+
+2. This standard applies to accounting and financial reporting for deferred delivery sales transactions
+    carried out under Shari’ah principles and rules^3 by the Islamic financial institutions (IFIs / the
+    institutions) and other institutions following AAOIFI Financial Accounting Standards (FASs), except
+    for those Istisna transactions that are excluded from the scope under paragraph 3.
+3. This standard shall not apply to Istisna-based development contracts^4.
+4. This standard shall also not apply to such Istisna transactions whereby the institution, being a buyer
+    of the subject-matter, has intentions to either:
+
+a. lease out and eventually sell (or otherwise transfer) the subject-matter under Ijarah
+Muntahia Bittamleek arrangement, to be accounted for in line with the requirements of the
+respective AAOIFI FAS^5 ; or
+b. use the subject-matter in its own operations (self-use or self-consumption).
+## Definitions
+
+5. For the purpose of interpreting and applying this standard, the following short definitions are
+    relevant:
+
+a. Deferred delivery sales – are the sales transactions carried out in line with Shari’ah principles
+and rules, based on either Salam or Istisna contract, whereby the primary performance
+obligation under the respective contract is delivery of the subject-matter. Deferred delivery
+sales do not include such sales transactions that are promised to be carried out on a specific
+future date against a unilateral promise or undertaking to sell or purchase, which are
+consummated through an offer and acceptance on such future date, in line with Shari’ah
+principles and rules;
+(^3) See paragraph 8(k) of FAS 1 “General Presentation and Disclosures in the Financial Statements”
+(^4) See [ED of] FAS __ “Istisna-based Development Contracts”
+(^5) FAS 32 “Ijarah”
+
+
+b. Istisna – is a contract to sell a described asset with deferred delivery based on a
+manufacturing request. In practicality, it is a sale contract between the buyer and the seller
+whereby the seller, based on an order from the buyer, undertakes to manufacture, have it /
+get it manufactured or otherwise acquire the subject-matter of the contract according to the
+specifications and sell it to the buyer for an agreed upon price and method of settlement
+whether that be in advance, by instalments or deferred to a specific future time;
+c. Istisna-based development contract^6 – is a contract of Istisna for development of an asset
+meeting the criteria as defined in respective AAOIFI FAS^7 ;
+d. Parallel Salam – is an arrangement whereby the seller enters into another independent
+Salam contract with a third party to acquire goods, the specification of which corresponds to
+that of the subject-matter specified in the first Salam contract, so as to fulfil the obligation
+under the first Salam contract, without making the execution of the second Salam contract
+dependent on the execution of the first one. In contemporary custom, such second contract
+is called parallel Salam [Explanation: In practice, the sequence of the execution of the two
+independent Salam transactions may vary according to the transaction structure];
+e. Parallel Istisna – is an arrangement whereby the seller / developer enters into another
+independent Istisna contract with a third party to acquire (through manufacturing /
+development) the subject-matter according to the specifications of the subject-matter
+specified in the first Istisna contract as to fulfil the obligation under the first Istisna contract.
+In contemporary custom, such second contract is called parallel Istisna. Parallel Istisna is
+executed only if so allowed by the buyer / customer under the first Istisna contract, without
+making the execution of the second Istisna contract dependent on the execution of the first
+one [Explanation: In practice, the sequence of the execution of the two independent Istisna
+transactions may vary according to the transaction structure]; and
+f. Salam^8 – is the sale of a (pre-specified) commodity for deferred delivery in exchange for
+immediate payment in full, in line with Shari’ah principles and rules [Explanation: It is a type
+of sale in which the price, known as the Salam capital, is paid at the time of contracting
+while the delivery of the subject-matter is deferred to a specific time].
+(^6) [ED of] FAS __ “Istisna-based Development Contracts”
+(^7) Paragraph 5 of [ED of] FAS __ “Istisna-based Development Contracts” states “Istisna-based development contract,
+within the scope of this standard, is a contract of Istisna for development of an asset (normally, an item of property,
+plant and equipment or investment property), duly meeting the following criteria: a. it involves a significant element of
+efforts on the part of the developer, including labour and services (which needs to be compensated for in the event of
+force majeure, in line with Shari’ah principles and rules and customary practices); b. it has either an element of partial
+control transfer through milestones-based delivery and / or construction / development on the customer’s owned
+property or, otherwise, defines multiple performance obligations as a part of the contract that may individually be
+assessed and used as criteria for determining stage of completion; c. the subject-matter is intended to address certain
+specific needs of an identified unique customer and hence, may generally not have a ready market or may not be in a
+condition, position or location suited for its sale to a third party; and d. it has a considerable original total development
+period (comprising of a single or multiple phases or tranches). [Explanation: Development period, in the specific context
+of this definition criteria, shall not be confused with, or considered interchangeable with, the deferred delivery
+period.]”
+(^8) Also referred to as Salaf (having the literal meanings of borrowing)
+
+
+## Deferred delivery sales in the books of the buyer
+
+### Initial recognition
+
+#### Advance for Salam goods and advance for Istisna goods
+
+#### Advance for Salam goods and advance for Istisna goods
+
+6. Advance cash payments made by the buyer (to the customer, in the capacity of the seller in the
+    Salam or Istisna transaction) shall be recognised, as follows:
+
+a. in case of a Salam transaction – at the time of entering into a Salam contract as advance for
+Salam goods, equivalent to the amount of cash paid; and
+b. in case of an Istisna transaction – as and when the advance payment(s) is made (in lump
+sum, or in instalments), if any, in line with the contractual arrangements, as advance for
+Istisna goods equivalent to the amount of cash paid.
+#### Inventories
+
+7. Inventory shall be recognised by the buyer once it controls the subject-matter of the Salam or Istisna
+    transaction, i.e., the time when it essentially acquires the control, and hence substantially all risks
+    and rewards incidental to ownership, of such subject-matter.
+8. Inventory shall initially be recognised at cost. The cost of inventory shall comprise all costs of
+    purchase and other costs incurred in bringing the subject-matter to its present location and
+    condition. It includes all types of taxes (other than those subsequently recovered), transportation
+    and handling costs including related Takaful costs and all other costs directly attributable to bringing
+    the subject-matter to its present location and condition including those incurred by the customer in
+    the capacity of agent and any fee paid to the agent. Trade discounts, rebates, performance bonus
+    and similar items, if any, shall be adjusted with the costs.
+9. In case inventory is acquired on a piecemeal basis or in tranches, each tranche of inventory received
+    shall be recognised when the conditions defined in paragraph 7 are met.
+
+### Subsequent measurement
+
+#### Advance for Salam goods and advance for Istisna goods
+
+10. Gross amounts of advance for Salam goods and advance for Istisna goods, at the end of a financial
+    reporting period, shall be carried at their outstanding amount less any allowance for impairment.
+11. Outstanding amounts represent the gross amounts of advance for Salam goods and advance for
+    Istisna goods less inventories received or other adjustments including recoveries, discounts, rebates
+    and performance bonus, if any.
+12. Allowance for impairment, if any, shall be accounted for in accordance with the respective AAOIFI
+    FAS^9. A delay in, or inability of the seller to perform delivery of the subject-matter of Salam or Istisna
+    transaction shall be considered as an objective evidence of impairment.
+
+(^9) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+
+#### Inventories
+
+#### Inventories
+
+13. Subsequent to initial recognition, inventories shall be measured at the lower of cost and net
+    realisable value.
+14. Determination and any adjustment to bring down the value of inventories to net realisable value
+    shall be carried out in accordance with the respective AAOIFI FAS^10.
+15. A delivery of the subject-matter not matching the contractual specifications may trigger a need for
+    reassessment of net realisable value.
+16. Any additional handling and holding costs related to inventories shall be charged to statement of
+    income during the period in which these arise.
+
+### Derecognition
+
+#### Inventories
+
+17. Inventories shall be derecognised when:
+
+a. the control is transferred to the eventual buyer in form of sale (see paragraph 19 );
+b. the control is lost, e.g., in form of physical loss or theft; or
+c. these lose their capacity of providing future economic benefits e.g., technological
+obsolescence, legal restrictions or if there is no expected buyer.
+#### Advance for Salam goods and advance for Istisna goods
+
+18. Advance for Salam goods and advance for Istisna goods shall be derecognised:
+
+a. when the delivery of the intended subject-matter (or a substituted commodity, with mutual
+agreement) is complete;
+b. when the subject-matter is no more deliverable and advance payments thereagainst are
+refunded, with mutual consent;
+c. when, due to the seller’s insolvency or other limitations, these (or a substituted commodity
+or refund) cannot be recovered; or
+d. when the buyer waives its right by writing it off or gifts it as Hiba to the seller.
+### Revenue and profit recognition.....................................................................................................................
+
+19. Revenue shall be recognised at gross value at the time of sale of subject-matter to the eventual
+    buyer (either directly or through an agent^11 ), which shall coincide with the time of transfer of control
+    of inventory (see paragraphs 17(a)). [Explanation 1: The gross revenue shall be the total amount
+    billed to the eventual buyer (directly, or through an agent, without any deduction of agency fee or
+    incentive payable to the agent). Explanation 2: The buyer shall not recognise any revenue, hence
+
+(^10) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^11) An agent, if any, may be appointed in line with the Shari’ah principles and rules to facilitate the sale of the subject-
+matter to the eventual buyer. In practice, at times, the seller of the first leg of the transaction is also appointed as an
+agent for this purpose.
+
+
+profit, till the time the subject-matter of Salam or Istisna transaction is not sold to the eventual
+buyer.]
+20. Agency fee (fixed or variable, including incentive) shall be accounted for separately from (and hence,
+    not netted off with) the gross revenue arising on the transaction.
+
+#### Goods purchased under deferred delivery sales contract sold on deferred payment basis
+
+21. In case of subject-matter purchased under a deferred delivery sales contract, which is sold to the
+    eventual buyer under a Murabaha or another deferred payment sales contract, the revenue shall be
+    recognised in line with the requirements of the respective AAOIFI FAS^12.
+
+### Presentation and disclosures
+
+22. In addition to the disclosure requirements as stated in FAS 1 “General Presentation and Disclosures
+    in the Financial Statements”, the following minimum disclosures shall be made in the financial
+    statements of the buyer:
+
+a. the accounting policies adopted for deferred delivery sales transactions, including the
+aspects of recognition of Salam and Istisna goods (pending delivery), inventory, revenue,
+cost of sales and profit (including deferred profit, where applicable), etc.;
+b. appropriate disclosures in respect of purchases of subject-matter based on deferred delivery
+sales basis:
+i. advance for Salam goods (full payment made to the seller);
+ii. advance for Istisna goods (full or part payment made to the seller);
+iii. commitment in respect of outstanding amount (in case of Istisna transactions)
+payable to the seller, if any;
+iv. liability in respect of outstanding amount (in case of Istisna transactions) payable to
+the seller subsequent to the receipt of subject-matter, if any;
+v. impairment, if any, on the advance for Salam goods and advance for Istisna goods
+and movement thereon; and
+vi. net realisable value adjustment, if any, for inventory;
+c. appropriate disclosures in respect of sale of subject-matter based under agency or parallel
+deferred delivery sales contracts:
+i. amounts receivable against the sale, bifurcating between receivable from the
+eventual buyer and the agent;
+(^12) See paragraphs 23-28 of FAS 28 “Murabaha and Other Deferred Payment Sales” [Explanation: According to such
+requirements, in case of deferred payment sales, the profit arising from the transaction i.e., the difference between
+revenue and cost of sales recognised, shall be deferred through a deferred profit account. However, in case where the
+equivalent cash sale price of the goods sold is higher than the cost of sales, the profit to the extent of difference
+between the cash sale price and the cost of sales shall not be deferred.]
+
+
+ii. revenue and profit recognised under deferred delivery sales;
+iii. credit losses, if any, in respect of amounts receivable from the eventual buyer or
+agent (considering the requirements of respective AAOIFI FAS^13 );
+iv. unamortised deferred profits against deferred delivery sales receivables,
+respectively, providing a movement of the same during the period duly disclosed as
+a deduction from the outstanding amount of gross receivables; and
+v. onerous commitments / contracts in line with the requirements of respective AAOIFI
+FAS^14 ; and
+d. the amount waived / written-off, according to their respective nature, during the period.
+23. The balance of the advance for Salam goods and advance for Istisna goods and outstanding payables
+    shall be presented on the appropriate side of the statement of financial position, without netting off.
+24. Where amounts are material, the disclosures mentioned in paragraph 22 may separately identify
+    between the Salam and Istisna transactions in the notes to the financial statements, considering the
+    different risk factors associated with them, respectively.
+25. Where the contract includes a parallel element, such transaction shall be separately disclosed,
+    identifying that amount which pertains to the original Salam or Istisna transaction.
+
+## Deferred delivery sales in the books of the seller
+
+### Initial recognition
+
+#### Salam or Istisna goods deliverable
+
+26. Advance cash payments received from the buyer shall be recognised, as follows:
+
+a. in case of a Salam transaction – at the time of entering into a Salam contract as Salam goods
+deliverable, equivalent to the amount of cash received; and
+b. in case of an Istisna transaction – as and when the advance payment(s) is received (in lump
+sum, or in instalments), if any, in line with the contractual arrangements, as Istisna goods
+deliverable equivalent to the amount of cash received.
+### Subsequent measurement
+
+#### Salam and Istisna goods deliverable
+
+27. Subsequent to initial recognition, liability against Salam and Istisna goods deliverable shall be
+    measured at its outstanding amount.
+
+(^13) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^14) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+
+#### Onerous deferred delivery sales contracts................................................................................................
+
+28. Any onerous situation under a deferred delivery sales contract shall be dealt with in line with the
+    requirements of the respective AAOIFI FAS^15.
+
+#### Inventories
+
+29. Generally accepted accounting principles^16 shall be applied in respect of accounting and financial
+    reporting for the inventory intended to be sold at a later date (irrespective of whether being
+    available for intended sale, under growth (as an agricultural produce) or in-process (of
+    manufacturing, development, packing, extraction, mining, processing, refining, etc.)).
+
+### Revenue and profit recognition.....................................................................................................................
+
+30. Revenue shall be recognised at gross value at the time of sale of subject-matter to the buyer, which
+    shall coincide with the time of transfer of control of inventory (see paragraph 17(a)).
+31. In case of such Istisna transaction where full or part of the price is to be received on a deferred basis,
+    an appropriate proportion of the profit shall be deferred and recognised over a period of time in line
+    with the requirements of respective AAOIFI FAS^17.
+
+### Presentation and disclosures
+
+32. In addition to the disclosure requirements as stated in FAS 1 “General Presentation and Disclosures
+    in the Financial Statements”, the following minimum disclosures shall be made in the financial
+    statements of the seller:
+
+a. the accounting policies adopted for deferred delivery sales transactions, including the
+aspects of recognition of Salam and Istisna goods deliverable, inventory, revenue, cost of
+sales and profit (including deferred profit, where applicable), etc.;
+b. liabilities against Salam and Istisna goods deliverable;
+c. inventories held for deferred delivery distinguishing according to the classification;
+d. inventories intended to be held for longer periods with information about the nature and
+risks associated thereto;
+e. the sales revenue, cost of sales and profit resulted from deferred delivery sales, respectively,
+during the financial period;
+(^15) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^16) Refer paragraph 7 of the AAOIFI Conceptual Framework of Financial Reporting, which states that “Accounting policies
+for similar transactions, other events or conditions shall be developed by the institutions according to the following
+hierarchy: (a) FAS specifically addressing the respective transaction, other event or condition or other pronouncement
+issued by AAOIFI; (b) FAS on similar matters; (c) generally accepted accounting principles as applicable in the respective
+jurisdiction, insofar as these are not against the conceptual framework and Shari’ah principles and rules; and (d) the
+management's judgment as long as in line with the conceptual framework and the Shari’ah principles and rules.”
+(^17) FAS 28 “Murabaha and Other Deferred Payment Sales” [Explanation: According to such requirements, in case of
+deferred payment sales, the profit arising from the transaction i.e., the difference between revenue and cost of sales
+recognised, shall be deferred through a deferred profit account. However, in case where the equivalent cash sale price
+of the goods sold is higher than the cost of sales, the profit to the extent of difference between the cash sale price and
+the cost of sales shall not be deferred.]
+
+
+f. unamortised deferred profits against deferred delivery sales receivables, respectively,
+providing a movement of the same during the period duly disclosed as a deduction from the
+outstanding amount of gross receivables; and
+g. allowance for impairment and credit losses and provision for onerous commitments /
+contracts, along with their respective movement, in line with the requirements of respective
+AAOIFI FAS^18.
+33. The balance of the receivables and the goods deliverable shall be presented on the appropriate side
+    of the statement of financial position, without netting off.
+34. Where amounts are material, the disclosures mentioned in paragraph 32 may separately identify
+    between the Salam and Istisna transactions in the notes to the financial statements, considering the
+    different risk factors associated with them, respectively.
+35. Where the contract includes a parallel element, such transaction shall be separately disclosed,
+    identifying that amount which pertains to the original Salam or Istisna transaction.
+
+## Related accounting treatments
+
+### Parallel Salam and parallel Istisna
+
+#### Parallel Salam
+
+36. Parallel Salam transactions shall be accounted for separately, as a buyer (see paragraphs 6 - 25 ) and a
+    seller (see paragraphs 26 - 35) on a mutually exclusive basis.
+
+#### Parallel Istisna
+
+37. Parallel Istisna transactions that fall within the scope of this standard (see paragraph 2 - 4 ) shall be
+    accounted for separately, as a buyer (see paragraphs 6 - 25 ) and a seller (see paragraphs 26 - 35 ) on a
+    mutually exclusive basis.
+
+### Subsequent change of price of the subject-matter
+
+#### Subsequent change in the price or the subject-matter with mutual consent
+
+38. Any subsequent change in the price or the subject-matter of a Salam or Istisna transaction, with
+    mutual consent, shall be considered as an event taking place at the time of such agreement of
+    change, and shall not give rise to a gain or loss at that time. The eventual profit or loss, and change
+    therein, shall be recognised only once the sale to the eventual buyer is made. However, such a
+    change event may be considered as an objective evidence of impairment or necessary adjustment
+    for net realisable value.
+
+#### Change in price of the subject-matter of Istisna contract based on performance
+
+39. A change in price of the subject-matter of an Istisna contract based on performance (meeting the
+    delivery target, or delaying from the initially agreed delivery date), according to the pre-agreed
+
+(^18) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+
+mechanism defined under the contract, in line with Shari’ah principles and rules^19 , shall be
+accounted for in line with the requirements of paragraph 38.
+## Effective date
+
+40. This standard shall be effective on the financial statements of institutions for financial periods
+    beginning on or after 1 January 2027. Early adoption of the standard is encouraged.
+
+## Amendments to other standards
+
+41. This standard, along with the [ED of] FAS __ “Istisna-based Development Contracts”, supersedes the
+    earlier FAS 7 “Salam and Parallel Salam” and FAS 10 “Istisna’a and Parallel Istisna’a”.
+
+(^19) See paragraph 3/2/4 of SS 11 “Istisna’a and Parallel Istisna’a”
+
+
+## Appendices
+
+## Appendix A: Adoption of the standard
+
+This standard was presented for approval in the ___ AAOIFI Accounting Board meeting held on _____,
+corresponding to ___________ and was duly approved.
+
+### Members of the board
+
+1. Mr. Hamad Abdulla Al Oqab – chairman
+2. Mr. Syed Najmul Hussain – deputy chairman
+3. Mr. Abdulkadir Farah
+4. Dr. Abdulrahman M. Alrazeen
+5. Prof. Abdul Razzak Kasem
+6. Dr. Bello Lawal Danbatta
+7. Mr. Firas Hamdan
+8. Mr. Irshad Mahmood
+9. Mr. Kazim Merchant
+10. Ms. Khawla Ahmed Ebrahim
+11. Mr. M. Ali Latif
+12. Dr. Muhammad Albeltagi
+13. Mr. Saud Al Busaidi
+14. Mr. Sezayi Toprak
+15. Mr. Wael Merza
+
+### Reservation
+
+The standard was approved unanimously.
+
+
+### Working group members
+
+1. Mr. Syed Najmul Hussain – chairman
+2. Mr. Achmad Iqbal
+3. Mr. Ahmed Siddiqui
+4. Dr. Anwar Misbah Soubra
+5. Mr. Elmamoun Hamid
+6. Mr. Kamal Hossain
+7. Dr. M. Mahabbat Hossain
+8. Dr. Muhammad Albeltagi
+9. Mr. Wael Merza
+10. Dr. Yosita Nur Wirdayanti
+11. Mr. Yusuf Sayed
+
+### Executive team
+
+1. Mr. Omar Mustafa Ansari (AAOIFI)
+2. Mr. Mohammad Majd Bakir (AAOIFI)
+3. Mr. Haroon Tabraze (Senior consultant-researcher)
+4. Ms. Saira Shamsie (Senior consultant-researcher)
+5. Ms. Merjan Abid (Consultant-researcher)
+
+
+## Appendix B: Process flow for deferred delivery sales
+
+The following charts summarise the various types of deferred delivery sales transactions:
+
+Illustrative process flow for Salam with agency*:
+
+Illustrative process flow of Istisna with agency*:
+
+*The sale of the goods in a deferred delivery sales contract may be through one of the following options:
+
+a. purchased goods are sold directly to the market;
+b. purchased goods are sold on credit;
+c. purchased goods are sold through an agent;
+d. purchased goods are sold back to the customer, appointing him as agent; or
+e. purchased goods are sold under a deferred delivery sales contract.
+# 1.
+
+Salam contract signed for
+deferred delivery of
+specified goods (subject-
+matter)
+Advance 100% payment
+made by the buyer to the
+seller at the same time
+# 2.
+
+Signing of agency contract
+between buyer (as
+principal) and seller (as
+agent) to sell the goods to
+the eventual buyer
+# 3.
+
+Delivery of Salam goods by
+the seller to the buyer on
+the specified date
+(normally constructive
+possession)
+# 4.
+
+Sale of subject-matter by
+the agent to the eventual
+buyer
+Sale price less agency fee
+passed on to the principal
+by the agent
+Agency fee is as per
+contract is normally
+calculated as the sum of
+fixed fee plus variable fee /
+incentive (being the
+difference between the
+gross sale price minus the
+minimum selling price
+defined by the principal)
+# 1.
+
+Istisna contract signed for
+deferred delivery of
+subject-matter with
+specifications
+100% full / progressive
+payments may be made by
+the buyer to the seller at
+the same time
+# 2.
+
+Signing of agency contract
+between buyer (as
+principal) and seller (as
+agent) to sell the goods to
+the eventual buyer
+# 3.
+
+Delivery of Istisna subject-
+matter by the seller to the
+buyer on the specified
+date (normally
+constructive possession)
+Remaining payment of the
+liability by the buyer to the
+seller, before or after
+delivery according to the
+conditions of the contract
+# 4.
+
+Sale of subject-matter by
+the agent to the eventual
+buyer
+Sale price less agency fee
+passed on to the principal
+by the agent
+Agency fee is as per
+contract is normally
+calculated as the sum of
+fixed fee plus variable fee /
+incentive (being the
+difference between the
+gross sale price minus the
+minimum selling price
+defined by the principal)
+
+## Appendix C: Basis for conclusions
+
+## BC1 [to be inserted]
+
+
+## Appendix D: Brief history of the preparation of the standard
+
+H1 The working group on revision of FAS 7 and FAS 10 in its 1st meeting, held on 23 Shawwal 1445H,
+corresponding to 2 May 2024, discussed the need for revision of the existing standards. The
+members agreed that the revision of both standards would be done simultaneously, with a separate
+standard addressing short-term deferred delivery sales and another standard on long-term
+construction contracts.
+
+H2 AAB, in its 38th meeting held on 2-3 Dhul-Qa’dah 1445H, corresponding to 10-11 May 2024,
+discussed the preliminary study of the revision project and agreed on the structure and content of
+the standards. The board also agreed with the working group’s proposal to develop two draft
+standards.
+
+H3 The initial draft of the standard was presented in the 2ndand 3rd working group meetings held on 18
+Muharram 1446H and 25 Muharram 1446H, corresponding to 24 July 2024 and 31 July 2024,
+respectively. The members of the working group deliberated on the draft standard and requested
+conclusions to be presented to the board with its recommendations.
+
+H4 The draft standard was presented to AAB in its 39th meeting, held on 15 - 16 Safar 1446 H,
+corresponding to 19 - 20 August 2024. In this meeting, the board reviewed the draft and
+recommendations made by the working group. After due deliberations, the exposure draft was
+approved for issuance.
+
+H5 The exposure draft of the standard was issued, after incorporation of the board and working group,
+comments on 21 Jumada II 1446H, corresponding to 22 December 2024.
+
+

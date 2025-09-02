@@ -1,0 +1,1005 @@
+# [Exposure Draft (F 2 /202 4 ) of the]
+
+# AAOIFI Financial Accounting Standard \_\_
+
+# Istisna-based Development Contracts
+
+## Contents
+
+## Contents
+
+AAOIFI Financial Accounting Standard (FAS) \_\_ “Istisna-based Development Contracts” is set out in
+paragraphs 01 - 50. All the paragraphs have equal authority. This standard should be read in the context of its
+objective and the “AAOIFI Conceptual Framework for Financial Reporting”.
+
+All AAOIFI FASs shall be read in conjunction with the definitions, Shari’ah principles and rules and key
+
+- Contents
+- Preface
+- Introduction
+  - Overview
+  - Rationale for issuing this standard
+  - Significant changes from the previous standard
+- Objective of the standard
+- Scope
+- Definitions
+- Assessment of Istisna-based development contracts subject to the requirements of this standard
+- Istisna-based development contracts in the books of the developer (seller)
+  - Initial recognition
+    - Development contract project cost
+    - Development contract progress billings
+  - Subsequent measurement
+    - Development contract project cost
+    - Receivables from the customer
+    - Development contract progress billing (liability)
+    - Development contract revenue
+    - Development contract cost of revenue
+    - Application of stage of completion method
+  - Derecognition
+  - Inability to assess stage of completion of an Istisna-based development contract
+    - Onerous Istisna-based development contracts.........................................................................................
+  - Presentation and disclosures
+- Istisna-based development contracts in the books of the customer (buyer)
+  - Initial recognition
+    - Advance against Istisna-based development project
+  - Subsequent measurement
+    - Advance against Istisna-based development project
+    - Istisna-based development project in-progress
+  - Acquisition of subject-matter
+  - Presentation and disclosures
+- Related accounting treatments
+  - Parallel Istisna: Accounting by the developer
+    - The developer entering into parallel Istisna-based development contract with the parallel developer
+    - The customer entering into parallel Istisna-based development contract with a parallel customer
+  - Onerous Istisna-based development contracts
+  - Subsequent change in price or cost estimate of the subject-matter
+- Effective date
+- Amendments to other standards
+- Appendices
+- Appendix A: Adoption of the standard
+  - Members of the board
+  - Reservation
+  - Working group members
+  - Executive team
+- Appendix B: Illustrative of application of standard to Istisna-based development contracts
+  - Example 1: Parallel Istisna does not exist (profitable contract)
+  - Example 2: Parallel Istisna does not exist (profitable contract with deferred payment element)
+  - Example 3: Parallel Istisna does not exist (onerous contract)
+- Appendix C: Basis for conclusions
+- Appendix D: Brief history of the preparation of the standard
+
+## Preface
+
+PR1 Istisna-based development contracts are amongst the unique products of Islamic finance, having a
+significant proportion in the Islamic finance transactions in different markets. Due to multiple unique
+transaction structures based on Istisna, and certain Shari’ah compliance issues in their
+implementation, the financial reporting requirements for the same is always a challenge.
+
+PR2 AAOIFI had earlier addressed these unique financial reporting requirements in the AAOIFI Financial
+Accounting Standard (FAS) 7 “Salam and Parallel Salam” and FAS 10 “Istisna’a and Parallel Istisna’a”,
+which were identified for revision and improvement as a result of comprehensive FAS review and
+revision project initiated by AAOIFI Accounting Board (AAB / the board).
+
+PR3 This standard aims at setting out the financial reporting principles for recognising, measuring,
+presenting and disclosing the transactions of Istisna-based development contracts that are carried
+out by both, the buyers and the sellers of such transactions.
+
+PR4 This standard, along with the [ED of] FAS \_\_ “Deferred Delivery Sales”, supersedes the earlier FAS 7
+“Salam and Parallel Salam” and FAS 10 “Istisna’a and Parallel Istisna’a”.
+
+## Introduction
+
+### Overview
+
+IN1 This standard prescribes the accounting and financial reporting principles for recognition,
+measurement, presentation and disclosures related to Istisna-based development contracts (which
+are generally medium- to long-term in nature), applicable to the developers and customers for such
+contracts.
+
+### Rationale for issuing this standard
+
+IN2 In line with the financial accounting standards (FASs) development strategy, AAOIFI Accounting
+Board (AAB / the board) initiated a review and revision process for certain FASs, including FASs
+addressing the accounting and financial reporting issues of Salam and Istisna transactions. Such
+process and additional time-to-time feedback received from the market participants, revealed that
+certain aspects of the newer market practices and the changes and updates in the generally
+accepted accounting principles need to be incorporated in the relevant FASs. In addition, a need was
+felt to align certain requirements with the newer FASs and the revised AAOIFI Conceptual
+Framework for Financial Reporting (conceptual framework). Accordingly, it was considered
+imperative to revise the existing FASs dealing with Salam and Istisna transactions.
+
+IN3 During the revision process, it was considered necessary by the board to separately address the
+financial reporting requirements related to development contracts based on Istisna (generally,
+medium- to long-term in nature, and involving significant element of efforts), differently from the
+more common forms of deferred delivery sales transactions (based on either, Salam or Istisna, and
+generally short-term in nature) which shall be covered in a separate standard to be issued
+simultaneously with this standard.
+
+### Significant changes from the previous standard
+
+IN4 This standard brings significant changes from its predecessor standard (FAS 10 “Istisna’a and Parallel
+Istisna’a”), inter alia, in the following aspects:
+
+a. the deferred delivery sales transactions based on Istisna (which are generally short-term in
+nature and do not meet the criteria for Istisna-based development contracts) are not
+included in the scope of this standard and are subject to the requirements of the FAS on
+“Deferred Delivery Sales^1 ” (being simultaneously issued);
+
+b. the financial reporting requirements prescribed by the revised standard are aligned with the
+requirements related to control, transfer of control and revenue recognition as prescribed
+by the conceptual framework, the relevant AAOIFI FASs and the generally accepted
+accounting principles, suitably incorporating the effect of the unique transaction structures
+and the business model of the Islamic financial institutions (IFIs / the institutions);
+
+c. the predecessor standards included certain Shari’ah requirements which have not been
+included in the revised standard, and accordingly this standard shall be read in conjunction
+with the respective AAOIFI Shari’ah Standards (SSs);
+
+(^1) [ED of] FAS \_\_\_ “Deferred Delivery Sales”
+
+d. the relevant definitions have been aligned with the definitions provided by the respective
+AAOIFI SSs;
+
+e. the revised standard prescribes the financial reporting requirements from both the
+developer’s and the customer’s perspective, while the predecessor standards addressed the
+financial reporting for the developer only;
+
+f. the revised standard aligns the requirements relating to the impairment, credit losses, net
+realisable value (NRV) and onerous contracts with the requirements of the respective AAOIFI
+FAS^2 ;
+
+g. the treatments and financial reporting requirements for parallel Istisna-based development
+contracts have been simplified and are now based on the applicable treatments for the
+developer and the customer, respectively; and
+
+h. accounting requirements with respect to subsequent changes in the terms of the contract
+have been simplified.
+
+(^2) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+# [Exposure Draft (F 2 /202 4 ) of the]
+
+# AAOIFI Financial Accounting Standard \_\_
+
+# Istisna-based Development Contracts
+
+## Objective of the standard
+
+1. The objective of this standard is to prescribe the appropriate accounting and financial reporting
+   principles for recognition, measurement, presentation and disclosures to apply in relation to Istisna-
+   based development contracts for the developers / contractors and customers for such transactions.
+
+## Scope
+
+2. This standard applies to accounting and financial reporting for Istisna-based development contracts
+   (see paragraph 5) carried out under Shari’ah principles and rules^3 by the Islamic financial institutions
+   (IFIs / the institutions) and other institutions following AAOIFI Financial Accounting Standards (FASs),
+   except for those Istisna transactions that are excluded from the scope under paragraph 3.
+3. This standard shall not apply to such Istisna transactions whereby:
+
+a. such Istisna transactions do not meet the criteria of an Istisna-based development contract
+(see paragraph 5), and hence are subject to accounting as a deferred delivery sales
+transaction according to the requirements of respective AAOIFI FAS^4 ;
+
+b. such Istisna transactions have a total development period^5 of less than 12 months, even
+otherwise meeting the criteria of Istisna-based development contract (see paragraph 5),
+which shall be subject to accounting as a deferred delivery sales transaction according to the
+requirements of respective AAOIFI FAS^6 ; or
+
+c. the institution being a customer of an Istisna-based development contract, has intentions to
+either:
+
+i. lease out and eventually sell (or otherwise transfer) the subject-matter under Ijarah
+Muntahia Bittamleek arrangement, to be accounted for in line with the
+requirements of the respective standard^7 ; or
+
+ii. use the subject-matter in its own operations (self-use or self-consumption).
+
+(^3) See paragraph 8(k) of FAS 1 “General Presentation and Disclosures in the Financial Statements”
+(^4) [ED of] FAS **_ “Deferred Delivery Sales”
+(^5) See paragraph 5(d) and explanation thereto
+(^6) [ED of] FAS _** “Deferred Delivery Sales”
+(^7) FAS 32 “Ijarah”
+
+## Definitions
+
+4. For the purpose of interpreting and applying this standard, the following short definitions are
+   relevant:
+
+a. Customer – in the specific context of this standard, is the buyer who acquires the subject-
+matter under an Istisna-based development contract;
+
+b. Deferred delivery sales^8 – are the sales transactions carried out in line with Shari’ah
+principles and rules, based on either Salam or Istisna contract, whereby the primary
+performance obligation under the respective contract is delivery of the subject-matter.
+Deferred delivery sales do not include such sales transactions that are promised to be
+carried out on a specific future date against a unilateral promise or undertaking to sell or
+purchase, which are consummated through an offer and acceptance on such future date, in
+line with Shari’ah principles and rules;
+
+c. Developer – in the specific context of this standard, is the manufacturer, constructor,
+producer, processor, fabricator or builder, etc., who develops (and sells) the subject-matter
+under an Istisna-based development contract;
+
+d. Istisna^9 – is a contract to sell a described asset with deferred delivery based on a
+manufacturing request. In practicality, it is a sale contract between the buyer and the seller
+whereby the seller, based on an order from the buyer, undertakes to manufacture, have it /
+get it manufactured or otherwise acquire the subject-matter of the contract according to the
+specifications and sell it to the buyer for an agreed upon price and method of settlement
+whether that be in advance, by instalments or deferred to a specific future time;
+
+e. Istisna-based development contract – is a contract of Istisna for development of an asset
+meeting the criteria defined in paragraph 5 ;
+
+f. Parallel Istisna^10 – is an arrangement whereby the seller / developer enters into another
+independent Istisna contract with a third party to acquire (through manufacturing /
+development) the subject-matter according to the specifications of the subject-matter
+specified in the first Istisna contract as to fulfil the obligation under the first Istisna contract.
+In contemporary custom, such second contract is called parallel Istisna. Parallel Istisna is
+executed only if so allowed by the buyer / customer under the first Istisna contract, without
+making the execution of the second Istisna contract dependent on the execution of the first
+one [Explanation: In practice, the sequence of the execution of the two independent Istisna
+transactions may vary according to the transaction structure]; and
+
+g. Stage of completion method – also, at times, referred to as percentage of completion
+method, is the recognition of revenue and expenses by reference to the stage of completion
+of a development contract. Under this method, development contract revenue is matched
+with the development contract project cost incurred in reaching the stage of completion,
+
+(^8) [ED of] FAS ** “Deferred Delivery Sales”
+(^9) [ED of] FAS ** “Deferred Delivery Sales”
+(^10) [ED of] FAS \_\_ “Deferred Delivery Sales”
+
+resulting in the reporting of revenue, expenses and profit which can be attributed to the
+proportion / stage of work completed.
+
+## Assessment of Istisna-based development contracts subject to the requirements of this standard
+
+5. Istisna-based development contract, within the scope of this standard, is a contract of Istisna for
+   development of an asset (normally, an item of property, plant and equipment or investment
+   property), duly meeting the following criteria:
+
+a. it involves a significant element of efforts on the part of the developer, including labour and
+services (which needs to be compensated for in the event of force majeure, in line with
+Shari’ah principles and rules and customary practices);
+
+b. it has either an element of partial control transfer through milestones-based delivery and /
+or construction / development on the customer’s owned property or, otherwise, defines
+multiple performance obligations as a part of the contract that may individually be assessed
+and used as criteria for determining stage of completion;
+
+c. the subject-matter is intended to address certain specific needs of an identified unique
+customer and hence, may generally not have a ready market or may not be in a condition,
+position or location suited for its sale to a third party; and
+
+d. it has a considerable original total development period (comprising of a single or multiple
+phases or tranches). [Explanation: Development period, in the specific context of this
+definition criteria, shall not be confused with, or considered interchangeable with, the
+deferred delivery period.]
+
+## Istisna-based development contracts in the books of the developer (seller)
+
+### Initial recognition
+
+#### Development contract project cost
+
+6. Development contract project cost (recognised as an asset) shall comprise:
+
+a. costs that are incurred directly on the subject-matter of the specific development contract;
+
+b. indirect overheads that are objectively attributable to the development process, hence,
+allocated to the development contract (excluding any idle capacity element of the fixed
+overheads); and
+
+c. such other costs as are specifically chargeable to the customer under the terms of the
+contract.
+
+7. General and administrative expenses, selling expenses, research costs, etc., shall not be included in
+   the development contract project cost.
+
+8. The development contract project cost may be reduced by any incidental income that is not included
+   in the development contract revenue, for example, income from the sale of surplus materials,
+   income on the disposal of related plant and equipment or services provided to third parties using
+   the resources allocated to the development contract.
+9. Development contract project cost includes the costs attributable to a development contract for the
+   period from the date of securing the contract to the final completion of the development contract /
+   delivery of the subject-matter.
+10. Costs directly relating to securing a development contract (such as legal fee, feasibility reports or
+    engineering surveys / plans) are also included as part of the development contract project cost if,
+    and only if, the same can be separately identified and measured reliably and it is virtually certain
+    that the contract will be secured.
+
+#### Development contract progress billings
+
+11. Receivables from the customer and development contract progress billing (liability), as a
+    corresponding liability, shall be recognised as and when contractually agreed progress billings
+    (including mobilisation advance) are made to the customer.
+
+### Subsequent measurement
+
+#### Development contract project cost
+
+12. At the end of each financial reporting period, development contract project cost, in respect of each
+    development contract, shall be carried at cumulative cost (see paragraph 14 ) less allowance for
+    impairment, if any.
+13. Allowance for impairment, if any, shall be accounted for in accordance with the respective AAOIFI
+    FAS^11. A delay in, or inability of, the customer to make contractually agreed progress payments
+    against the development contract shall be considered as an objective evidence of impairment.
+14. Development contract project cost, as subsequently measured, shall include the cumulative amount
+    of periodically recognised development contract profit (i.e., the difference between the
+    development contract revenue and the development contract cost of revenue).
+
+#### Receivables from the customer
+
+15. Receivables from the customer (net of recoveries and adjustments, if any) shall be subsequently
+    measured at carrying value less expected credit losses, if any. In case of receivables from the
+    customer after completion of the development contract and delivery of the subject-matter,
+    involving a deferred payment, unamortised amount of deferred profit shall be shown as a deduction
+    from the gross amount of receivables (see paragraph 22 ).
+16. An allowance for expected credit losses, if any, shall be accounted for in accordance with the
+    respective AAOIFI FAS^12.
+
+(^11) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^12) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+#### Development contract progress billing (liability)
+
+17. Development contract progress billing (liability) at the end of each financial reporting period shall be
+    reported at its cumulative amount less cumulative amount of accrued receivable / unbilled revenue
+    against development contract progress, whereas:
+
+a. a net liability shall be shown as development contract progress billing (liability) – net; and
+
+b. a net asset shall be shown as accrued receivable / unbilled revenue against development
+contract progress – net.
+
+#### Development contract revenue
+
+18. Development contract revenue, at the end of each financial reporting period, shall be recognised on
+    a stage of completion basis if, and only if:
+
+a. total development contract project cost can be measured reliably, and it does not exceed
+the total development contract revenue;
+
+b. the stage of completion of the subject-matter of the development contract can be reliably
+measured through pre-agreed project milestones or, in the absence of the same, through
+reasonable estimates (based on engineering surveys / estimates or costs incurred); and
+
+c. it is probable that future economic benefits shall flow to the institution.
+
+19. Accrued receivable against development contract shall be recorded as a receivable against the
+    development contract progress.
+20. There is a rebuttable presumption that in all Istisna-based development contracts, the revenue may
+    always be reliably measured as Istisna is generally a fixed price contract. However, in certain
+    circumstances where variations in revenue are expected due to variations in delivery date, extra
+    work or change in specifications, etc., a prudent estimate of the revenue shall be applied, for the
+    purpose of application of stage of completion method unless, and till the time, a higher amount of
+    revenue is virtually certain.
+21. In case of mutually agreed changes in development contract price, hence total expected revenue,
+    any such changes shall be incorporated in the total amount of expected revenue as and when
+    contractually agreed.
+22. In case of such transactions where full or part of the price is to be received on a deferred basis (i.e.,
+    after the delivery of the subject-matter), the revenue referred to in paragraphs 18 - 21 , for the
+    purpose of application of stage of completion method, shall exclude an appropriate proportion of
+    the revenue (see paragraph 23) which shall be deferred and recognised over a period of time in line
+    with the requirements of respective AAOIFI FAS^13.
+
+(^13) See paragraphs 23-28 of FAS 28 “Murabaha and Other Deferred Payment Sales” [Explanation: According to such
+requirements, in case of deferred payment sales, the profit arising from the transaction i.e., the difference between
+revenue and cost of sales recognised, shall be deferred through a deferred profit account. However, in case where the
+equivalent cash sale price of the goods sold is higher than the cost of sales, the profit to the extent of difference
+between the cash sale price and the cost of sales shall not be deferred.]
+
+23. An appropriate amount of revenue to be deferred in line with the requirements of paragraph 22
+    shall be equal to the difference between the total sale price of the subject-matter and the estimated
+    equivalent cash sale price that would have been paid in case a full settlement of the same had taken
+    place at the time of delivery of subject-matter.
+
+#### Development contract cost of revenue
+
+24. Development contract cost of revenue, at the end of each financial reporting period, shall be
+    recognised on a stage of completion basis, corresponding to the development contract revenue, if
+    the conditions prescribed in paragraph 18 are satisfied. The development contract cost of revenue
+    may include an additional cost element in case of onerous situation (see paragraph 26).
+
+#### Application of stage of completion method
+
+25. Under the stage of completion method:
+
+a. development contract revenue is recognised in the statement of income of the relevant
+financial reporting period in proportion to the stage of completion of the subject-matter;
+and
+
+b. development contract project cost is recognised as an expense in the statement of income
+of the relevant financial reporting period in proportion to the stage of completion of the
+subject-matter (see paragraph 18 (b)).
+
+26. An onerous loss, whereby it is expected that the total development contract project cost would
+    exceed the total development contract revenue, shall be immediately recognised, irrespective of
+    stage of completion of the development contract.
+27. A change in estimate with regard to the total development contract revenue and the total
+    development contract project cost that results in an increase or reversal of a previously recognised
+    onerous loss shall be immediately recognised in the statement of income. In case, such change in
+    estimate results in a situation whereby the revised total development contract revenue (e.g., in case
+    of contract re-negotiations) exceeds the revised estimate of total development contract project cost,
+    profit recognition on the basis of stage of completion method, shall be resumed.
+
+### Derecognition
+
+28. At the time of conclusion of the contract and complete handover / delivery of the subject-matter to
+    the customer, the development contract project cost and the development contract progress billing
+    shall be derecognised, whereas any differential amount shall be recognised in the statement of
+    income. [Explanation: In most circumstances, at this point of time, both the accounts shall have
+    equal value. However, in rare circumstances, these may have different values e.g., due to
+    impairment.]
+
+### Inability to assess stage of completion of an Istisna-based development contract
+
+29. In unusual circumstances where both the stage of completion and the total expected development
+    contract project cost cannot be measured reliably at the end of the financial reporting period, the
+    institution shall:
+
+a. cease to follow the accounting prescribed by this standard and follow the requirements of
+respective AAOIFI FAS^14 applicable on deferred delivery sales, if such limitation is identified
+during the first financial reporting period; and
+
+b. cease to recognise any development contract revenue (and reverse any already recognised
+development contract revenue) in the excess of already recognised development contract
+cost of revenue, if such limitation is identified subsequent to the preceding financial
+reporting period.
+
+30. In case of application of paragraph 29 (b), once a reasonable estimate of both, the stage of
+    completion and the total expected development contract project cost, can be made, the remaining
+    development contract revenue and profit shall be recognised on a stage of completion basis
+    (including any cumulative effect of the same as of that date).
+
+#### Onerous Istisna-based development contracts.........................................................................................
+
+31. Any onerous situation under an Istisna-based development contract shall be dealt with in line with
+    the requirements of the respective AAOIFI FAS^15. Situations such as those mentioned in paragraph
+    27 may be indicative objective evidence of overall impairment.
+
+### Presentation and disclosures
+
+32. In addition to the disclosure requirements as stated in FAS 1 “General Presentation and Disclosures
+    in the Financial Statements”, the following minimum disclosures shall be made in the financial
+    statements of the developer:
+
+a. the accounting policies adopted for Istisna-based development transactions, including the
+aspects of recognition of development contract project cost, receivable from customers,
+development contract revenue, development contract cost of revenue and profit (including
+deferred profit, where applicable), etc.;
+
+b. the development contract project cost at the end of the financial reporting period;
+
+c. liability for the development contract progress billings and the receivables from the
+customer;
+
+d. the development contract revenue, development contract project cost of revenue and profit
+resulted from Istisna-based development contracts, respectively, during the financial
+reporting period;
+
+e. unamortised deferred profits providing a movement of the same during the period duly
+disclosed as a deduction from the outstanding amount of gross receivables; and
+
+f. allowance for impairment and credit losses and provision for onerous commitments /
+contracts, along with their respective movement, in line with the requirements of respective
+AAOIFI FAS^16.
+
+(^14) [ED of] FAS \_\_ “Deferred Delivery Sales”
+(^15) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^16) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+33. The balance of the Istisna-based development project in-progress and outstanding progress billings
+    shall be presented on the appropriate side of the statement of financial position, without netting off.
+34. Where the contract includes a parallel element, such transaction shall be separately disclosed,
+    identifying that amount which pertains to the original Istisna-based development contract.
+
+## Istisna-based development contracts in the books of the customer (buyer)
+
+### Initial recognition
+
+#### Advance against Istisna-based development project
+
+#### Advance against Istisna-based development project
+
+35. Advance cash payments made by the customer to the developer (in the form of mobilisation
+    advance or progress billing, etc.) shall be recognised as and when the advance payment(s) is made
+    (in lump sum, or in instalments), if any, in line with the contractual arrangements, as advance
+    against Istisna-based development project equivalent to the amount of cash paid.
+
+### Subsequent measurement
+
+#### Advance against Istisna-based development project
+
+36. Advance against Istisna-based development project, at the end of each financial reporting period,
+    shall be reported at its carrying value less any transfers to the Istisna-based development project in-
+    progress account, less allowance for expected credit losses, if any.
+37. An allowance for impairment, if any, shall be accounted for in accordance with the requirements of
+    the respective AAOIFI FAS^17. A delay in, or inability of the developer to perform delivery of the
+    subject-matter shall be considered as an objective evidence of impairment.
+
+#### Istisna-based development project in-progress
+
+38. Istisna-based development project in-progress, at the end of each financial reporting period, shall be
+    recognised to the extent of the project’s stage of completion as of that date (if such information is
+    available), through transfer from advance against Istisna-based development project, or by way of
+    recognising a liability (payable to the developer), in case such estimate is in excess of the advance
+    already paid. [Explanation: A liability to be recorded in this respect shall not be confused with any
+    progress billing(s) from the developer unless the same is strictly corresponding to the stage of
+    completion of the Istisna-based development project. Any such progress billing(s) in the excess of
+    stage of completion may constitute a firm commitment, but not a liability.]
+39. Istisna-based development project in-progress shall be subject to impairment testing at the end of
+    each financial reporting period. Allowance for impairment, if any, shall be accounted for in
+    accordance with the requirements of the respective AAOIFI FAS^18. A delay in, or inability of, the
+    developer to perform delivery of the subject-matter may be considered as an objective evidence of
+    impairment.
+
+(^17) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^18) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+### Acquisition of subject-matter
+
+40. The project shall stand concluded once the subject-matter is delivered from the developer to the
+    customer, i.e., the time when the customer essentially acquires the complete control, and hence
+    substantially all risks and rewards incidental to ownership, of such subject-matter.
+41. A delivery of the subject-matter not matching the contractual specifications may trigger a need for
+    reassessment of impairment thereon, if any.
+
+### Presentation and disclosures
+
+42. In addition to the disclosure requirements as stated in FAS 1 “General Presentation and Disclosures
+    in the Financial Statements”, the following minimum disclosures shall be made in the financial
+    statements of the customer:
+
+a. the accounting policies adopted for Istisna-based development transactions, including the
+aspects of recognition of advance against Istisna-based development projects, Istisna-based
+development projects in-progress, etc.;
+
+b. appropriate disclosures in respect of advance against Istisna-based development projects
+and Istisna-based development projects in-progress:
+
+i. advance payment (in full or in part) made to the developer and respective
+movement;
+
+ii. Istisna-based development project in-progress and the stage of completion of
+subject-matter (as provided by the developer) and respective movement; and
+
+iii. impairment, if any, on the advance or project in-progress, and the movement
+thereon;
+
+c. appropriate disclosure in respect of the progress billing against Istisna-based development
+projects, including:
+
+i. total progress billing to-date due for payment – gross and net (i.e., adjusted for
+payments made against the progress billing to-date or adjusted against advance
+payments), and their respective movement; and
+
+ii. commitment against progress billing expected against ongoing Istisna-based
+development contracts i.e., due in future periods (identifying as expected to be due
+within 12 months and after 12 months);
+
+d. appropriate disclosures in respect of sale of subject-matter, bifurcated according to sale
+based under agency or as direct sale:
+
+i. amounts receivable against the sale, bifurcating between receivable from the
+eventual buyer and the agent;
+
+ii. revenue and profit recognised under Istisna-based development contract;
+
+iii. expected credit losses, if any, in respect of amounts receivable from the eventual
+buyer or agent (considering the requirements of respective AAOIFI FAS^19 ); and
+
+iv. onerous commitments / contracts (in case of a mutually agreed change order) in line
+with the requirements of respective AAOIFI FAS^20 ; and
+
+e. the amount waived / written-off, according to their respective nature, during the period.
+
+43. The balance of the Istisna-based development project in-progress and outstanding progress billings
+    shall be presented on the appropriate side of the statement of financial position, without netting off.
+44. Where the contract includes a parallel element, such transaction shall be separately disclosed,
+    identifying that amount which pertains to the original Istisna-based development contract.
+
+## Related accounting treatments
+
+### Parallel Istisna: Accounting by the developer
+
+#### The developer entering into parallel Istisna-based development contract with the parallel developer
+
+45. In case of a parallel Istisna-based development contract whereby the developer enters into a parallel
+    Istisna-based development contract with the parallel developer, the developer shall follow the
+    accounting and financial reporting requirements as prescribed in paragraphs 6 - 34. In this case, the
+    development contract project cost shall be based on information about the stage of completion
+    provided by the parallel developer and any other direct costs attributable in line with the
+    requirements of this standard.^21
+
+#### The customer entering into parallel Istisna-based development contract with a parallel customer
+
+46. In case of a customer of a parallel Istisna-based development contract entering into parallel Istisna-
+    based development contract with a parallel customer, the customer shall initiate accounting as a
+    developer in line with the requirements of paragraph 45. Any profit arising as a difference between
+    development contract revenue and corresponding development contract cost of revenue,
+    depending on the stage of completion of the subject-matter as of that date, shall be immediately
+    recognised.
+
+### Onerous Istisna-based development contracts
+
+47. Any onerous situation under an Istisna-based development contract (including a parallel Istisna) shall
+    be dealt with in line with the requirements of the respective AAOIFI FAS^22.
+
+(^19) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^20) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+(^21) There is a rebuttable presumption that most common parallel Istisna transactions take place under a logical
+sequence whereby the developer, under the first Istisna-based development contract, enters into a parallel Istisna-
+based development contract with another developer (referred to as the parallel developer. However, in rare
+circumstances, the customer of an Istisna-based development contract may subsequently enter into a parallel Istisna-
+based development contract with another customer (referred to as the parallel customer), subject to requirements of
+Shari’ah principles and rules.
+(^22) FAS 30 “Impairment, Credit Losses and Onerous Commitments”
+
+### Subsequent change in price or cost estimate of the subject-matter
+
+48. Any subsequent change in the price of the subject-matter of an Istisna-based development contract
+    in line with the Shari’ah principles and rules (with mutual consent, or in certain cases, according to
+    the pre-agreed mechanism defined under the contract^23 ) or in the cost estimate shall be accounted
+    for when it becomes virtually certain. Any change in the eventual profit or loss shall be adjusted
+    according to the changes in estimates in respective computations, according to the stage of
+    completion method. However, such a change event may, in certain situations, be considered as an
+    objective evidence of impairment.
+
+## Effective date
+
+49. This standard shall be effective on the financial statements of institutions for financial reporting
+    periods beginning on or after 1 January 2027. Early adoption of the standard is encouraged.
+
+## Amendments to other standards
+
+50. This standard, along with the ED of FAS \_\_ “Deferred Delivery Sales”, supersedes the earlier FAS 10
+    “Istisna’a and Parallel Istisna’a”.
+
+(^23) A change in price of the subject-matter of an Istisna-based development contract may take place based on
+performance (e.g., meeting the delivery target or delaying from the initially agreed delivery date) if it is contractually
+defined. See paragraph 3/2/4 of SS 11 “Istisna’a and Parallel Istisna’a”.
+
+## Appendices
+
+## Appendix A: Adoption of the standard
+
+This standard was presented for approval in the **\_ AAOIFI Accounting Board meeting held on \_\_\_**,
+corresponding to \***\*\_\_\_\*\*** and was duly approved.
+
+### Members of the board
+
+1. Mr. Hamad Abdulla Al Oqab – chairman
+2. Mr. Syed Najmul Hussain – deputy chairman
+3. Mr. Abdulkadir Farah
+4. Dr. Abdulrahman M. Alrazeen
+5. Prof. Abdul Razzak Kasem
+6. Dr. Bello Lawal Danbatta
+7. Mr. Firas Hamdan
+8. Mr. Irshad Mahmood
+9. Mr. Kazim Merchant
+10. Ms. Khawla Ahmed Ebrahim
+11. Mr. M. Ali Latif
+12. Dr. Muhammad Albeltagi
+13. Mr. Saud Al Busaidi
+14. Mr. Sezayi Toprak
+15. Mr. Wael Merza
+
+### Reservation
+
+The standard was approved unanimously.
+
+### Working group members
+
+1. Mr. Syed Najmul Hussain – chairman
+2. Mr. Achmad Iqbal
+3. Mr. Ahmed Siddiqui
+4. Dr. Anwar Misbah Soubra
+5. Mr. Elmamoun Hamid
+6. Mr. Kamal Hossain
+7. Dr. M. Mahabbat Hossain
+8. Dr. Muhammad Albeltagi
+9. Mr. Wael Merza
+10. Dr. Yosita Nur Wirdayanti
+11. Mr. Yusuf Sayed
+
+### Executive team
+
+1. Mr. Omar Mustafa Ansari (AAOIFI)
+2. Mr. Mohammad Majd Bakir (AAOIFI)
+3. Mr. Haroon Tabraze (Senior consultant-researcher)
+4. Ms. Saira Shamsie (Senior consultant-researcher)
+5. Ms. Merjan Abid (Consultant-researcher)
+
+## Appendix B: Illustrative of application of standard to Istisna-based development contracts
+
+### Example 1: Parallel Istisna does not exist (profitable contract)
+
+#### Basic data
+
+Development contract (DC) revenue: CU 500,000 (2-year Istisna-based development contract).
+
+Total estimated (and actual) development contract project cost: CU 400,000 (including pre-contract costs of
+CU 15,000) (paragraph 10).
+
+Year 1 Year 2
+Cumulative development costs incurred 300,000 400,
+Progress billings 280,000 220,
+Received from customer 230,000 270,
+
+## Accounting treatment by the developer (seller)
+
+Paragraph Description Year 1 Year 2
+Dr. Cr. Dr. Cr.
+6 DC project cost (in-progress) (SFP^24 ) 300,000 100,000
+Cash (SFP) 300,000 100,000
+[To record asset against cost incurred during the
+period (assuming that all cost is paid in cash)]
+
+11 Receivable from customer (SFP) 280,000 220,000
+DC progress billing (SFP) 280,000 220,000
+[To record progress billing (and advance billing)
+from time to time]
+
+15 Cash (SFP) 230,000 270,000
+Receivable from customer (SFP) 230,000 270,000
+[To record receipt of payments from customers
+(assuming that all progress billings are received)]
+
+Revenue and expense^
+24 DC cost of revenue (SI^25 ) 300,000 100,000
+DC project cost (in-progress) (SFP) 75,000 25,000
+18 (a) DC revenue (SI) 375,000 125,000
+[To record expense and revenue on a stage of
+completion basis – see working below]
+
+28 DC progress billing (SFP) 500,000
+28 DC project cost (in-progress) (SFP) 500,000
+[To derecognise the subject-matter at the time
+of delivery / conclusion of the project]
+
+#### Assumption: Stage of completion can be measured reliably
+
+Paragraph Year 1 Year 2
+18 Stage of completion (300,000 / 400,000) _
+100 = 75% 25%
+18 DC revenue (SI) 500,000 _ 75% =
+375,000 125,000
+15 DC project cost (in-progress) (SFP) [to be
+added at the end of the period to the DC
+project cost in-progress in nature of
+deferred profit]
+
+##### (500,000 - 400,000) \*
+
+##### 75% = 75,000
+
+##### 25,000
+
+(^24) Statement of financial position (SFP)
+(^25) Statement of income (SI)
+
+#### Excerpt from statement of financial position at the end of the financial reporting period
+
+Year 1 Year 2
+DC project cost (in-progress) (SFP) 375,000 125,000
+Receivable (280, 000 – 230,000) 50,000 -
+Progress billing 280,000 -
+
+#### Excerpt from statement of income at the end of the financial reporting period
+
+#### Year 1^ Year 2^
+
+DC revenue 375,000 125,000
+DC cost of revenue 300,000 100,000
+
+### Example 2: Parallel Istisna does not exist (profitable contract with deferred payment element)
+
+#### Basic data
+
+Development contract revenue: CU 5 25 ,000 (2-year Istisna-based development contract with an additional
+year for payment), where cash equivalent revenue is CU 500 ,000 and CU 25 ,000 is the profit for the period
+after construction is complete.
+
+Total estimated (and actual) development contract project cost: CU 400,000 (including pre-contract costs of
+CU 15,000) (paragraph 10).
+
+Year 1 Year 2 Year 3
+Cumulative development costs incurred 300,000 400,000 -
+Progress billings 175 ,000 175 ,000 175,000
+Received from customer 175 , 000 1 75,000 175 , 000
+
+## Accounting treatment by the developer (seller)
+
+Para. Description Year 1 Year 2 Year 3
+Dr. Cr. Dr. Cr. Dr. Cr.
+
+6
+
+DC project cost (in-progress)
+(SFP) 300,000 100,000
+Cash (SFP) 300,000 100,000
+[To record asset against cost
+incurred during the period
+(assuming that all cost is paid
+in cash)]
+
+##### 11
+
+Receivable from customer
+(SFP) 175 ,000 175 ,000 175 ,000
+DC progress billing (SFP) 175 ,000 175 ,000 175 ,000^
+[To record progress billing
+(and advance billing) from
+time to time]
+
+15 Cash (SFP) 175 , 000 175 , 000 175 , 000
+Receivable from customer
+(SFP) 175 , 000 175 , 000 175 , 000
+[To record receipt of
+payments from customers
+(assuming that all progress
+billings are received by end of
+year 3)]
+
+Revenue and expense^
+24 DC cost of revenue (SI) 300,000 100,000
+DC project cost (in-progress)
+(SFP) 75,000 25,000 25,000
+18 (a) DC revenue (SI) 375,000 125,000 25,000^
+[To record expense and
+revenue on a stage of
+completion basis – see
+working below]
+
+28 DC progress billing (SFP) 525 ,000^
+
+28
+
+DC project cost (in-progress)
+
+(SFP) (^)
+525 ,000
+[To derecognise the subject-
+matter at the time of delivery
+/ conclusion of the project]
+
+#### Assumption: Stage of completion (at the cash equivalent value) can be measured reliably
+
+Paragraph Year 1 Year 2 Year 3
+18 Stage of completion (300,000/400,000)\*100 =
+75% 25%
+
+##### N/A
+
+18 DC revenue (SI) 500,000\*75% = 375,000 125,000 N/A^26
+15 DC project cost (in-progress)
+(SFP)
+
+##### (500,000-400,000)\*75% =
+
+##### 75,000 25,000
+
+##### N/A
+
+#### Excerpt from statement of financial position at the end of the financial reporting period
+
+Year 1 Year 2 Year 3
+DC project cost (in-progress) (SFP) 375,000 500,000 525,000
+Receivable - - -
+Progress billing 175,000 350,000 525,000
+
+#### Excerpt from statement of income at the end of the financial reporting period
+
+Year 1 Year 2 Year 3
+DC revenue 375,000 125,000 25,000
+DC cost of revenue 300,000 100,000 -
+
+(^26) Stage of completion for year 3 is not relevant, due to the completion of construction within 2 years. The revenue for
+year 3 comprises of the deferred profit allocated for the period.
+
+### Example 3: Parallel Istisna does not exist (onerous contract)
+
+#### Basic data
+
+Development contract revenue: CU 400 ,000 (2-year Istisna-based development contract).
+
+Total estimated development contract project cost commencement of contract: CU 3 00,000 (including pre-
+contract costs of CU 15,000) (paragraph 10).
+
+At the end of year 1, due to inflation, the total estimated development contract project cost increased to CU
+440,000.
+
+Year 1 Year 2
+Cumulative development costs incurred 264 ,000 44 0,000
+Progress billings 280,000 120,000
+Received from customer 230,000 170,000
+
+## Accounting treatment by the developer (seller)
+
+Paragraph Description Year 1 Year 2
+Dr. Cr. Dr. Cr.
+6 DC project cost (in-progress) (SFP) 264 ,000 176 ,000
+Cash (SFP) 264 ,000 176 ,000
+[To record asset against cost incurred during the
+period (assuming that all cost is paid in cash)]
+
+11 Receivable from customer (SFP) 280,000 1 20,000
+DC progress billing (SFP) 280,000 1 20,000
+[To record progress billing (and advance billing)
+from time to time]
+
+15 Cash (SFP) 230,000 1 70,000
+Receivable from customer (SFP) 230,000 1 70,000
+[To record receipt of payments from customers
+(assuming that all progress billings are received)]
+
+Revenue and expense^
+24 DC cost of revenue (SI) 240 ,000 160 ,000
+
+26 DC cost of revenue (onerous loss element) (SI) 40 ,000 - (^)
+18 (a) DC revenue (SI) 240 ,000 160 ,000
+26 Provision for onerous loss (SFP) 40 ,000 -
+[To record expense and revenue on a stage of
+completion basis – see working below]
+[To record onerous loss and provision for
+onerous contract]
+28 DC progress billing (SFP) 4 00,000
+Provision for onerous loss (SFP) 40,000
+28 DC project cost (in-progress) (SFP) 44 0,000
+[To derecognise the subject-matter at the time
+of delivery / conclusion of the project]
+
+#### Assumption: Stage of completion can be measured reliably
+
+Paragraph Year 1 Year 2
+18 Stage of completion ( 264 ,000 / 440 ,000) _
+100 = 60% 40%
+18 DC revenue (SI) 400,000 _ 60% =
+240,000 160,000
+26 Loss (total loss immediately recognised) 40 0,000 - 440 ,000 =
+( 40 ,000)
+
+#### Excerpt from statement of financial position at the end of the financial reporting period
+
+Year 1 Year 2
+DC project cost (in-progress) 264 ,000 440 ,000
+Receivable (280,000 – 230,000) 50,000 -
+Progress billing (280,000) -
+Provision for onerous loss (40,000) -
+
+#### Excerpt from statement of income at the end of the financial reporting period
+
+Year 1 Year 2
+DC revenue 240,000 160,000
+DC cost of revenue 240 ,000 160 ,000
+DC cost of revenue (onerous loss element) 40 ,000 -
+
+## Appendix C: Basis for conclusions
+
+BC1 [to be inserted]
+
+## Appendix D: Brief history of the preparation of the standard
+
+H1 The working group on revision of FAS 7 and FAS 10 in its 1st meeting, held on 23 Shawwal 1445H,
+corresponding to 2 May 2024, discussed the need for revision of the existing standards. The
+members agreed that the revision of both standards would be done simultaneously, with a separate
+standard addressing short-term deferred delivery sales and another standard on long-term
+construction contracts.
+
+H2 AAB, in its 38th meeting held on 2-3 Dhul-Qa’dah 1445H, corresponding to 10-11 May 2024,
+discussed the preliminary study of the revision project and agreed on the structure and content of
+the standards. The board also agreed to the development of the core concepts of the two standards.
+
+H3 The initial draft of the standard was presented in the 4 th and 5 th working group meetings held on 13
+Rabi I 1446H and 2 7 Rabi I 1446H, corresponding to 16 September 2024 and 3 0 September 2024,
+respectively. The members of the working group deliberated on the draft standard and requested
+conclusions to be presented to the board with its recommendations.
+
+H4 The draft standard was presented to AAB in its 40th meeting, held on 4 Rabi II 1446H, corresponding
+to 7 October 2024. In this meeting, the board reviewed the draft and recommendations made by the
+working group. After due deliberations, the exposure draft was approved for issuance.
+
+H5 The exposure draft of the standard was issued, after incorporation of the board and working group
+comments, on 21 Jumada II 1446H, corresponding to 22 December 2024.
