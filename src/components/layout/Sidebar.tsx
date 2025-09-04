@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useNavigate, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import {
   ChevronDown,
   Folder,
@@ -25,6 +25,8 @@ import LogoImage from "@/assets/images/logo.png";
 
 export function Sidebar() {
   const { sessionId } = useParams<{ sessionId: string }>();
+  const [isMainContentVisible, setIsMainContentVisible] =
+    useState<boolean>(true);
 
   const [expandedSections, setExpandedSections] = useState<
     Record<string, boolean>
@@ -37,6 +39,14 @@ export function Sidebar() {
   const navigate = useNavigate();
   const { currentSessionId, setCurrentSession } = useChatStore();
   const { sessions, deleteSession } = useSessions();
+
+  const toggleMainContent = () => {
+    setIsMainContentVisible(!isMainContentVisible);
+  };
+
+  const openMainContent = () => {
+    setIsMainContentVisible(true);
+  };
 
   // Group sessions by date
   const groupedSessions = sessions.reduce<Record<string, typeof sessions>>(
@@ -62,6 +72,7 @@ export function Sidebar() {
   );
 
   const handleNewChat = () => {
+    openMainContent();
     navigate("/");
   };
 
@@ -91,12 +102,15 @@ export function Sidebar() {
   };
 
   return (
-    <div className="h-full w-[18rem] flex bg-background rounded-xl shadow-sm overflow-hidden">
-      {/* Navigation */}
+    <div
+      className="h-full flex bg-background rounded-xl shadow-sm overflow-hidden transition-all duration-300"
+      style={{ width: isMainContentVisible ? "18rem" : "4rem" }}
+    >
+      {/* Sidebar Quick Actions */}
       <div className="pb-4 px-1 border-r border-gray-100 flex flex-col items-center">
         <Button
           variant="ghost"
-          className="w-full h-fit flex justify-center items-center bg-transparent hover:bg-transparent cursor-pointer p-0"
+          className="w-full h-fit flex justify-center items-center bg-transparent hover:bg-transparent cursor-pointer p-0 relative"
           onClick={handleNewChat}
         >
           <img src={LogoImage} alt="Logo" className="h-16 object-cover" />
@@ -106,6 +120,7 @@ export function Sidebar() {
           <Button
             variant="ghost"
             className="w-full h-fit flex-col items-center p-2 text-gray-500 hover:text-islamic-green-500 hidden"
+            onClick={() => openMainContent()}
           >
             <Folder className="h-5 w-5" />
             <span className="text-xs mt-1">Project</span>
@@ -114,6 +129,7 @@ export function Sidebar() {
           <Button
             variant="ghost"
             className="w-full h-fit flex flex-col items-center p-2 text-islamic-green-500 bg-transparent hover:bg-transparent"
+            onClick={() => openMainContent()}
           >
             <MessageSquare className="h-5 w-5" />
             <span className="text-xs mt-1">Chat</span>
@@ -123,13 +139,22 @@ export function Sidebar() {
         <Button
           variant="ghost"
           className="flex flex-col items-center p-2 text-gray-500 hover:text-islamic-green-500"
+          onClick={() => openMainContent()}
         >
           <Settings className="h-5 w-5" />
           <span className="text-xs mt-1"></span>
         </Button>
       </div>
 
-      <div className="w-full h-full flex flex-col">
+      {/* Main Content */}
+      <div
+        className={cn(
+          "h-full flex flex-col transition-all duration-300",
+          isMainContentVisible
+            ? "w-full opacity-100"
+            : "w-0 opacity-0 invisible"
+        )}
+      >
         {/* Header with Logo */}
         <div className="p-4 border-b border-gray-100 flex items-center justify-between">
           <Button
@@ -140,9 +165,18 @@ export function Sidebar() {
               IMF AI
             </span>
           </Button>
-          <div className="h-6 w-6 flex items-center justify-center">
-            <PanelRightOpenIcon className="text-primary" />
-          </div>
+          <Button
+            variant="ghost"
+            className="h-8 w-8 flex items-center justify-center bg-transparent hover:bg-transparent text-primary rounded-md hover:bg-gray-100 p-0"
+            onClick={toggleMainContent}
+          >
+            <PanelRightOpenIcon
+              className={cn(
+                "text-primary transition-transform duration-300",
+                isMainContentVisible ? "" : "transform rotate-180"
+              )}
+            />
+          </Button>
         </div>
 
         {/* New Chat Button */}
