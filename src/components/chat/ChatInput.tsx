@@ -59,44 +59,45 @@ export function ChatInput({
   return (
     <div
       className={cn(
-        "w-full border-t border-islamic-green-200 dark:border-islamic-green-800/25 bg-background p-4",
+        "w-full bg-background border border-gray-100 rounded-lg shadow-lg",
         className
       )}
     >
-      <div className="max-w-4xl mx-auto">
-        <div className="relative flex items-end gap-3">
-          {/* Input Area */}
-          <div className="flex-1 relative">
-            <Textarea
-              ref={textareaRef}
-              value={value}
-              onChange={(e) => onChange(e.target.value)}
-              onKeyDown={handleKeyDown}
-              placeholder={placeholder}
-              disabled={disabled || isLoading}
-              className={cn(
-                "bg-background min-h-[22px] max-h-[120px] resize-none pr-12 py-3",
-                "border-islamic-green-200 focus:border-islamic-green-400 dark:border-islamic-green-800 dark:focus:border-islamic-green-700",
-                "placeholder:text-gray-400/75 dark:placeholder:text-islamic-green-50/50"
-              )}
-              rows={1}
-            />
-
-            {/* Character count */}
-            {value.length > MAX_CHARACTER_COUNT - 200 && (
-              <div className="absolute bottom-2 right-2 text-xs text-islamic-green-400 dark:text-islamic-green-600">
-                {value.length}/{MAX_CHARACTER_COUNT}
-              </div>
+      <div className="max-w-4xl mx-auto flex flex-col items-center">
+        {/* Input Area */}
+        <div className="w-full h-full flex-1 relative">
+          <Textarea
+            ref={textareaRef}
+            value={value}
+            onChange={(e) => onChange(e.target.value)}
+            onKeyDown={handleKeyDown}
+            placeholder={placeholder}
+            disabled={disabled || isLoading}
+            className={cn(
+              "bg-transparent min-h-[22px] max-h-[120px] resize-none pr-12 py-3",
+              "border-none focus:border-none focus-visible:ring-0 focus-visible:ring-offset-0",
+              "outline-none focus:outline-none focus-visible:outline-none",
+              "placeholder:text-gray-400/75 dark:placeholder:text-islamic-green-50/50"
             )}
-          </div>
+            rows={1}
+          />
 
-          {/* Send Button */}
+          {/* Character count */}
+          {value.length > MAX_CHARACTER_COUNT - 200 && (
+            <div className="absolute bottom-2 right-2 text-xs text-islamic-green-400 dark:text-islamic-green-600">
+              {value.length}/{MAX_CHARACTER_COUNT}
+            </div>
+          )}
+        </div>
+
+        {/* Buttons */}
+        <div className="w-full flex items-center justify-end px-2 pb-2">
           <Button
             onClick={handleSubmit}
             disabled={isLoading || disabled || !isValidCharacterCount}
             variant="islamic"
             size="icon"
-            className="h-11 w-11 shrink-0"
+            className="h-8 w-8 flex items-center justify-center shrink-0 rounded-full"
           >
             {isLoading ? (
               <Loader2 className="w-4 h-4 animate-spin" />
@@ -104,15 +105,6 @@ export function ChatInput({
               <Send className="w-4 h-4" />
             )}
           </Button>
-        </div>
-
-        {/* Keyboard Shortcut Hint */}
-        <div className="flex justify-between items-center mt-2 text-xs text-gray-500 dark:text-islamic-green-50/75">
-          <span>Press Enter to send, Shift+Enter for new line</span>
-          <span className="text-islamic-green-400">
-            {value.length > MAX_CHARACTER_COUNT - 200 &&
-              `${MAX_CHARACTER_COUNT - value.length} characters remaining`}
-          </span>
         </div>
       </div>
     </div>

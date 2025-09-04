@@ -35,7 +35,7 @@ export interface QuickAction {
   title: string;
   description: string;
   prompt: string;
-  icon: string;
+  icon: React.ComponentType<{ className?: string }>;
   category: "banking" | "investment" | "contracts" | "general";
 }
 

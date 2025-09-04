@@ -59,7 +59,7 @@ export function WelcomePage() {
               </h1>
             </div>
 
-            <div className="w-full max-w-4xl mb-12">
+            <div className="w-full max-w-4xl mb-6">
               <ChatInput
                 value={inputValue}
                 onChange={setInputValue}
@@ -72,29 +72,19 @@ export function WelcomePage() {
             </div>
 
             <div className="w-full max-w-4xl">
-              <p className="text-center text-islamic-green-700 dark:text-islamic-green-400/80 mb-6 font-medium">
-                Try asking about:
-              </p>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {QUICK_ACTIONS.map((action, index) => (
+              <div className="flex justify-center space-x-2">
+                {QUICK_ACTIONS.map(({ prompt, title, icon: Icon }, index) => (
                   <Button
                     key={index}
                     variant="outline"
-                    className="h-auto p-4 text-left border-islamic-green-200 hover:border-islamic-green-400 hover:bg-islamic-green-50 dark:border-islamic-green-700/25 dark:hover:bg-islamic-green-900/25 dark:hover:border-islamic-green-700/25 transition-all duration-200"
-                    onClick={() => handleQuickAction(action.prompt)}
+                    className="p-3 text-primary bg-background border border-gray-100 rounded-lg shadow-lg"
+                    onClick={() => handleQuickAction(prompt)}
                   >
-                    {action.title}
+                    <Icon className="w-4 h-4 mr-2" /> {title}
                   </Button>
                 ))}
               </div>
             </div>
-          </div>
-
-          <div className="text-center py-6 text-sm text-islamic-green-500 dark:text-islamic-green-700/80">
-            <p>
-              Built with Islamic principles • Sharia-compliant guidance •
-              AI-powered insights
-            </p>
           </div>
         </div>
       </div>

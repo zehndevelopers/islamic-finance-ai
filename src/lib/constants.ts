@@ -1,5 +1,7 @@
 import { QuickAction } from "@/types";
 
+import { BuildingIcon, HelpingHandIcon, TrendingUpIcon } from "lucide-react";
+
 export const QUICK_ACTIONS: QuickAction[] = [
   {
     id: "1",
@@ -7,7 +9,7 @@ export const QUICK_ACTIONS: QuickAction[] = [
     description: "Learn about interest-free loans in Islamic finance",
     prompt:
       "Explain the concept of Qard Hasan and its applications in modern Islamic banking",
-    icon: "HelpingHand",
+    icon: HelpingHandIcon,
     category: "banking",
   },
   {
@@ -15,42 +17,16 @@ export const QUICK_ACTIONS: QuickAction[] = [
     title: "Mudaraba Investment",
     description: "Profit-sharing investment partnerships",
     prompt: "What is Mudaraba and how does it work in Islamic investment?",
-    icon: "TrendingUp",
+    icon: TrendingUpIcon,
     category: "investment",
   },
   {
     id: "3",
-    title: "Musharaka Partnership",
-    description: "Joint venture financing in Islamic finance",
-    prompt:
-      "Explain Musharaka partnership and its structure in Islamic finance",
-    icon: "Users",
-    category: "investment",
-  },
-  {
-    id: "4",
     title: "Ijara Leasing",
     description: "Islamic leasing and rental agreements",
     prompt: "How does Ijara work in Islamic finance and what are its benefits?",
-    icon: "Building",
+    icon: BuildingIcon,
     category: "contracts",
-  },
-  {
-    id: "5",
-    title: "Sukuk Bonds",
-    description: "Islamic bonds and securities",
-    prompt:
-      "What are Sukuk bonds and how do they differ from conventional bonds?",
-    icon: "FileText",
-    category: "investment",
-  },
-  {
-    id: "6",
-    title: "Halal Investment",
-    description: "Sharia-compliant investment guidelines",
-    prompt: "What makes an investment halal according to Islamic principles?",
-    icon: "Shield",
-    category: "investment",
   },
 ];
 

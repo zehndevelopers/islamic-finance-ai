@@ -183,14 +183,14 @@ export function Sidebar() {
         <div className="px-4 pt-4 pb-2 border-b border-gray-100">
           <Button
             onClick={handleNewChat}
-            className="w-full flex justify-between items-center bg-gradient-to-r from-islamic-green-500 to-islamic-green-600 text-white rounded-xl h-10"
+            className="w-full flex justify-between items-center bg-gradient-to-r from-islamic-green-500 to-islamic-green-600 text-white rounded-xl h-12"
           >
             <span className="text-center">New chat</span>
             <div className="flex text-xs">
-              <span className="bg-islamic-green-200/50 py-0.5 px-2 rounded">
+              <span className="bg-islamic-green-200/50 py-1 px-3 rounded">
                 Ctrl
               </span>
-              <span className="bg-islamic-green-200/50 ml-1 py-0.5 px-2 rounded">
+              <span className="bg-islamic-green-200/50 ml-1 py-1 px-3 rounded">
                 I
               </span>
             </div>
