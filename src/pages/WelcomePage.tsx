@@ -54,13 +54,9 @@ export function WelcomePage() {
         <div className="flex flex-col flex-1 items-center justify-center">
           <div className="h-full flex-1 flex flex-col items-center justify-center px-4 py-8">
             <div className="text-center mb-12">
-              <h1 className="text-4xl md:text-5xl font-bold text-islamic-green-800 dark:text-islamic-green-500 mb-4">
-                Islamic Finance AI
+              <h1 className="text-4xl md:text-5xl font-medium text-gray-900 dark:text-gray-100 mb-4">
+                How Can I help you Today?
               </h1>
-              <p className="text-lg md:text-xl text-islamic-green-600 dark:text-islamic-green-400/50 max-w-2xl">
-                Your intelligent assistant for Islamic finance guidance,
-                Sharia-compliant solutions, and financial wisdom.
-              </p>
             </div>
 
             <div className="w-full max-w-4xl mb-12">

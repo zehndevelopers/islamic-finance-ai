@@ -47,12 +47,9 @@ export function WelcomeMessage() {
 
             {/* Welcome Text */}
             <div className="space-y-4">
-              <h1 className="text-3xl font-bold text-islamic-green-800 mb-2">
-                Islamic Finance AI
+              <h1 className="text-3xl font-bold text-gray-900 mb-2">
+                How Can I help you Today?
               </h1>
-              <p className="text-islamic-green-600 text-lg mb-6">
-                Your Expert Sharia-Compliant Financial Consultant
-              </p>
 
               {/* Welcome Message */}
               <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-6 shadow-lg border border-islamic-green-100">
