@@ -1,9 +1,10 @@
 import { useState } from "react";
-import { useNavigate, useParams } from "react-router-dom";
+import { Navigate, useNavigate, useParams } from "react-router-dom";
 import {
   ChevronDown,
   Folder,
   MessageSquare,
+  PanelRightOpenIcon,
   Settings,
   Trash,
 } from "lucide-react";
@@ -23,6 +24,8 @@ import { useSessions } from "@/hooks/useSessions";
 import LogoImage from "@/assets/images/logo.png";
 
 export function Sidebar() {
+  const { sessionId } = useParams<{ sessionId: string }>();
+
   const [expandedSections, setExpandedSections] = useState<
     Record<string, boolean>
   >({
@@ -88,12 +91,17 @@ export function Sidebar() {
   };
 
   return (
-    <div className="h-full w-[18rem] flex bg-background rounded-3xl shadow-sm overflow-hidden">
+    <div className="h-full w-[18rem] flex bg-background rounded-xl shadow-sm overflow-hidden">
       {/* Navigation */}
       <div className="pb-4 px-1 border-r border-gray-100 flex flex-col items-center">
-        <div className="w-full h-fit flex justify-center items-center">
+        <Button
+          variant="ghost"
+          className="w-full h-fit flex justify-center items-center bg-transparent hover:bg-transparent cursor-pointer p-0"
+          onClick={handleNewChat}
+        >
           <img src={LogoImage} alt="Logo" className="h-16 object-cover" />
-        </div>
+        </Button>
+
         <div className="flex flex-col flex-1 items-center">
           <Button
             variant="ghost"
@@ -124,26 +132,33 @@ export function Sidebar() {
       <div className="w-full h-full flex flex-col">
         {/* Header with Logo */}
         <div className="p-4 border-b border-gray-100 flex items-center justify-between">
-          <div className="flex items-center">
+          <Button
+            variant="ghost"
+            className="flex items-center bg-transparent hover:bg-transparent cursor-pointer p-0"
+          >
             <span className="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-b from-primary/50 to-primary">
               IMF AI
             </span>
-          </div>
-          <div className="h-6 w-6 rounded-md border border-gray-200 flex items-center justify-center">
-            {/* Toggle button icon */}
+          </Button>
+          <div className="h-6 w-6 flex items-center justify-center">
+            <PanelRightOpenIcon className="text-primary" />
           </div>
         </div>
 
         {/* New Chat Button */}
-        <div className="px-4 pt-4 pb-2">
+        <div className="px-4 pt-4 pb-2 border-b border-gray-100">
           <Button
             onClick={handleNewChat}
-            className="w-full bg-islamic-green-500 hover:bg-islamic-green-600 text-white rounded-xl h-10"
+            className="w-full flex justify-between items-center bg-gradient-to-r from-islamic-green-500 to-islamic-green-600 text-white rounded-xl h-10"
           >
-            <span className="flex-1 text-center">New chat</span>
-            <div className="flex bg-islamic-green-600/50 py-0.5 px-2 rounded text-xs">
-              <span>Ctrl</span>
-              <span className="ml-1">i</span>
+            <span className="text-center">New chat</span>
+            <div className="flex text-xs">
+              <span className="bg-islamic-green-200/50 py-0.5 px-2 rounded">
+                Ctrl
+              </span>
+              <span className="bg-islamic-green-200/50 ml-1 py-0.5 px-2 rounded">
+                I
+              </span>
             </div>
           </Button>
         </div>

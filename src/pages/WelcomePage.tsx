@@ -48,7 +48,7 @@ export function WelcomePage() {
     <div className="h-screen flex space-x-3 p-3 bg-gradient-to-bl from-islamic-green-800 to-islamic-green-300 dark:from-islamic-green-900/10 dark:to-islamic-teal-900/10">
       <Sidebar />
 
-      <div className="flex flex-col flex-1 p-4 bg-background rounded-2xl overflow-hidden">
+      <div className="flex flex-col flex-1 p-4 bg-background rounded-xl overflow-hidden">
         <Header />
 
         <div className="flex flex-col flex-1 items-center justify-center">
