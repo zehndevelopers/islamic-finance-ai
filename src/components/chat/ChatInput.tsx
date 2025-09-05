@@ -56,7 +56,7 @@ export function ChatInput({
   return (
     <div
       className={cn(
-        "max-w-4xl w-full bg-background border border-gray-100 rounded-lg shadow-lg",
+        "max-w-4xl w-full bg-background dark:bg-gray-800 border border-gray-100 dark:border-gray-800 rounded-lg shadow-lg",
         className,
         { "bg-gray-50 rounded-full shadow-none": isInChat }
       )}
