@@ -97,7 +97,6 @@ export function Header({ className }: HeaderProps) {
         </div>
 
         <div className="flex items-center gap-2">
-          <Input placeholder="Search" />
           <Button
             className="dark:hover:bg-islamic-green-900/25 rounded-full"
             variant="ghost"

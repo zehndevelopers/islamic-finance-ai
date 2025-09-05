@@ -12,6 +12,7 @@ interface ChatInputProps {
   placeholder?: string;
   disabled?: boolean;
   className?: string;
+  isInChat?: boolean;
 }
 
 export function ChatInput({
@@ -22,6 +23,7 @@ export function ChatInput({
   placeholder = "Ask about Islamic finance...",
   disabled = false,
   className,
+  isInChat = false,
 }: ChatInputProps) {
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -51,19 +53,22 @@ export function ChatInput({
     }
   }, [value]);
 
-  const isValidCharacterCount = useMemo(
-    () => value.trim().length > 0 && value.length <= MAX_CHARACTER_COUNT,
-    [value]
-  );
-
   return (
     <div
       className={cn(
-        "w-full bg-background border border-gray-100 rounded-lg shadow-lg",
-        className
+        "max-w-4xl w-full bg-background border border-gray-100 rounded-lg shadow-lg",
+        className,
+        { "bg-gray-50 rounded-full shadow-none": isInChat }
       )}
     >
-      <div className="max-w-4xl mx-auto flex flex-col items-center">
+      <div
+        className={cn(
+          "relative max-w-4xl pb-10 mx-auto flex flex-col items-center",
+          {
+            "pb-0": isInChat,
+          }
+        )}
+      >
         {/* Input Area */}
         <div className="w-full h-full flex-1 relative">
           <Textarea
@@ -74,10 +79,11 @@ export function ChatInput({
             placeholder={placeholder}
             disabled={disabled || isLoading}
             className={cn(
-              "bg-transparent min-h-[22px] max-h-[120px] resize-none pr-12 py-3",
+              "bg-transparent min-h-24 max-h-32 resize-none py-3 pr-3",
               "border-none focus:border-none focus-visible:ring-0 focus-visible:ring-offset-0",
               "outline-none focus:outline-none focus-visible:outline-none",
-              "placeholder:text-gray-400/75 dark:placeholder:text-islamic-green-50/50"
+              "placeholder:text-gray-400/75 dark:placeholder:text-islamic-green-50/50",
+              { "min-h-8 pr-12": isInChat }
             )}
             rows={1}
           />
@@ -91,10 +97,15 @@ export function ChatInput({
         </div>
 
         {/* Buttons */}
-        <div className="w-full flex items-center justify-end px-2 pb-2">
+        <div
+          className={cn(
+            "w-full absolute bottom-0 flex items-center justify-end px-2 py-1.5",
+            { "w-fit right-0": isInChat }
+          )}
+        >
           <Button
             onClick={handleSubmit}
-            disabled={isLoading || disabled || !isValidCharacterCount}
+            disabled={isLoading || disabled}
             variant="islamic"
             size="icon"
             className="h-8 w-8 flex items-center justify-center shrink-0 rounded-full"

@@ -127,6 +127,7 @@ export function ChatMessagesPage() {
             onSubmit={handleSendMessage}
             isLoading={isSending}
             disabled={isSending}
+            isInChat
           />
         </div>
       </div>
