@@ -7,6 +7,7 @@ import {
   PanelRightOpenIcon,
   Settings,
   Trash,
+  UserIcon,
 } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
@@ -22,6 +23,7 @@ import {
 import { useChatStore } from "@/stores/chatStore";
 import { useSessions } from "@/hooks/useSessions";
 import LogoImage from "@/assets/images/logo.png";
+import { Avatar, AvatarFallback } from "../ui/avatar";
 
 export function Sidebar() {
   const { sessionId } = useParams<{ sessionId: string }>();
@@ -76,6 +78,10 @@ export function Sidebar() {
     navigate("/");
   };
 
+  const handleProfileClick = () => {
+    navigate("/profile");
+  };
+
   const handleSelectSession = (selectedSessionId: string) => {
     setCurrentSession(selectedSessionId);
     navigate(`/chat/${selectedSessionId}`);
@@ -107,7 +113,7 @@ export function Sidebar() {
       style={{ width: isMainContentVisible ? "18rem" : "4rem" }}
     >
       {/* Sidebar Quick Actions */}
-      <div className="pb-4 px-1 border-r border-gray-100 flex flex-col items-center">
+      <div className="pb-4 px-1 border-r border-gray-100 dark:border-gray-800 flex flex-col items-center">
         <Button
           variant="ghost"
           className="w-full h-fit flex justify-center items-center bg-transparent hover:bg-transparent cursor-pointer p-0 relative"
@@ -144,6 +150,23 @@ export function Sidebar() {
           <Settings className="h-5 w-5" />
           <span className="text-xs mt-1"></span>
         </Button>
+
+        <Button
+          className="dark:hover:bg-islamic-green-900/25"
+          variant="ghost"
+          size="icon"
+          onClick={handleProfileClick}
+        >
+          <Avatar className={cn("w-8 h-8 shrink-0", "bg-islamic-green-50")}>
+            <AvatarFallback
+              className={cn(
+                "bg-islamic-green-50 dark:bg-islamic-green-900 text-islamic-green-700 dark:text-islamic-green-50"
+              )}
+            >
+              <UserIcon className="w-4 h-4" />
+            </AvatarFallback>
+          </Avatar>
+        </Button>
       </div>
 
       {/* Main Content */}
@@ -156,7 +179,7 @@ export function Sidebar() {
         )}
       >
         {/* Header with Logo */}
-        <div className="p-4 border-b border-gray-100 flex items-center justify-between">
+        <div className="p-4 border-b border-gray-100 dark:border-gray-800 flex items-center justify-between">
           <Button
             variant="ghost"
             className="flex items-center bg-transparent hover:bg-transparent cursor-pointer p-0"
@@ -180,7 +203,7 @@ export function Sidebar() {
         </div>
 
         {/* New Chat Button */}
-        <div className="px-4 pt-4 pb-2 border-b border-gray-100">
+        <div className="px-4 pt-4 pb-2 border-b border-gray-100 dark:border-gray-800">
           <Button
             onClick={handleNewChat}
             className="w-full flex justify-between items-center bg-gradient-to-r from-islamic-green-500 to-islamic-green-600 text-white rounded-xl h-12"
@@ -220,15 +243,15 @@ export function Sidebar() {
                         }))
                       }
                     >
-                      <h3 className="font-medium text-base text-gray-800">
+                      <h3 className="font-medium text-base text-gray-800 dark:text-gray-300">
                         Today
                       </h3>
                       <div className="flex items-center">
-                        <span className="text-sm text-gray-500 mr-1">
+                        <span className="text-sm text-gray-500 dark:text-gray-300 mr-1">
                           12 Total
                         </span>
                         <ChevronDown
-                          className={`h-4 w-4 text-gray-500 transform transition-transform ${
+                          className={`h-4 w-4 text-gray-500 dark:text-gray-300 transform transition-transform ${
                             expandedSections.today ? "" : "-rotate-90"
                           }`}
                         />
@@ -244,12 +267,12 @@ export function Sidebar() {
                                 className={cn(
                                   "py-2 px-2 cursor-pointer rounded-md",
                                   currentSessionId === session.id
-                                    ? "bg-islamic-green-100"
+                                    ? "bg-islamic-green-100 dark:bg-islamic-green-800/25"
                                     : ""
                                 )}
                                 onClick={() => handleSelectSession(session.id)}
                               >
-                                <div className="text-sm text-gray-700">
+                                <div className="text-sm text-gray-700 dark:text-gray-300">
                                   {truncateText(session.title, 30)}
                                 </div>
                               </div>
@@ -285,15 +308,15 @@ export function Sidebar() {
                         }))
                       }
                     >
-                      <h3 className="font-medium text-base text-gray-800">
+                      <h3 className="font-medium text-base text-gray-800 dark:text-gray-300">
                         Yesterday
                       </h3>
                       <div className="flex items-center">
-                        <span className="text-sm text-gray-500 mr-1">
+                        <span className="text-sm text-gray-500 dark:text-gray-300 mr-1">
                           12 Total
                         </span>
                         <ChevronDown
-                          className={`h-4 w-4 text-gray-500 transform transition-transform ${
+                          className={`h-4 w-4 text-gray-500 dark:text-gray-300 transform transition-transform ${
                             expandedSections.yesterday ? "" : "-rotate-90"
                           }`}
                         />
@@ -309,12 +332,12 @@ export function Sidebar() {
                                 className={cn(
                                   "py-2 px-2 cursor-pointer rounded-md",
                                   currentSessionId === session.id
-                                    ? "bg-islamic-green-100"
+                                    ? "bg-islamic-green-100 dark:bg-islamic-green-800/25"
                                     : ""
                                 )}
                                 onClick={() => handleSelectSession(session.id)}
                               >
-                                <div className="text-sm text-gray-700">
+                                <div className="text-sm text-gray-700 dark:text-gray-300">
                                   {truncateText(session.title, 30)}
                                 </div>
                               </div>
@@ -350,15 +373,15 @@ export function Sidebar() {
                         }))
                       }
                     >
-                      <h3 className="font-medium text-base text-gray-800">
+                      <h3 className="font-medium text-base text-gray-800 dark:text-gray-300">
                         12.08.2025
                       </h3>
                       <div className="flex items-center">
-                        <span className="text-sm text-gray-500 mr-1">
+                        <span className="text-sm text-gray-500 dark:text-gray-300 mr-1">
                           12 Total
                         </span>
                         <ChevronDown
-                          className={`h-4 w-4 text-gray-500 transform transition-transform ${
+                          className={`h-4 w-4 text-gray-500 dark:text-gray-300 transform transition-transform ${
                             expandedSections.older ? "" : "-rotate-90"
                           }`}
                         />
@@ -374,12 +397,12 @@ export function Sidebar() {
                                 className={cn(
                                   "py-2 px-2 cursor-pointer rounded-md",
                                   currentSessionId === session.id
-                                    ? "bg-islamic-green-100"
+                                    ? "bg-islamic-green-100 dark:bg-islamic-green-800/25"
                                     : ""
                                 )}
                                 onClick={() => handleSelectSession(session.id)}
                               >
-                                <div className="text-sm text-gray-700">
+                                <div className="text-sm text-gray-700 dark:text-gray-300">
                                   {truncateText(session.title, 30)}
                                 </div>
                               </div>

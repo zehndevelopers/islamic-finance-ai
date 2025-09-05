@@ -4,7 +4,6 @@ import { Button } from "@/components/ui/button";
 import { WelcomeModal } from "@/components/modals/WelcomeModal";
 import { Sun, Moon, Globe, ChevronDownIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { Input } from "../ui/input";
 import {
   DropdownMenu,
   DropdownMenuContent,
