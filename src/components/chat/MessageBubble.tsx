@@ -6,6 +6,7 @@ import { formatTimestamp, isRTL, formatCitation } from "@/lib/utils";
 import { Copy, User, Bot, Check, AlertCircle, Clock } from "lucide-react";
 import { cn } from "@/lib/utils";
 import ReactMarkdown from "react-markdown";
+import AIAvatar from "@/assets/images/ai-avatar.png";
 
 interface MessageBubbleProps {
   message: Message;
@@ -41,25 +42,22 @@ export function MessageBubble({ message, onCopy }: MessageBubbleProps) {
   return (
     <div
       className={cn(
-        "flex gap-3 p-4 pb-8 group hover:bg-islamic-green-50/50 dark:hover:bg-islamic-green-700/5 transition-colors",
+        "flex gap-3 p-4 pb-8 group transition-colors",
         isUser ? "flex-row-reverse" : "flex-row"
       )}
     >
       {/* Avatar */}
-      <Avatar
-        className={cn(
-          "w-8 h-8 shrink-0",
-          isUser ? "bg-islamic-teal-100" : "bg-islamic-green-100"
-        )}
-      >
+      <Avatar className={cn("w-8 h-8 shrink-0")}>
         <AvatarFallback
           className={cn(
-            isUser
-              ? "bg-islamic-teal-100 dark:bg-islamic-teal-900 text-islamic-teal-700 dark:text-islamic-teal-100"
-              : "bg-islamic-green-100 dark:bg-islamic-green-900 text-islamic-green-700 dark:text-islamic-green-100"
+            "bg-gradient-to-b from-islamic-green-600 to-islamic-green-800 text-islamic-green-100"
           )}
         >
-          {isUser ? <User className="w-4 h-4" /> : <Bot className="w-4 h-4" />}
+          {isUser ? (
+            <User className="w-4 h-4" />
+          ) : (
+            <img src={AIAvatar} className="w-4 h-4" />
+          )}
         </AvatarFallback>
       </Avatar>
 
@@ -74,10 +72,15 @@ export function MessageBubble({ message, onCopy }: MessageBubbleProps) {
             isUser ? "justify-end" : "justify-start"
           )}
         >
-          <span className="text-sm font-medium text-islamic-green-800 dark:text-islamic-green-50">
-            {isUser ? "You" : "Islamic Finance AI"}
+          <span
+            className={cn(
+              "text-sm font-medium text-islamic-green-800 dark:text-islamic-green-50",
+              isUser ? "" : "text-gray-800 dark:text-gray-200"
+            )}
+          >
+            {isUser ? "You" : "IMF AI"}
           </span>
-          <span className="text-xs text-muted-foreground">
+          <span className="text-xs text-gray-400 dark:text-gray-600">
             {formatTimestamp(message.timestamp)}
           </span>
           {getStatusIcon()}
@@ -86,10 +89,10 @@ export function MessageBubble({ message, onCopy }: MessageBubbleProps) {
         {/* Message Bubble */}
         <div
           className={cn(
-            "relative inline-block max-w-3xl rounded-2xl px-4 py-3 shadow-sm",
+            "relative inline-block max-w-3xl rounded-2xl px-4 py-3",
             isUser
-              ? "bg-islamic-teal-600 text-white dark:bg-islamic-teal-900 ml-auto"
-              : "bg-background border border-islamic-green-200 dark:border-islamic-green-800/25",
+              ? "bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300 ml-auto"
+              : "bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300 ml-auto",
             isRtl && "text-right font-arabic"
           )}
         >
